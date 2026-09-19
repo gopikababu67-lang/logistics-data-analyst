@@ -1,0 +1,2016 @@
+Shipment_ID,Order_Date,Origin_City,Destination_City,Distance_KM,Weight_KG,Vehicle_Type,Product_Category,Weather,Fuel_Cost_INR,Promised_Days,Actual_Days,Delivery_Status
+SC10000,2025-04-13,Mumbai,Delhi,677.7,123.05,Van,Groceries,Clear,3678.65,3,5.0,Delayed
+SC10001,2025-12-15,Mumbai,Mumbai,150.3,510.25,Van,Furniture,Rain,1002.24,7,4.0,On-Time
+SC10002,2025-09-28,Hyderabad,Hyderabad,765.3,889.77,Bike,Apparel,Rain,4399.86,5,7.0,Delayed
+SC10003,2025-04-17,Delhi,Delhi,304.5,293.28,Heavy Truck,Furniture,Clear,1363.64,4,3.0,On-Time
+SC10004,2025-03-13,Mumbai,Hyderabad,274.7,826.13,Bike,Groceries,Clear,2683.08,3,3.0,On-Time
+SC10005,2025-07-08,Bengaluru,Chennai,54.6,726.01,Mini Truck,Groceries,Clear,3932.65,4,2.0,On-Time
+SC10006,2025-01-21,Bengaluru,Chennai,391.5,235.8,Heavy Truck,Electronics,Clear,1740.79,2,5.0,Delayed
+SC10007,2025-04-13,Chennai,Chennai,91.7,35.01,Bike,Pharma,Clear,2397.02,3,1.0,On-Time
+SC10008,2025-05-02,Delhi,Hyderabad,202.6,97.2,Van,Pharma,Rain,4444.78,2,3.0,Delayed
+SC10009,2025-08-03,Mumbai,Delhi,257.0,692.2,Van,Furniture,Clear,5636.78,5,5.0,On-Time
+SC10010,2025-11-27,Bengaluru,Chennai,648.0,190.09,Bike,Apparel,Clear,3246.08,1,5.0,Delayed
+SC10011,2025-03-29, chennai ,Delhi,701.0,353.02,Bike,Apparel,Clear,208.33,6,5.0,On-Time
+SC10012,2025-04-10,Chennai,Hyderabad,245.5,476.86,Bike,Electronics,Clear,2130.01,7,2.0,On-Time
+SC10013,2025-12-26,Hyderabad,Delhi,687.7,689.33,Mini Truck,Groceries,Rain,2482.01,5,7.0,Delayed
+SC10014,2025-06-01,Delhi,Hyderabad,686.5,108.01,Mini Truck,Electronics,Clear,2134.17,5,5.0,On-Time
+SC10015,2025-05-11,Delhi,Hyderabad,612.9,386.34,Van,Pharma,Clear,2702.17,5,4.0,On-Time
+SC10016,2025-05-30,Hyderabad,Mumbai,121.6,461.08,Mini Truck,Groceries,Storm,3851.1,3,4.0,Delayed
+SC10017,2025-11-05,Delhi,Hyderabad,553.8,514.02,Mini Truck,Electronics,Clear,858.6,2,4.0,Delayed
+SC10018,2025-09-15,Chennai,Hyderabad,756.3,777.53,Heavy Truck,Furniture,Clear,1744.89,6,4.0,On-Time
+SC10019,2025-12-10,Chennai,Bengaluru,547.6,163.51,Mini Truck,Pharma,Clear,3119.74,3,3.0,On-Time
+SC10020,2025-10-21,Hyderabad,Chennai,268.6,767.54,Heavy Truck,Apparel,Storm,1996.1,1,5.0,Delayed
+SC10021,2025-07-11,Mumbai,Mumbai,403.0,658.39,Mini Truck,Electronics,Storm,5947.85,7,6.0,On-Time
+SC10022,2025-10-04,Bengaluru,Mumbai,518.4,528.3,Van,Pharma,Clear,2673.87,7,4.0,On-Time
+SC10023,2025-06-10,Mumbai,Mumbai,410.9,664.7,Bike,Pharma,Clear,5238.33,6,5.0,On-Time
+SC10024,2025-11-10,Delhi,Bengaluru,100.4,391.71,Van,Apparel,Fog,5394.58,7,4.0,On-Time
+SC10025,2025-01-22,Bengaluru,Hyderabad,253.1,131.91,Mini Truck,Apparel,Clear,5040.64,7,2.0,On-Time
+SC10026,2025-09-10,Hyderabad,Chennai,642.9,632.64,Bike,Apparel,Clear,424.35,5,5.0,On-Time
+SC10027,2025-08-24,Hyderabad,Delhi,689.8,498.68,Bike,Electronics,Rain,5694.32,4,6.0,Delayed
+SC10028,2025-12-11,Bengaluru,Hyderabad,114.2,607.59,Bike,Apparel,Clear,903.14,1,2.0,Delayed
+SC10029,2025-02-18,Chennai,Bengaluru,762.1,321.43,Heavy Truck,Furniture,Clear,351.26,2,5.0,Delayed
+SC10030,2025-02-28,Bengaluru,Hyderabad,266.4,861.57,Van,Pharma,Rain,2574.06,1,4.0,Delayed
+SC10031,2025-06-19,Delhi,Hyderabad,531.5,558.21,Heavy Truck,Apparel,Clear,1288.61,3,5.0,Delayed
+SC10032,2025-07-07,Chennai,Bengaluru,602.7,81.59,Bike,Pharma,Clear,1227.55,7,5.0,On-Time
+SC10033,2025-09-28,Hyderabad,Mumbai,650.5,427.59,Van,Groceries,Clear,1833.74,4,6.0,Delayed
+SC10034,2025-07-09,Bengaluru,Mumbai,756.9,718.66,Van,Groceries,Clear,1603.17,3,6.0,Delayed
+SC10035,2025-06-24,Mumbai,Chennai,253.8,754.53,Mini Truck,Apparel,Clear,4156.05,6,4.0,On-Time
+SC10036,2025-02-20,Mumbai,Chennai,687.5,470.12,Heavy Truck,Pharma,Clear,1242.65,5,6.0,Delayed
+SC10037,2025-12-30,Delhi,Mumbai,109.7,850.06,Heavy Truck,Groceries,Rain,3327.24,7,3.0,On-Time
+SC10038,2025-02-24,Mumbai,Delhi,565.5,254.65,Mini Truck,Apparel,Fog,5920.6,5,7.0,Delayed
+SC10039,2025-09-01,Bengaluru,Hyderabad,594.9,390.36,Heavy Truck,Pharma,Clear,2679.44,1,5.0,Delayed
+SC10040,2025-11-16,Bengaluru,Delhi,543.8,853.72,Bike,Apparel,Rain,3904.96,5,7.0,Delayed
+SC10041,2025-05-11,Mumbai,Hyderabad,205.6,851.5,Bike,Pharma,Rain,5820.82,5,3.0,On-Time
+SC10042,2025-11-03,Bengaluru,Mumbai,699.1,651.58,Heavy Truck,Groceries,Rain,955.19,6,6.0,On-Time
+SC10043,2025-05-15,Delhi,Chennai,139.2,816.1,Mini Truck,Apparel,Clear,2598.85,2,2.0,On-Time
+SC10044,2025-01-21,Chennai,Chennai,47.6,84.79,Van,Groceries,Fog,5123.63,2,3.0,Delayed
+SC10045,2025-11-25,Delhi,Delhi,575.4,821.81,Heavy Truck,Apparel,Clear,5603.99,3,6.0,Delayed
+SC10046,2025-06-16,Delhi,Chennai,383.0,304.93,Van,Electronics,Clear,3667.23,7,3.0,On-Time
+SC10047,2025-10-01,Bengaluru,Mumbai,680.0,169.83,Mini Truck,Groceries,Clear,989.01,3,6.0,Delayed
+SC10048,2025-03-30,Chennai,Delhi,309.8,227.78,Van,Groceries,Rain,5423.61,2,3.0,Delayed
+SC10049,2025-11-12, chennai ,Hyderabad,138.8,397.36,Mini Truck,Furniture,Clear,1170.51,1,3.0,Delayed
+SC10050,2025-01-14,Hyderabad,Chennai,670.0,239.01,Mini Truck,Groceries,Clear,2214.34,2,4.0,Delayed
+SC10051,2025-08-30,Bengaluru,Bengaluru,441.4,304.88,Bike,Pharma,Rain,2346.72,3,5.0,Delayed
+SC10052,2025-09-22,Bengaluru,Chennai,155.4,128.66,Bike,Apparel,Fog,2766.66,4,4.0,On-Time
+SC10053,2025-12-12,Bengaluru,Hyderabad,577.7,281.72,Mini Truck,Electronics,Rain,4772.47,7,6.0,On-Time
+SC10054,2025-02-22,Chennai,Delhi,411.3,543.88,Heavy Truck,Pharma,Clear,4842.54,5,3.0,On-Time
+SC10055,2025-12-06,Bengaluru,Hyderabad,485.4,420.04,Bike,Pharma,Clear,4359.98,6,4.0,On-Time
+SC10056,2025-04-02,Chennai,Bengaluru,,,Mini Truck,Pharma,,,4,5.0,Delayed
+SC10057,2025-09-21,Mumbai,Mumbai,663.8,709.26,Van,Pharma,Clear,3454.34,4,6.0,Delayed
+SC10058,2025-02-04,Hyderabad,Chennai,664.5,848.89,Van,Electronics,Rain,4522.83,5,7.0,Delayed
+SC10059,2025-07-25,Chennai,Delhi,569.0,719.07,Heavy Truck,Furniture,Clear,2751.06,2,6.0,Delayed
+SC10060,2025-03-22,Mumbai,Mumbai,88.8,315.73,Van,Groceries,Fog,5677.88,7,2.0,On-Time
+SC10061,2025-02-19,Chennai,Hyderabad,671.9,707.35,Van,Pharma,Clear,4969.29,1,5.0,Delayed
+SC10062,2025-12-26,Chennai,Delhi,538.5,144.81,Mini Truck,Groceries,Clear,3883.21,4,4.0,On-Time
+SC10063,2025-01-02,Hyderabad,Mumbai,559.1,124.24,Van,Groceries,Fog,515.19,1,5.0,Delayed
+SC10064,2025-02-23,Delhi,Delhi,293.6,328.67,Van,Pharma,Clear,3966.23,6,3.0,On-Time
+SC10065,2025-04-16,Delhi,Bengaluru,704.0,767.41,Van,Furniture,Clear,5482.74,6,6.0,On-Time
+SC10066,2025-09-17,Chennai,Bengaluru,581.7,234.41,Van,Groceries,Rain,2369.76,6,6.0,On-Time
+SC10067,2025-11-06,Bengaluru,Chennai,94.5,60.56,Mini Truck,Apparel,Clear,5053.08,3,1.0,On-Time
+SC10068,2025-07-10,Mumbai,Chennai,329.2,125.56,Van,Groceries,Clear,1981.99,4,2.0,On-Time
+SC10069,2025-08-06,Bengaluru,Bengaluru,709.7,815.88,Heavy Truck,Pharma,Clear,3485.1,6,6.0,On-Time
+SC10070,2025-02-13,Bengaluru,Delhi,42.5,602.28,Bike,Electronics,Clear,3943.28,3,2.0,On-Time
+SC10071,2025-06-11,Chennai,Bengaluru,769.3,240.91,Heavy Truck,Groceries,Clear,4116.27,6,6.0,On-Time
+SC10072,2025-07-21,Chennai,Chennai,544.9,527.75,Bike,Furniture,Rain,5312.91,2,5.0,Delayed
+SC10073,2025-09-27,Chennai,Bengaluru,506.9,501.44,Heavy Truck,Apparel,Rain,1522.54,4,5.0,Delayed
+SC10074,2025-12-17,Chennai,Bengaluru,220.1,622.84,Bike,Apparel,Clear,1684.86,3,2.0,On-Time
+SC10075,2025-10-31,Delhi,Delhi,202.8,221.91,Bike,Electronics,Clear,4268.64,6,3.0,On-Time
+SC10076,2025-09-28, chennai ,Mumbai,753.9,821.25,Bike,Electronics,Fog,1186.58,7,7.0,On-Time
+SC10077,2025-08-03,Delhi,Chennai,242.1,294.25,Bike,Groceries,Storm,2865.98,3,4.0,Delayed
+SC10078,2025-09-09,Delhi,Delhi,621.5,659.58,Mini Truck,Pharma,Clear,267.2,6,6.0,On-Time
+SC10079,2025-07-09,Chennai,Bengaluru,317.5,15.81,Heavy Truck,Furniture,Rain,974.73,2,3.0,Delayed
+SC10080,2025-10-23,Hyderabad,Bengaluru,115.7,354.34,Bike,Apparel,Rain,4121.25,1,2.0,Delayed
+SC10081,2025-08-01,Mumbai,Mumbai,13.5,334.45,Heavy Truck,Electronics,Clear,4522.65,6,1.0,On-Time
+SC10082,2025-07-27,Bengaluru,Chennai,437.7,516.54,Van,Furniture,Clear,824.62,1,3.0,Delayed
+SC10083,2025-08-25,Delhi,Chennai,780.7,69.56,Bike,Pharma,Clear,1482.1,4,6.0,Delayed
+SC10084,2025-12-04,Mumbai,Hyderabad,298.5,750.73,Heavy Truck,Apparel,Rain,728.59,2,5.0,Delayed
+SC10085,2025-02-22,Hyderabad,Chennai,289.0,207.28,Mini Truck,Apparel,Rain,2685.47,7,3.0,On-Time
+SC10086,2025-10-07,Bengaluru,Mumbai,278.6,643.35,Heavy Truck,Pharma,Rain,887.78,4,4.0,On-Time
+SC10087,2025-08-05,Bengaluru,Hyderabad,418.8,763.15,Bike,Apparel,Clear,2708.18,7,3.0,On-Time
+SC10088,2025-09-09,Delhi,Hyderabad,355.3,534.0,Van,Pharma,Rain,4432.77,1,3.0,Delayed
+SC10089,2025-07-07,Chennai,Bengaluru,704.5,703.97,Heavy Truck,Apparel,Rain,4147.82,2,7.0,Delayed
+SC10090,2025-02-10,Hyderabad,Bengaluru,406.9,628.94,Van,Groceries,Fog,1790.69,5,4.0,On-Time
+SC10091,2025-06-06,Delhi,Chennai,408.7,338.08,Mini Truck,Pharma,Clear,4091.51,2,3.0,Delayed
+SC10092,2025-01-15,Hyderabad,Hyderabad,115.0,768.51,Heavy Truck,Furniture,Rain,5577.12,2,3.0,Delayed
+SC10093,2025-10-28,Chennai,Bengaluru,786.3,280.32,Heavy Truck,Groceries,Clear,2183.02,7,6.0,On-Time
+SC10094,2025-03-06,Chennai,Mumbai,203.7,542.87,Mini Truck,Furniture,Rain,2075.35,5,4.0,On-Time
+SC10095,2025-12-11,Delhi,Bengaluru,63.3,708.26,Mini Truck,Apparel,Rain,3492.92,3,3.0,On-Time
+SC10096,2025-11-23,Chennai,Bengaluru,532.2,360.32,Mini Truck,Furniture,Clear,1586.19,3,4.0,Delayed
+SC10097,2025-01-09,Mumbai,Hyderabad,478.3,287.98,Bike,Groceries,Rain,3961.74,3,4.0,Delayed
+SC10098,2025-12-10,Bengaluru,Hyderabad,335.0,436.65,Bike,Pharma,Clear,5018.73,1,3.0,Delayed
+SC10099,2025-05-09,Delhi,Delhi,340.6,777.16,Heavy Truck,Electronics,Rain,2837.01,2,4.0,Delayed
+SC10100,2025-05-16,Hyderabad,Mumbai,629.1,883.46,Heavy Truck,Furniture,Clear,4125.12,6,4.0,On-Time
+SC10101,2025-03-04,Mumbai,Hyderabad,160.6,518.06,Heavy Truck,Electronics,Rain,3963.53,5,3.0,On-Time
+SC10102,2025-05-19,Delhi,Chennai,657.1,628.56,Van,Furniture,Fog,376.19,6,6.0,On-Time
+SC10103,2025-03-22,Chennai,Mumbai,520.8,858.16,Mini Truck,Furniture,Clear,1222.99,1,4.0,Delayed
+SC10104,2025-06-12,Chennai,Mumbai,338.1,94.07,Heavy Truck,Pharma,Clear,5377.15,5,3.0,On-Time
+SC10105,2025-10-16,Chennai,Hyderabad,369.1,220.86,Mini Truck,Apparel,Clear,5642.52,6,4.0,On-Time
+SC10106,2025-09-18,Chennai,Mumbai,209.0,673.6,Bike,Groceries,Clear,4715.57,7,3.0,On-Time
+SC10107,2025-08-19,Hyderabad,Hyderabad,602.9,782.65,Mini Truck,Groceries,Clear,5539.3,1,6.0,Delayed
+SC10108,2025-02-10,Mumbai,Bengaluru,412.7,814.25,Van,Groceries,Rain,1940.97,1,4.0,Delayed
+SC10109,2025-01-28,Bengaluru,Delhi,260.1,394.64,Van,Apparel,Fog,1599.11,1,4.0,Delayed
+SC10110,2025-05-15,Hyderabad,Bengaluru,478.9,85.33,Mini Truck,Electronics,Fog,2398.16,5,6.0,Delayed
+SC10111,2025-07-20,Hyderabad,Hyderabad,796.6,416.17,Van,Groceries,Clear,473.75,6,5.0,On-Time
+SC10112,2025-11-24,Bengaluru,Hyderabad,351.0,219.58,Van,Electronics,Rain,4887.75,6,3.0,On-Time
+SC10113,2025-09-25,Bengaluru,Bengaluru,736.9,276.99,Bike,Apparel,Rain,5907.43,4,6.0,Delayed
+SC10114,2025-02-02,Chennai,Chennai,279.3,733.77,Heavy Truck,Apparel,Clear,4970.57,1,5.0,Delayed
+SC10115,2025-02-17,Hyderabad,Chennai,48.5,72.21,Van,Pharma,Clear,3396.61,3,1.0,On-Time
+SC10116,2025-03-03,Delhi,Chennai,167.4,786.29,Heavy Truck,Groceries,Clear,1877.4,2,3.0,Delayed
+SC10117,2025-08-04,Bengaluru,Hyderabad,337.9,406.57,Mini Truck,Pharma,Rain,1306.53,7,4.0,On-Time
+SC10118,2025-10-20,Bengaluru,Mumbai,179.6,566.46,Mini Truck,Groceries,Clear,2279.77,7,2.0,On-Time
+SC10119,2025-04-09,Mumbai,Hyderabad,5.2,85.62,Van,Apparel,Rain,4051.77,4,4.0,On-Time
+SC10120,2025-06-21,Delhi,Mumbai,,,Mini Truck,Apparel,,,4,6.0,Delayed
+SC10121,2025-12-26,Delhi,Bengaluru,675.9,85.67,Bike,Furniture,Storm,5614.25,5,7.0,Delayed
+SC10122,2025-08-02,Bengaluru,Delhi,595.1,913.49,Van,Furniture,Clear,5147.19,4,6.0,Delayed
+SC10123,2025-02-04,Chennai,Mumbai,138.4,766.99,Van,Apparel,Rain,749.04,6,4.0,On-Time
+SC10124,2025-08-15,Mumbai,Chennai,100.7,436.92,Van,Apparel,Clear,919.42,5,3.0,On-Time
+SC10125,2025-04-11,Delhi,Hyderabad,58.7,212.81,Mini Truck,Electronics,Clear,4106.0,5,3.0,On-Time
+SC10126,2025-05-11,Bengaluru,Bengaluru,580.6,886.82,Mini Truck,Electronics,Rain,1500.0,7,5.0,On-Time
+SC10127,2025-09-14,Delhi,Chennai,743.4,327.69,Van,Pharma,Storm,4777.52,7,9.0,Delayed
+SC10128,2025-01-05,Mumbai,Bengaluru,347.3,153.35,Heavy Truck,Furniture,Clear,3609.45,3,3.0,On-Time
+SC10129,2025-08-06,Mumbai,Delhi,99.7,535.22,Mini Truck,Furniture,Clear,1494.51,1,2.0,Delayed
+SC10130,2025-09-12,Hyderabad,Hyderabad,412.4,896.61,Mini Truck,Apparel,Clear,2950.32,4,3.0,On-Time
+SC10131,2025-12-25,Bengaluru,Hyderabad,282.3,4.14,Van,Apparel,Clear,2525.55,1,3.0,Delayed
+SC10132,2025-10-10,Mumbai,Delhi,303.0,226.6,Heavy Truck,Pharma,Clear,5257.98,1,3.0,Delayed
+SC10133,2025-07-26,Hyderabad,Hyderabad,499.0,891.56,Van,Furniture,Rain,338.15,1,5.0,Delayed
+SC10134,2025-01-15,Hyderabad,Mumbai,576.4,162.95,Mini Truck,Electronics,Fog,5390.69,5,6.0,Delayed
+SC10135,2025-12-12,Delhi,Bengaluru,92.9,108.02,Van,Groceries,Clear,3964.68,1,2.0,Delayed
+SC10136,2025-02-11,Delhi,Chennai,33.3,541.89,Van,Pharma,Clear,4464.6,4,3.0,On-Time
+SC10137,2025-06-28,Hyderabad,Delhi,795.5,818.82,Van,Groceries,Clear,165.25,5,5.0,On-Time
+SC10138,2025-03-04,Delhi,Mumbai,190.0,453.52,Heavy Truck,Electronics,Clear,3825.2,4,4.0,On-Time
+SC10139,2025-12-18,Mumbai,Chennai,47.8,944.84,Van,Electronics,Clear,3592.64,5,2.0,On-Time
+SC10140,2025-08-19,Chennai,Chennai,156.0,645.37,Mini Truck,Groceries,Clear,3292.65,2,4.0,Delayed
+SC10141,2025-08-29,Mumbai,Delhi,36.0,70.83,Van,Pharma,Clear,4747.32,2,2.0,On-Time
+SC10142,2025-02-21,Hyderabad,Mumbai,316.5,943.19,Heavy Truck,Groceries,Clear,3401.85,2,4.0,Delayed
+SC10143,2025-04-06,Hyderabad,Chennai,642.9,387.8,Bike,Pharma,Clear,5164.02,2,5.0,Delayed
+SC10144,2025-08-10,Mumbai,Chennai,276.3,273.39,Heavy Truck,Pharma,Clear,1510.89,5,3.0,On-Time
+SC10145,2025-08-19,Delhi,Mumbai,358.1,530.21,Van,Apparel,Clear,4865.0,1,3.0,Delayed
+SC10146,2025-08-25,Delhi,Hyderabad,542.1,289.44,Bike,Furniture,Fog,1198.98,3,5.0,Delayed
+SC10147,2025-05-23, chennai ,Chennai,409.6,82.59,Van,Furniture,Rain,4906.74,7,4.0,On-Time
+SC10148,2025-06-20,Bengaluru,Bengaluru,689.8,1.86,Heavy Truck,Electronics,Fog,5651.71,6,7.0,Delayed
+SC10149,2025-01-29,Delhi,Mumbai,693.5,427.38,VAN,Apparel,Clear,2113.81,3,4.0,Delayed
+SC10150,2025-02-05,Mumbai,Chennai,12.9,795.1,Bike,Furniture,Clear,3249.83,2,3.0,Delayed
+SC10151,2025-01-13,Delhi,Delhi,623.5,543.91,Van,Pharma,Clear,4001.22,1,5.0,Delayed
+SC10152,2025-06-09,Mumbai,Bengaluru,371.3,949.25,Van,Pharma,Clear,614.91,4,5.0,Delayed
+SC10153,2025-11-23,Hyderabad,Chennai,791.1,272.86,Heavy Truck,Groceries,Rain,3040.37,1,7.0,Delayed
+SC10154,2025-07-06,Delhi,Bengaluru,389.2,266.79,Van,Groceries,Clear,2259.42,4,4.0,On-Time
+SC10155,2025-08-31,Mumbai,Bengaluru,789.6,152.18,Bike,Pharma,Clear,5253.87,3,6.0,Delayed
+SC10156,2025-03-27,Hyderabad,Hyderabad,604.9,156.28,Mini Truck,Pharma,Clear,5278.58,1,5.0,Delayed
+SC10157,2025-10-11,Bengaluru,Bengaluru,202.6,271.28,Mini Truck,Groceries,Clear,4249.56,1,3.0,Delayed
+SC10158,2025-03-07,Mumbai,Hyderabad,433.0,753.3,Heavy Truck,Furniture,Storm,3985.99,6,6.0,On-Time
+SC10159,2025-06-19,Bengaluru,Mumbai,793.7,860.52,Van,Electronics,Clear,4442.08,3,6.0,Delayed
+SC10160,2025-02-14,Bengaluru,Hyderabad,686.7,926.35,Heavy Truck,Groceries,Rain,2291.02,1,6.0,Delayed
+SC10161,2025-03-03,Chennai,Delhi,82.4,221.06,Mini Truck,Furniture,Clear,2516.44,4,2.0,On-Time
+SC10162,2025-05-14,Delhi,Chennai,566.6,837.29,Mini Truck,Furniture,Storm,3389.17,7,8.0,Delayed
+SC10163,2025-10-11,Mumbai,Mumbai,279.7,312.18,Van,Furniture,Clear,5637.46,1,3.0,Delayed
+SC10164,2025-01-28,Bengaluru,Mumbai,10.6,107.64,Bike,Apparel,Rain,4385.4,4,3.0,On-Time
+SC10165,2025-04-18,Chennai,Delhi,325.8,826.59,Van,Apparel,Clear,3373.29,2,4.0,Delayed
+SC10166,2025-02-13,Hyderabad,Hyderabad,191.6,604.48,Mini Truck,Furniture,Rain,4656.92,1,3.0,Delayed
+SC10167,2025-12-06,Mumbai,Chennai,656.0,156.91,Bike,Pharma,Clear,2319.71,4,6.0,Delayed
+SC10168,2025-10-13,Bengaluru,Hyderabad,273.2,408.62,Heavy Truck,Apparel,Clear,4423.23,7,3.0,On-Time
+SC10169,2025-11-27, chennai ,Bengaluru,662.9,273.25,Mini Truck,Groceries,Fog,2552.46,3,6.0,Delayed
+SC10170,2025-05-08,Chennai,Hyderabad,5.5,700.09,Heavy Truck,Apparel,Storm,1786.02,2,3.0,Delayed
+SC10171,2025-12-14,Bengaluru,Mumbai,249.7,431.02,Bike,Pharma,Clear,3716.89,1,2.0,Delayed
+SC10172,2025-08-19,Delhi,Chennai,196.7,939.82,Heavy Truck,Electronics,Rain,4168.23,6,4.0,On-Time
+SC10173,2025-07-09,Bengaluru,Hyderabad,190.7,52.48,Mini Truck,Apparel,Clear,2836.87,4,3.0,On-Time
+SC10174,2025-08-13,Mumbai,Chennai,59.2,337.59,Van,Furniture,Rain,3458.18,7,4.0,On-Time
+SC10175,2025-10-10,Mumbai,Chennai,153.8,458.06,Heavy Truck,Furniture,Rain,4210.29,6,3.0,On-Time
+SC10176,2025-05-01,Mumbai,Bengaluru,446.7,478.23,Mini Truck,Furniture,Clear,4641.1,1,5.0,Delayed
+SC10177,2025-04-26,Chennai,Bengaluru,236.6,300.48,Mini Truck,Electronics,Fog,5389.09,4,5.0,Delayed
+SC10178,2025-08-21,Mumbai,Mumbai,336.8,692.91,Bike,Pharma,Rain,2224.08,1,4.0,Delayed
+SC10179,2025-09-16,Delhi,Delhi,304.6,831.07,Mini Truck,Groceries,Clear,5716.14,2,4.0,Delayed
+SC10180,2025-12-25,Bengaluru,Chennai,701.3,891.81,Van,Pharma,Rain,3878.09,7,7.0,On-Time
+SC10181,2025-07-17,Hyderabad,Delhi,724.7,764.94,Van,Electronics,Clear,4758.06,7,7.0,On-Time
+SC10182,2025-05-17,Delhi,Mumbai,396.9,808.13,Heavy Truck,Furniture,Rain,4243.65,2,6.0,Delayed
+SC10183,2025-11-14,Delhi,Chennai,267.5,523.24,Heavy Truck,Pharma,Rain,1352.59,1,5.0,Delayed
+SC10184,2025-06-14,Mumbai,Chennai,89.9,784.68,Heavy Truck,Groceries,Clear,567.91,1,1.0,On-Time
+SC10185,2025-08-13,Chennai,Delhi,763.0,288.68,Heavy Truck,Furniture,Rain,4398.78,5,7.0,Delayed
+SC10186,2025-11-03,Bengaluru,Hyderabad,,,Van,Groceries,,,1,1.0,On-Time
+SC10187,2025-08-22,Chennai,Bengaluru,241.6,301.41,Bike,Apparel,Clear,4257.95,7,3.0,On-Time
+SC10188,2025-06-21,Bengaluru,Hyderabad,242.0,444.28,Heavy Truck,Groceries,Clear,2939.53,1,3.0,Delayed
+SC10189,2025-06-01,Bengaluru,Delhi,259.7,271.66,Bike,Furniture,Clear,1976.57,6,2.0,On-Time
+SC10190,2025-11-11,Chennai,Bengaluru,135.6,913.55,Mini Truck,Apparel,Rain,1817.35,6,3.0,On-Time
+SC10191,2025-06-09,Delhi,Hyderabad,627.6,297.55,Mini Truck,Furniture,Clear,4423.61,2,4.0,Delayed
+SC10192,2025-04-06,Bengaluru,Bengaluru,,,Heavy Truck,Furniture,,,6,1.0,On-Time
+SC10193,2025-08-21,Chennai,Chennai,509.8,500.71,Mini Truck,Apparel,Rain,4330.86,1,5.0,Delayed
+SC10194,2025-06-29,Bengaluru,Hyderabad,103.5,54.72,VAN,Groceries,Clear,2396.17,3,2.0,On-Time
+SC10195,2025-04-23,Hyderabad,Bengaluru,61.1,105.46,Bike,Electronics,Clear,4659.76,1,2.0,Delayed
+SC10196,2025-11-14,Delhi,Bengaluru,728.0,208.81,Mini Truck,Electronics,Clear,985.44,7,5.0,On-Time
+SC10197,2025-02-21,Mumbai,Bengaluru,156.2,441.4,Heavy Truck,Electronics,Rain,1349.13,5,4.0,On-Time
+SC10198,2025-09-25,Bengaluru,Hyderabad,657.9,411.87,Bike,Electronics,Clear,4162.58,4,5.0,Delayed
+SC10199,2025-10-22,Hyderabad,Mumbai,438.0,759.81,Bike,Pharma,Clear,3427.35,7,5.0,On-Time
+SC10200,2025-04-23,Mumbai,Hyderabad,66.9,702.63,Van,Electronics,Clear,1342.69,2,2.0,On-Time
+SC10201,2025-04-11,Mumbai,Delhi,764.6,405.29,Heavy Truck,Apparel,Rain,5431.54,6,8.0,Delayed
+SC10202,2025-04-23,Bengaluru,Hyderabad,201.3,317.35,Van,Electronics,Clear,1764.27,3,3.0,On-Time
+SC10203,2025-03-22,Chennai,Bengaluru,688.4,300.99,Mini Truck,Furniture,Storm,2613.27,7,8.0,Delayed
+SC10204,2025-07-06,Bengaluru,Chennai,139.2,735.41,Mini Truck,Electronics,Rain,1333.38,4,3.0,On-Time
+SC10205,2025-04-23,Hyderabad,Hyderabad,683.9,49.94,Van,Groceries,Fog,2419.96,3,6.0,Delayed
+SC10206,2025-01-02,Mumbai,Hyderabad,15.5,12.67,Heavy Truck,Apparel,Clear,3026.13,2,1.0,On-Time
+SC10207,2025-05-10,Bengaluru,Bengaluru,411.9,755.87,Bike,Apparel,Clear,1877.2,6,6.0,On-Time
+SC10208,2025-08-08,Chennai,Chennai,616.7,453.55,Mini Truck,Pharma,Fog,4649.2,5,6.0,Delayed
+SC10209,2025-02-23,Bengaluru,Chennai,748.2,124.77,Heavy Truck,Furniture,Clear,2454.51,7,5.0,On-Time
+SC10210,2025-12-09,Delhi,Delhi,727.8,224.17,Heavy Truck,Apparel,Clear,4417.63,7,6.0,On-Time
+SC10211,2025-08-12,Chennai,Hyderabad,656.6,885.91,Mini Truck,Groceries,Clear,1361.37,7,6.0,On-Time
+SC10212,2025-08-13,Hyderabad,Chennai,711.1,816.6,Mini Truck,Electronics,Storm,2355.66,2,8.0,Delayed
+SC10213,2025-05-06, chennai ,Chennai,163.4,674.44,Heavy Truck,Apparel,Rain,197.14,3,3.0,On-Time
+SC10214,2025-05-10,Bengaluru,Mumbai,230.9,458.37,Bike,Groceries,Clear,4588.03,3,3.0,On-Time
+SC10215,2025-02-22,Chennai,Mumbai,234.7,494.55,Van,Electronics,Rain,3811.44,2,4.0,Delayed
+SC10216,2025-06-21,Delhi,Chennai,304.8,926.49,Mini Truck,Pharma,Clear,4934.27,7,4.0,On-Time
+SC10217,2025-08-06,Chennai,Delhi,317.7,917.5,Van,Apparel,Rain,2815.32,1,4.0,Delayed
+SC10218,2025-06-09,Delhi,Chennai,437.9,204.9,Heavy Truck,Apparel,Clear,4828.48,2,3.0,Delayed
+SC10219,2025-07-17,Hyderabad,Bengaluru,132.1,770.64,Van,Groceries,Rain,3938.36,6,1.0,On-Time
+SC10220,2025-09-04,Mumbai,Hyderabad,554.5,187.78,Bike,Furniture,Clear,171.14,6,4.0,On-Time
+SC10221,2025-11-20,Hyderabad,Delhi,138.2,203.25,Heavy Truck,Pharma,Clear,1634.11,5,2.0,On-Time
+SC10222,2025-07-22,Bengaluru,Bengaluru,251.7,642.45,Bike,Furniture,Clear,3039.26,2,3.0,Delayed
+SC10223,2025-07-03,Chennai,Delhi,405.2,385.05,Heavy Truck,Apparel,Clear,3769.32,4,4.0,On-Time
+SC10224,2025-05-03,Delhi,Bengaluru,638.2,885.0,Bike,Furniture,Rain,533.71,6,8.0,Delayed
+SC10225,2025-09-12,Delhi,Hyderabad,592.9,85.01,Heavy Truck,Electronics,Clear,4274.72,6,5.0,On-Time
+SC10226,2025-10-21,Chennai,Hyderabad,518.2,486.19,Bike,Pharma,Clear,3329.69,6,4.0,On-Time
+SC10227,2025-10-07,Chennai,Mumbai,128.8,872.64,Heavy Truck,Furniture,Clear,3225.81,1,3.0,Delayed
+SC10228,2025-11-21,Bengaluru,Bengaluru,439.9,858.96,Bike,Electronics,Clear,1858.47,4,5.0,Delayed
+SC10229,2025-04-08,Hyderabad,Mumbai,74.5,149.12,Heavy Truck,Groceries,Clear,3629.72,7,1.0,On-Time
+SC10230,2025-07-17,Delhi,Bengaluru,305.0,348.62,VAN,Furniture,Clear,310.83,7,3.0,On-Time
+SC10231,2025-08-28,Bengaluru,Mumbai,,,Mini Truck,Pharma,,,2,4.0,Delayed
+SC10232,2025-05-24,Hyderabad,Hyderabad,36.7,151.85,Van,Electronics,Clear,4443.14,1,2.0,Delayed
+SC10233,2025-04-07,Bengaluru,Delhi,222.8,919.64,Heavy Truck,Furniture,Clear,2033.06,6,2.0,On-Time
+SC10234,2025-07-20,Delhi,Mumbai,764.7,869.05,Bike,Groceries,Fog,2179.76,7,8.0,Delayed
+SC10235,2025-05-04,Chennai,Bengaluru,763.1,159.02,Mini Truck,Furniture,Rain,1369.05,4,7.0,Delayed
+SC10236,2025-07-06,Chennai,Bengaluru,285.1,115.54,Heavy Truck,Electronics,Clear,2756.88,7,4.0,On-Time
+SC10237,2025-11-22,Hyderabad,Hyderabad,39.3,81.6,Heavy Truck,Furniture,Rain,454.16,4,1.0,On-Time
+SC10238,2025-12-15,Mumbai,Bengaluru,147.4,864.02,Heavy Truck,Pharma,Rain,1907.12,1,3.0,Delayed
+SC10239,2025-09-16,Hyderabad,Chennai,316.8,184.35,Van,Apparel,Clear,3233.67,7,3.0,On-Time
+SC10240,2025-05-28,Mumbai,Delhi,758.5,395.76,Bike,Electronics,Rain,2873.95,6,7.0,Delayed
+SC10241,2025-09-09,Bengaluru,Mumbai,117.3,426.68,Bike,Electronics,Clear,5998.07,1,2.0,Delayed
+SC10242,2025-12-12,Bengaluru,Delhi,612.0,569.26,Heavy Truck,Electronics,Rain,2424.27,3,5.0,Delayed
+SC10243,2025-05-27,Delhi,Hyderabad,91.4,68.61,Heavy Truck,Electronics,Clear,2413.94,6,2.0,On-Time
+SC10244,2025-05-28,Mumbai,Mumbai,785.1,215.81,Heavy Truck,Furniture,Clear,3095.95,1,5.0,Delayed
+SC10245,2025-12-18,Delhi,Mumbai,308.4,884.95,Mini Truck,Pharma,Clear,1263.27,2,4.0,Delayed
+SC10246,2025-07-18,Chennai,Chennai,621.3,863.04,Heavy Truck,Groceries,Storm,5276.38,7,7.0,On-Time
+SC10247,2025-11-04,Mumbai,Hyderabad,277.4,742.34,Van,Pharma,Rain,3497.77,6,4.0,On-Time
+SC10248,2025-05-08,Hyderabad,Bengaluru,504.0,18.92,Bike,Electronics,Clear,1273.83,5,5.0,On-Time
+SC10249,2025-02-08,Chennai,Chennai,157.7,310.99,Van,Furniture,Clear,4791.63,6,4.0,On-Time
+SC10250,2025-12-04,Chennai,Chennai,121.1,596.75,Heavy Truck,Furniture,Clear,350.84,3,3.0,On-Time
+SC10251,2025-12-26,Hyderabad,Delhi,750.8,261.79,Mini Truck,Electronics,Clear,5898.0,1,5.0,Delayed
+SC10252,2025-05-09,Chennai,Delhi,734.5,864.15,Heavy Truck,Furniture,Clear,5211.12,5,7.0,Delayed
+SC10253,2025-09-24,Mumbai,Delhi,710.5,602.38,Heavy Truck,Electronics,Clear,3540.89,3,5.0,Delayed
+SC10254,2025-05-31,Delhi,Chennai,502.2,68.78,Heavy Truck,Pharma,Fog,801.08,2,5.0,Delayed
+SC10255,2025-10-25,Chennai,Bengaluru,647.6,863.6,Heavy Truck,Apparel,Rain,1409.35,6,6.0,On-Time
+SC10256,2025-04-09,Mumbai,Mumbai,59.9,909.9,Heavy Truck,Furniture,Clear,1784.7,7,3.0,On-Time
+SC10257,2025-09-20,Bengaluru,Delhi,271.2,74.29,Bike,Electronics,Clear,1560.04,5,3.0,On-Time
+SC10258,2025-09-09,Mumbai,Bengaluru,254.4,505.98,Van,Electronics,Fog,3060.49,7,5.0,On-Time
+SC10259,2025-05-24,Delhi,Hyderabad,510.3,288.54,Mini Truck,Furniture,Rain,5675.68,1,5.0,Delayed
+SC10260,2025-12-12,Mumbai,Delhi,288.0,373.5,Heavy Truck,Groceries,Rain,2748.41,1,5.0,Delayed
+SC10261,2025-04-22,Hyderabad,Mumbai,123.1,171.08,Mini Truck,Electronics,Storm,4020.15,2,4.0,Delayed
+SC10262,2025-03-01,Delhi,Hyderabad,479.2,549.38,Bike,Furniture,Rain,4178.21,3,5.0,Delayed
+SC10263,2025-01-02,Bengaluru,Hyderabad,652.4,910.1,Van,Electronics,Clear,5248.75,5,6.0,Delayed
+SC10264,2025-10-31,Hyderabad,Mumbai,308.8,478.17,Heavy Truck,Groceries,Clear,347.85,2,4.0,Delayed
+SC10265,2025-09-11,Mumbai,Delhi,110.2,79.23,Bike,Apparel,Storm,2515.33,3,4.0,Delayed
+SC10266,2025-05-20,Delhi,Chennai,161.4,589.19,Bike,Groceries,Clear,4740.7,4,3.0,On-Time
+SC10267,2025-02-06,Bengaluru,Mumbai,193.8,323.54,Van,Pharma,Clear,4916.97,4,1.0,On-Time
+SC10268,2025-06-09,Hyderabad,Mumbai,243.4,813.2,Heavy Truck,Furniture,Clear,5574.9,3,3.0,On-Time
+SC10269,2025-01-09,Bengaluru,Mumbai,516.0,413.23,Van,Groceries,Rain,4261.35,1,5.0,Delayed
+SC10270,2025-08-21,Mumbai,Hyderabad,482.8,183.6,Van,Apparel,Storm,1584.15,1,5.0,Delayed
+SC10271,2025-04-09,Bengaluru,Bengaluru,558.4,181.95,Mini Truck,Electronics,Clear,3108.14,4,4.0,On-Time
+SC10272,2025-05-27,Chennai,Chennai,293.2,730.44,Mini Truck,Furniture,Clear,339.22,1,2.0,Delayed
+SC10273,2025-10-31,Hyderabad,Delhi,660.1,252.68,Van,Groceries,Fog,3934.53,7,6.0,On-Time
+SC10274,2025-07-27,Bengaluru,Delhi,167.2,728.99,Mini Truck,Apparel,Clear,3392.63,1,4.0,Delayed
+SC10275,2025-05-11,Mumbai,Bengaluru,,,Bike,Groceries,,,3,2.0,On-Time
+SC10276,2025-06-01, chennai ,Mumbai,641.7,305.94,Van,Pharma,Fog,5591.32,6,7.0,Delayed
+SC10277,2025-02-23,Bengaluru,Chennai,148.2,442.48,Heavy Truck,Furniture,Clear,4170.57,3,3.0,On-Time
+SC10278,2025-04-30,Mumbai,Delhi,92.3,896.06,Heavy Truck,Electronics,Clear,2024.63,1,4.0,Delayed
+SC10279,2025-06-10,Delhi,Delhi,707.5,885.18,Bike,Apparel,Rain,1312.61,3,7.0,Delayed
+SC10280,2025-04-26,Delhi,Mumbai,277.6,196.92,Heavy Truck,Groceries,Clear,5149.62,5,3.0,On-Time
+SC10281,2025-03-16,Delhi,Bengaluru,548.7,340.63,Heavy Truck,Furniture,Fog,1286.84,4,6.0,Delayed
+SC10282,2025-04-23,Chennai,Chennai,,,Van,Groceries,,,6,1.0,On-Time
+SC10283,2025-04-14,Bengaluru,Bengaluru,553.6,484.73,Bike,Furniture,Clear,1358.68,5,5.0,On-Time
+SC10284,2025-12-06,Chennai,Bengaluru,256.3,437.82,Van,Pharma,Clear,3126.72,5,4.0,On-Time
+SC10285,2025-09-11,Mumbai,Chennai,49.3,855.77,Bike,Groceries,Clear,876.5,1,2.0,Delayed
+SC10286,2025-08-15,Chennai,Chennai,489.8,883.54,Van,Pharma,Rain,5637.99,1,6.0,Delayed
+SC10287,2025-04-22,Mumbai,Delhi,196.4,364.7,Van,Apparel,Rain,5802.58,5,5.0,On-Time
+SC10288,2025-04-09,Mumbai,Delhi,312.5,467.41,Mini Truck,Pharma,Fog,5846.74,5,4.0,On-Time
+SC10289,2025-06-02,Hyderabad,Chennai,69.1,851.48,Heavy Truck,Furniture,Clear,378.88,2,2.0,On-Time
+SC10290,2025-12-15,Delhi,Hyderabad,122.0,766.47,Bike,Apparel,Rain,5685.26,2,3.0,Delayed
+SC10291,2025-12-04,Mumbai,Delhi,241.9,3.97,Heavy Truck,Groceries,Clear,5984.88,7,2.0,On-Time
+SC10292,2025-07-13,Hyderabad,Hyderabad,76.4,304.4,Mini Truck,Groceries,Rain,5663.21,4,3.0,On-Time
+SC10293,2025-11-06,Delhi,Chennai,729.1,400.97,Bike,Furniture,Rain,4074.99,5,6.0,Delayed
+SC10294,2025-06-12,Mumbai,Delhi,9.8,218.62,Mini Truck,Electronics,Clear,4252.2,3,1.0,On-Time
+SC10295,2025-07-27,Mumbai,Bengaluru,389.7,189.99,Heavy Truck,Electronics,Clear,865.18,6,3.0,On-Time
+SC10296,2025-06-18,Chennai,Chennai,103.0,36.38,Van,Groceries,Clear,5264.64,2,2.0,On-Time
+SC10297,2025-06-10,Chennai,Mumbai,249.6,611.38,Mini Truck,Furniture,Clear,498.89,1,3.0,Delayed
+SC10298,2025-03-09,Delhi,Hyderabad,741.2,249.75,Mini Truck,Electronics,Storm,2008.72,5,7.0,Delayed
+SC10299,2025-10-16,Mumbai,Chennai,133.5,50.2,Van,Pharma,Clear,5948.24,3,2.0,On-Time
+SC10300,2025-10-04,Bengaluru,Chennai,772.8,219.81,Heavy Truck,Groceries,Clear,2620.62,6,7.0,Delayed
+SC10301,2025-10-31,Chennai,Delhi,168.6,761.92,Mini Truck,Pharma,Clear,917.26,3,3.0,On-Time
+SC10302,2025-05-15,Delhi,Delhi,594.5,808.99,Heavy Truck,Furniture,Rain,5820.37,7,5.0,On-Time
+SC10303,2025-07-14,Mumbai,Delhi,439.6,459.17,Van,Pharma,Clear,5907.22,3,5.0,Delayed
+SC10304,2025-05-08,Mumbai,Mumbai,,,Bike,Electronics,,,1,5.0,Delayed
+SC10305,2025-02-02,Bengaluru,Delhi,445.4,928.97,Mini Truck,Electronics,Clear,5209.1,2,5.0,Delayed
+SC10306,2025-06-25,Delhi,Chennai,430.0,190.94,Heavy Truck,Apparel,Rain,2433.98,3,4.0,Delayed
+SC10307,2025-01-22,Mumbai,Delhi,160.4,204.98,Van,Groceries,Clear,2381.01,6,2.0,On-Time
+SC10308,2025-08-26,Chennai,Bengaluru,137.2,277.63,Van,Furniture,Rain,1686.78,2,4.0,Delayed
+SC10309,2025-06-07,Bengaluru,Delhi,733.6,164.53,Mini Truck,Groceries,Clear,411.56,7,5.0,On-Time
+SC10310,2025-02-07,Delhi,Mumbai,265.6,360.71,Bike,Pharma,Clear,1717.85,7,3.0,On-Time
+SC10311,2025-08-18,Bengaluru,Bengaluru,300.8,865.34,Mini Truck,Furniture,Clear,464.59,4,3.0,On-Time
+SC10312,2025-12-31,Chennai,Chennai,609.1,584.77,Heavy Truck,Furniture,Clear,5557.58,1,6.0,Delayed
+SC10313,2025-02-20,Delhi,Chennai,274.4,391.64,Van,Electronics,Clear,4021.07,2,2.0,On-Time
+SC10314,2025-09-21,Bengaluru,Hyderabad,761.9,887.72,Bike,Pharma,Clear,5336.74,7,7.0,On-Time
+SC10315,2025-10-10,Hyderabad,Bengaluru,591.7,46.52,Heavy Truck,Electronics,Rain,4346.15,7,5.0,On-Time
+SC10316,2025-01-27,Chennai,Hyderabad,480.0,200.16,Mini Truck,Electronics,Clear,918.03,2,4.0,Delayed
+SC10317,2025-08-14,Chennai,Bengaluru,705.3,537.81,Van,Apparel,Clear,5652.4,3,6.0,Delayed
+SC10318,2025-10-04,Chennai,Bengaluru,44.4,584.97,Mini Truck,Electronics,Fog,5414.37,6,3.0,On-Time
+SC10319,2025-10-13,Hyderabad,Mumbai,209.4,38.06,Bike,Groceries,Clear,2186.25,3,3.0,On-Time
+SC10320,2025-04-07,Hyderabad,Hyderabad,374.7,383.19,Bike,Furniture,Rain,802.47,6,5.0,On-Time
+SC10321,2025-10-11,Mumbai,Mumbai,185.4,616.87,Bike,Electronics,Rain,4269.31,7,3.0,On-Time
+SC10322,2025-11-13,Bengaluru,Bengaluru,596.4,663.32,Bike,Groceries,Clear,4410.91,7,5.0,On-Time
+SC10323,2025-10-31,Mumbai,Chennai,735.8,606.41,Bike,Pharma,Rain,5396.45,1,7.0,Delayed
+SC10324,2025-05-27,Bengaluru,Bengaluru,341.9,304.87,Mini Truck,Furniture,Clear,458.04,2,3.0,Delayed
+SC10325,2025-01-04,Hyderabad,Mumbai,277.0,89.3,Bike,Pharma,Clear,978.97,5,2.0,On-Time
+SC10326,2025-02-04,Hyderabad,Hyderabad,769.4,406.04,Bike,Groceries,Clear,3649.76,7,5.0,On-Time
+SC10327,2025-07-11,Mumbai,Hyderabad,358.7,122.75,Van,Pharma,Clear,3771.92,6,3.0,On-Time
+SC10328,2025-02-18,Delhi,Mumbai,393.8,900.27,Bike,Pharma,Clear,346.62,6,2.0,On-Time
+SC10329,2025-01-17,Mumbai,Hyderabad,284.6,451.67,Van,Pharma,Clear,2472.05,3,2.0,On-Time
+SC10330,2025-06-21,Bengaluru,Delhi,728.1,301.74,Van,Electronics,Clear,3567.35,3,4.0,Delayed
+SC10331,2025-08-08,Mumbai,Chennai,457.3,728.11,Van,Electronics,Clear,4466.78,7,5.0,On-Time
+SC10332,2025-06-07,Chennai,Chennai,610.9,473.3,Mini Truck,Electronics,Clear,1999.48,7,5.0,On-Time
+SC10333,2025-02-15,Bengaluru,Chennai,650.4,294.88,Mini Truck,Furniture,Clear,2980.84,4,5.0,Delayed
+SC10334,2025-01-06,Bengaluru,Hyderabad,276.8,771.46,Heavy Truck,Groceries,Clear,4912.22,6,3.0,On-Time
+SC10335,2025-04-09,Delhi,Hyderabad,349.8,823.86,Heavy Truck,Electronics,Clear,5730.29,1,4.0,Delayed
+SC10336,2025-08-21,Hyderabad,Bengaluru,679.5,639.52,Van,Pharma,Clear,1497.34,2,5.0,Delayed
+SC10337,2025-02-06,Bengaluru,Bengaluru,293.8,45.09,Mini Truck,Pharma,Clear,1630.3,2,3.0,Delayed
+SC10338,2025-10-07,Hyderabad,Chennai,636.2,538.22,Bike,Pharma,Fog,5647.94,2,6.0,Delayed
+SC10339,2025-12-15,Mumbai,Delhi,753.1,725.25,Heavy Truck,Pharma,Rain,2466.08,6,7.0,Delayed
+SC10340,2025-10-29,Chennai,Bengaluru,500.5,130.11,Mini Truck,Apparel,Clear,4352.34,3,4.0,Delayed
+SC10341,2025-06-30,Delhi,Bengaluru,594.6,217.62,Bike,Furniture,Rain,3731.75,1,6.0,Delayed
+SC10342,2025-04-05,Hyderabad,Hyderabad,645.1,838.43,Bike,Groceries,Clear,1820.69,2,6.0,Delayed
+SC10343,2025-04-09,Bengaluru,Delhi,676.8,19.61,Mini Truck,Groceries,Clear,3973.34,6,5.0,On-Time
+SC10344,2025-07-07,Hyderabad,Chennai,319.1,715.21,Heavy Truck,Electronics,Fog,3985.06,5,5.0,On-Time
+SC10345,2025-04-26,Bengaluru,Bengaluru,45.8,450.35,Mini Truck,Apparel,Clear,3615.79,7,2.0,On-Time
+SC10346,2025-07-10,Hyderabad,Delhi,324.5,424.71,Heavy Truck,Groceries,Fog,733.02,4,5.0,Delayed
+SC10347,2025-09-10,Bengaluru,Delhi,540.6,7.24,Van,Furniture,Clear,5971.76,4,4.0,On-Time
+SC10348,2025-06-10,Mumbai,Chennai,363.0,778.52,Mini Truck,Pharma,Clear,2492.44,2,4.0,Delayed
+SC10349,2025-09-13,Bengaluru,Delhi,600.4,342.15,Mini Truck,Electronics,Clear,3883.77,3,5.0,Delayed
+SC10350,2025-11-19,Bengaluru,Delhi,288.8,513.96,Heavy Truck,Furniture,Clear,5331.71,4,4.0,On-Time
+SC10351,2025-05-08,Chennai,Delhi,509.6,643.6,Heavy Truck,Groceries,Clear,2626.24,4,3.0,On-Time
+SC10352,2025-01-18,Bengaluru,Bengaluru,153.2,667.65,Mini Truck,Apparel,Clear,4677.46,4,3.0,On-Time
+SC10353,2025-10-08,Chennai,Chennai,600.7,908.2,Bike,Electronics,Rain,5835.17,4,6.0,Delayed
+SC10354,2025-08-11,Delhi,Delhi,438.8,505.01,Bike,Groceries,Clear,2249.77,2,4.0,Delayed
+SC10355,2025-02-23,Chennai,Delhi,167.2,380.03,Bike,Electronics,Clear,2520.83,6,3.0,On-Time
+SC10356,2025-02-27,Mumbai,Bengaluru,237.1,906.04,Van,Groceries,Clear,5447.62,1,2.0,Delayed
+SC10357,2025-11-19, chennai ,Chennai,600.1,610.18,Van,Pharma,Fog,1083.91,1,6.0,Delayed
+SC10358,2025-12-26,Delhi,Hyderabad,388.7,283.59,Heavy Truck,Apparel,Clear,317.28,3,3.0,On-Time
+SC10359,2025-06-23,Mumbai,Bengaluru,176.7,120.58,Van,Pharma,Clear,5467.0,6,1.0,On-Time
+SC10360,2025-10-07,Hyderabad,Chennai,774.0,800.51,Bike,Groceries,Storm,4956.31,7,8.0,Delayed
+SC10361,2025-04-24,Hyderabad,Delhi,573.5,344.39,Mini Truck,Furniture,Clear,5839.61,5,4.0,On-Time
+SC10362,2025-10-15,Chennai,Chennai,765.9,627.62,Van,Pharma,Clear,490.69,1,7.0,Delayed
+SC10363,2025-12-08,Chennai,Chennai,344.5,447.54,Van,Furniture,Rain,1063.64,5,5.0,On-Time
+SC10364,2025-05-31,Delhi,Chennai,382.7,189.38,Bike,Groceries,Rain,766.08,1,4.0,Delayed
+SC10365,2025-05-07,Delhi,Hyderabad,718.9,571.8,Van,Apparel,Clear,4147.98,1,5.0,Delayed
+SC10366,2025-06-04,Bengaluru,Chennai,422.4,58.12,Heavy Truck,Furniture,Clear,3695.16,3,4.0,Delayed
+SC10367,2025-09-30,Delhi,Hyderabad,,,Mini Truck,Groceries,,,4,6.0,Delayed
+SC10368,2025-04-14,Bengaluru,Delhi,205.5,519.51,Bike,Furniture,Clear,485.93,3,3.0,On-Time
+SC10369,2025-10-26,Mumbai,Hyderabad,360.1,414.53,Heavy Truck,Pharma,Fog,3892.02,1,4.0,Delayed
+SC10370,2025-09-03,Chennai,Delhi,103.1,711.36,Bike,Groceries,Clear,3485.2,6,2.0,On-Time
+SC10371,2025-06-25,Mumbai,Delhi,168.8,786.61,Heavy Truck,Pharma,Clear,810.48,4,3.0,On-Time
+SC10372,2025-02-08,Delhi,Hyderabad,5.8,732.8,Mini Truck,Electronics,Clear,5467.12,6,2.0,On-Time
+SC10373,2025-06-19,Mumbai,Bengaluru,36.2,37.35,Mini Truck,Groceries,Rain,1313.86,6,2.0,On-Time
+SC10374,2025-09-04,Mumbai,Mumbai,781.9,184.83,Heavy Truck,Furniture,Fog,4499.53,6,7.0,Delayed
+SC10375,2025-01-26,Mumbai,Chennai,,,Heavy Truck,Electronics,,,4,4.0,On-Time
+SC10376,2025-12-21,Delhi,Mumbai,532.3,888.11,Heavy Truck,Pharma,Fog,3539.93,6,7.0,Delayed
+SC10377,2025-11-02,Mumbai,Chennai,672.1,793.29,Heavy Truck,Pharma,Clear,1594.07,4,6.0,Delayed
+SC10378,2025-01-13,Bengaluru,Chennai,442.8,800.49,Heavy Truck,Furniture,Clear,1959.1,5,4.0,On-Time
+SC10379,2025-11-12,Delhi,Delhi,126.7,288.4,Heavy Truck,Electronics,Rain,5331.62,7,4.0,On-Time
+SC10380,2025-11-09,Mumbai,Chennai,583.9,408.26,Mini Truck,Apparel,Fog,1894.8,1,6.0,Delayed
+SC10381,2025-02-05,Delhi,Chennai,482.2,447.44,Heavy Truck,Furniture,Rain,4515.21,2,5.0,Delayed
+SC10382,2025-06-22,Hyderabad,Hyderabad,586.3,149.92,Van,Pharma,Rain,5942.47,6,5.0,On-Time
+SC10383,2025-01-20,Bengaluru,Mumbai,616.9,30.0,Mini Truck,Groceries,Clear,5998.93,3,4.0,Delayed
+SC10384,2025-11-17,Mumbai,Hyderabad,780.5,899.58,Bike,Electronics,Clear,3270.86,5,6.0,Delayed
+SC10385,2025-09-21,Hyderabad,Chennai,461.0,229.06,Mini Truck,Apparel,Fog,4985.35,3,4.0,Delayed
+SC10386,2025-05-22,Hyderabad,Delhi,276.6,228.33,Bike,Groceries,Clear,5942.96,2,2.0,On-Time
+SC10387,2025-05-23,Delhi,Hyderabad,520.5,79.67,Bike,Electronics,Clear,2341.84,4,3.0,On-Time
+SC10388,2025-04-02,Hyderabad,Hyderabad,59.4,882.12,Van,Furniture,Rain,1626.6,2,2.0,On-Time
+SC10389,2025-12-20,Bengaluru,Bengaluru,718.4,550.96,Heavy Truck,Furniture,Clear,818.27,3,5.0,Delayed
+SC10390,2025-11-18,Bengaluru,Chennai,99.9,633.85,Heavy Truck,Electronics,Rain,974.26,2,4.0,Delayed
+SC10391,2025-10-15,Chennai,Delhi,265.6,866.04,Mini Truck,Apparel,Clear,5143.3,1,4.0,Delayed
+SC10392,2025-08-03,Bengaluru,Hyderabad,653.5,328.67,Heavy Truck,Electronics,Rain,3594.03,2,5.0,Delayed
+SC10393,2025-12-08,Hyderabad,Hyderabad,479.9,590.62,Van,Groceries,Rain,5261.2,6,5.0,On-Time
+SC10394,2025-02-20,Bengaluru,Delhi,317.9,37.34,Mini Truck,Groceries,Clear,4768.31,1,4.0,Delayed
+SC10395,2025-06-02,Delhi,Chennai,381.4,177.84,VAN,Furniture,Clear,4091.41,6,4.0,On-Time
+SC10396,2025-07-05,Chennai,Bengaluru,684.4,789.77,Mini Truck,Electronics,Clear,3714.48,7,6.0,On-Time
+SC10397,2025-03-04,Hyderabad,Hyderabad,275.3,728.55,Heavy Truck,Furniture,Clear,432.78,7,4.0,On-Time
+SC10398,2025-07-09,Chennai,Bengaluru,696.4,333.44,Heavy Truck,Apparel,Clear,5252.81,2,5.0,Delayed
+SC10399,2025-05-05,Hyderabad,Mumbai,75.1,358.28,Heavy Truck,Groceries,Clear,2594.38,1,2.0,Delayed
+SC10400,2025-05-30,Delhi,Chennai,622.6,507.11,Mini Truck,Pharma,Clear,3424.75,1,4.0,Delayed
+SC10401,2025-11-10,Chennai,Mumbai,678.8,0.73,Mini Truck,Pharma,Clear,278.43,7,5.0,On-Time
+SC10402,2025-02-27,Mumbai,Mumbai,149.5,229.56,Bike,Electronics,Clear,5626.03,2,2.0,On-Time
+SC10403,2025-12-08,Hyderabad,Mumbai,347.1,198.22,Bike,Electronics,Rain,5431.03,5,3.0,On-Time
+SC10404,2025-11-01,Mumbai,Chennai,136.6,238.33,Heavy Truck,Pharma,Clear,3328.18,4,2.0,On-Time
+SC10405,2025-06-29,Chennai,Chennai,566.8,765.71,Mini Truck,Electronics,Fog,3527.27,4,7.0,Delayed
+SC10406,2025-06-19,Mumbai,Delhi,430.6,266.05,Heavy Truck,Groceries,Rain,4274.35,4,5.0,Delayed
+SC10407,2025-11-22,Mumbai,Bengaluru,510.1,182.35,Heavy Truck,Apparel,Rain,1698.47,1,6.0,Delayed
+SC10408,2025-09-28,Chennai,Bengaluru,161.2,479.3,Bike,Apparel,Rain,1448.21,7,3.0,On-Time
+SC10409,2025-02-23,Delhi,Delhi,173.3,822.43,Van,Furniture,Clear,4093.03,4,3.0,On-Time
+SC10410,2025-04-11,Mumbai,Delhi,38.0,229.66,Heavy Truck,Groceries,Rain,760.87,7,1.0,On-Time
+SC10411,2025-09-21,Mumbai,Mumbai,261.0,75.07,Van,Electronics,Clear,2806.26,1,3.0,Delayed
+SC10412,2025-02-22,Delhi,Delhi,450.0,338.91,Van,Electronics,Fog,3032.65,7,5.0,On-Time
+SC10413,2025-03-01,Mumbai,Hyderabad,687.1,710.4,Mini Truck,Furniture,Fog,2380.82,5,6.0,Delayed
+SC10414,2025-04-18,Mumbai,Bengaluru,535.2,523.38,Mini Truck,Furniture,Clear,1233.82,2,4.0,Delayed
+SC10415,2025-01-05,Mumbai,Delhi,351.1,776.05,Heavy Truck,Electronics,Clear,2228.6,7,4.0,On-Time
+SC10416,2025-04-13,Bengaluru,Hyderabad,762.7,911.63,Bike,Electronics,Clear,2124.71,7,7.0,On-Time
+SC10417,2025-07-15,Delhi,Hyderabad,576.8,753.13,Bike,Groceries,Rain,3070.7,2,6.0,Delayed
+SC10418,2025-09-19,Mumbai,Hyderabad,744.5,573.81,Heavy Truck,Furniture,Clear,4096.88,1,5.0,Delayed
+SC10419,2025-12-31,Delhi,Hyderabad,424.4,468.93,VAN,Groceries,Clear,5814.18,1,4.0,Delayed
+SC10420,2025-12-16,Hyderabad,Mumbai,210.8,38.55,Bike,Electronics,Clear,993.36,7,3.0,On-Time
+SC10421,2025-02-16,Hyderabad,Hyderabad,47.0,935.11,Van,Pharma,Clear,5257.15,5,2.0,On-Time
+SC10422,2025-12-21,Mumbai,Mumbai,582.2,364.62,Heavy Truck,Pharma,Storm,1812.44,4,6.0,Delayed
+SC10423,2025-11-07,Delhi,Mumbai,101.4,145.04,Van,Electronics,Rain,3609.53,5,3.0,On-Time
+SC10424,2025-11-04,Delhi,Hyderabad,245.7,633.54,Heavy Truck,Furniture,Clear,3348.41,2,3.0,Delayed
+SC10425,2025-05-24,Delhi,Bengaluru,428.3,270.43,Heavy Truck,Pharma,Clear,3408.15,2,3.0,Delayed
+SC10426,2025-09-26,Bengaluru,Hyderabad,453.7,556.7,Van,Furniture,Clear,4381.65,6,5.0,On-Time
+SC10427,2025-05-04,Hyderabad,Hyderabad,482.5,557.64,Van,Pharma,Clear,2382.88,4,4.0,On-Time
+SC10428,2025-04-16,Delhi,Hyderabad,137.2,423.72,Bike,Furniture,Rain,2016.73,7,3.0,On-Time
+SC10429,2025-06-07,Delhi,Bengaluru,306.9,794.39,Heavy Truck,Pharma,Clear,5139.08,2,4.0,Delayed
+SC10430,2025-05-27,Bengaluru,Chennai,495.7,252.09,Mini Truck,Furniture,Clear,1437.56,6,4.0,On-Time
+SC10431,2025-05-25,Bengaluru,Chennai,776.0,426.48,Mini Truck,Groceries,Fog,1204.44,1,7.0,Delayed
+SC10432,2025-04-30,Delhi,Mumbai,583.5,511.04,Heavy Truck,Furniture,Fog,241.3,2,4.0,Delayed
+SC10433,2025-11-15,Chennai,Mumbai,738.5,630.61,Heavy Truck,Groceries,Clear,1381.88,3,5.0,Delayed
+SC10434,2025-10-02,Delhi,Bengaluru,611.0,744.88,Heavy Truck,Groceries,Clear,3183.41,4,5.0,Delayed
+SC10435,2025-04-02,Delhi,Delhi,475.4,375.37,Van,Electronics,Clear,3300.28,6,4.0,On-Time
+SC10436,2025-02-27,Bengaluru,Chennai,157.7,613.92,Mini Truck,Groceries,Rain,1638.36,4,4.0,On-Time
+SC10437,2025-12-12,Bengaluru,Mumbai,535.0,143.51,Mini Truck,Apparel,Storm,572.8,4,7.0,Delayed
+SC10438,2025-08-17,Delhi,Chennai,500.6,886.05,Mini Truck,Groceries,Clear,4506.15,3,5.0,Delayed
+SC10439,2025-04-27,Delhi,Bengaluru,484.0,364.21,Heavy Truck,Furniture,Clear,4584.16,5,4.0,On-Time
+SC10440,2025-11-14,Delhi,Bengaluru,394.4,693.18,Van,Groceries,Fog,5987.34,1,5.0,Delayed
+SC10441,2025-10-06,Bengaluru,Delhi,425.3,19.81,Heavy Truck,Furniture,Rain,5415.17,4,5.0,Delayed
+SC10442,2025-05-07,Delhi,Delhi,,,Bike,Furniture,,,2,5.0,Delayed
+SC10443,2025-05-09,Delhi,Bengaluru,417.9,462.98,Bike,Apparel,Clear,4819.49,1,4.0,Delayed
+SC10444,2025-02-27,Mumbai,Mumbai,162.1,834.4,Mini Truck,Groceries,Clear,3750.69,2,3.0,Delayed
+SC10445,2025-05-02,Chennai,Chennai,645.1,501.13,Heavy Truck,Groceries,Clear,901.99,1,6.0,Delayed
+SC10446,2025-01-01,Hyderabad,Hyderabad,152.7,883.41,Bike,Pharma,Clear,3790.53,7,2.0,On-Time
+SC10447,2025-08-27,Chennai,Delhi,,,Bike,Pharma,,,1,2.0,Delayed
+SC10448,2025-10-17,Mumbai,Hyderabad,351.8,466.18,Heavy Truck,Electronics,Clear,5329.0,6,3.0,On-Time
+SC10449,2025-04-06,Hyderabad,Mumbai,528.4,114.2,Van,Furniture,Clear,2968.65,2,4.0,Delayed
+SC10450,2025-05-06,Delhi,Delhi,353.0,762.62,Heavy Truck,Apparel,Fog,4230.22,2,5.0,Delayed
+SC10451,2025-04-28,Mumbai,Hyderabad,225.0,234.99,Heavy Truck,Pharma,Clear,455.63,7,2.0,On-Time
+SC10452,2025-02-17,Delhi,Mumbai,448.7,854.68,Van,Groceries,Rain,3275.35,1,6.0,Delayed
+SC10453,2025-03-30,Bengaluru,Chennai,280.9,865.33,Mini Truck,Electronics,Clear,1912.39,4,4.0,On-Time
+SC10454,2025-08-25,Mumbai,Mumbai,746.6,896.17,Mini Truck,Apparel,Rain,1817.06,2,7.0,Delayed
+SC10455,2025-09-29,Bengaluru,Delhi,738.5,494.46,Mini Truck,Groceries,Clear,2429.49,7,5.0,On-Time
+SC10456,2025-07-08,Mumbai,Bengaluru,404.4,643.4,Van,Groceries,Rain,153.74,3,4.0,Delayed
+SC10457,2025-07-11,Mumbai,Chennai,265.7,739.7,Bike,Furniture,Clear,2879.97,3,3.0,On-Time
+SC10458,2025-03-10,Bengaluru,Hyderabad,591.0,124.9,Van,Furniture,Clear,2996.42,1,5.0,Delayed
+SC10459,2025-10-05,Hyderabad,Delhi,34.2,571.11,Heavy Truck,Pharma,Rain,5199.32,5,3.0,On-Time
+SC10460,2025-12-15,Chennai,Bengaluru,382.4,33.07,Van,Pharma,Clear,2773.87,1,3.0,Delayed
+SC10461,2025-09-04,Delhi,Mumbai,272.4,472.94,Bike,Groceries,Clear,2276.8,7,3.0,On-Time
+SC10462,2025-03-17,Mumbai,Bengaluru,736.8,147.52,Bike,Groceries,Fog,5969.27,1,6.0,Delayed
+SC10463,2025-06-03,Delhi,Delhi,14.5,174.19,Heavy Truck,Pharma,Fog,3491.6,4,2.0,On-Time
+SC10464,2025-05-24,Bengaluru,Delhi,444.5,347.11,Mini Truck,Pharma,Clear,2914.79,4,4.0,On-Time
+SC10465,2025-03-27,Delhi,Bengaluru,593.8,411.1,Bike,Groceries,Clear,3051.22,6,5.0,On-Time
+SC10466,2025-07-04,Bengaluru,Mumbai,390.6,592.2,Bike,Apparel,Clear,4883.71,7,4.0,On-Time
+SC10467,2025-10-12,Delhi,Bengaluru,72.9,71.17,Bike,Groceries,Clear,2142.96,5,2.0,On-Time
+SC10468,2025-08-08,Chennai,Delhi,778.1,478.76,Heavy Truck,Apparel,Storm,2426.59,7,8.0,Delayed
+SC10469,2025-03-10,Chennai,Delhi,416.8,173.9,Bike,Apparel,Clear,4571.86,7,4.0,On-Time
+SC10470,2025-02-16,Chennai,Hyderabad,493.3,545.49,Mini Truck,Groceries,Clear,576.95,5,5.0,On-Time
+SC10471,2025-04-04,Chennai,Hyderabad,193.1,605.72,Heavy Truck,Electronics,Storm,5211.24,7,5.0,On-Time
+SC10472,2025-08-26,Chennai,Chennai,389.4,529.1,Mini Truck,Pharma,Clear,2666.69,5,4.0,On-Time
+SC10473,2025-07-23,Chennai,Delhi,346.2,701.51,Bike,Furniture,Rain,3550.56,5,6.0,Delayed
+SC10474,2025-08-06,Bengaluru,Hyderabad,64.5,319.16,Bike,Groceries,Clear,4581.24,5,2.0,On-Time
+SC10475,2025-12-07,Mumbai,Bengaluru,89.4,726.97,Mini Truck,Apparel,Clear,1706.4,7,2.0,On-Time
+SC10476,2025-02-08,Delhi,Mumbai,670.8,411.41,Heavy Truck,Groceries,Clear,5358.34,7,4.0,On-Time
+SC10477,2025-04-10,Chennai,Bengaluru,195.7,460.23,Heavy Truck,Pharma,Clear,5878.47,1,2.0,Delayed
+SC10478,2025-10-16,Bengaluru,Mumbai,160.0,615.87,Mini Truck,Apparel,Clear,3041.51,7,3.0,On-Time
+SC10479,2025-09-11,Bengaluru,Hyderabad,406.4,17.93,Bike,Furniture,Clear,5631.08,1,4.0,Delayed
+SC10480,2025-08-10,Bengaluru,Chennai,616.2,621.47,Van,Furniture,Clear,156.6,6,4.0,On-Time
+SC10481,2025-12-23,Mumbai,Bengaluru,54.2,587.85,Mini Truck,Furniture,Clear,5381.29,3,2.0,On-Time
+SC10482,2025-01-23,Delhi,Bengaluru,463.6,294.7,Mini Truck,Electronics,Clear,1969.62,3,5.0,Delayed
+SC10483,2025-09-07,Mumbai,Bengaluru,99.8,81.96,Mini Truck,Apparel,Clear,1972.25,6,2.0,On-Time
+SC10484,2025-01-10,Hyderabad,Mumbai,34.0,86.84,Bike,Apparel,Clear,1484.32,6,2.0,On-Time
+SC10485,2025-09-03,Bengaluru,Hyderabad,46.9,877.1,Heavy Truck,Electronics,Rain,2004.53,2,3.0,Delayed
+SC10486,2025-11-21,Hyderabad,Bengaluru,668.2,654.97,Bike,Apparel,Clear,1398.88,1,5.0,Delayed
+SC10487,2025-04-10,Chennai,Bengaluru,98.8,121.18,Mini Truck,Electronics,Clear,5449.33,5,2.0,On-Time
+SC10488,2025-10-17,Chennai,Chennai,40.9,339.21,Bike,Groceries,Rain,5409.29,2,3.0,Delayed
+SC10489,2025-06-29,Mumbai,Chennai,353.1,563.06,Bike,Pharma,Clear,747.94,4,3.0,On-Time
+SC10490,2025-08-11,Delhi,Hyderabad,676.0,793.88,Mini Truck,Furniture,Rain,985.72,1,8.0,Delayed
+SC10491,2025-09-07,Hyderabad,Hyderabad,213.6,41.96,Bike,Electronics,Rain,5192.81,7,2.0,On-Time
+SC10492,2025-05-27,Delhi,Delhi,340.3,225.18,Van,Electronics,Clear,2483.79,6,3.0,On-Time
+SC10493,2025-04-06,Mumbai,Chennai,36.7,845.32,Bike,Electronics,Clear,1140.24,3,2.0,On-Time
+SC10494,2025-09-14,Chennai,Delhi,362.0,9.2,Bike,Groceries,Storm,3137.42,1,5.0,Delayed
+SC10495,2025-11-21,Delhi,Mumbai,464.2,191.73,Heavy Truck,Electronics,Clear,2587.51,6,3.0,On-Time
+SC10496,2025-01-04,Delhi,Delhi,458.9,911.09,Heavy Truck,Pharma,Rain,1432.1,1,6.0,Delayed
+SC10497,2025-01-16,Chennai,Bengaluru,269.3,582.93,Mini Truck,Pharma,Clear,4366.4,7,4.0,On-Time
+SC10498,2025-10-07,Hyderabad,Delhi,255.8,248.96,Mini Truck,Furniture,Clear,3843.04,1,3.0,Delayed
+SC10499,2025-12-02,Chennai,Hyderabad,89.8,64.11,Heavy Truck,Groceries,Clear,733.02,7,1.0,On-Time
+SC10500,2025-09-04,Delhi,Mumbai,296.6,27.27,Van,Pharma,Clear,5563.51,1,3.0,Delayed
+SC10501,2025-09-15,Hyderabad,Bengaluru,84.1,232.89,Bike,Apparel,Clear,3417.05,4,2.0,On-Time
+SC10502,2025-06-09,Hyderabad,Delhi,614.4,837.47,Van,Apparel,Rain,1613.7,3,7.0,Delayed
+SC10503,2025-12-06,Chennai,Mumbai,773.2,395.41,Van,Apparel,Fog,1356.81,1,7.0,Delayed
+SC10504,2025-06-01,Delhi,Mumbai,776.2,684.46,Heavy Truck,Electronics,Rain,945.3,6,7.0,Delayed
+SC10505,2025-06-27,Mumbai,Bengaluru,692.7,872.41,Mini Truck,Electronics,Clear,2634.13,4,6.0,Delayed
+SC10506,2025-06-12,Delhi,Delhi,482.6,387.93,Bike,Apparel,Fog,942.91,2,6.0,Delayed
+SC10507,2025-02-02,Bengaluru,Mumbai,562.2,182.12,Mini Truck,Furniture,Rain,2582.53,1,5.0,Delayed
+SC10508,2025-06-28,Mumbai,Mumbai,231.7,491.5,Van,Furniture,Fog,1020.31,7,4.0,On-Time
+SC10509,2025-04-11,Hyderabad,Chennai,506.5,862.73,Van,Electronics,Clear,3992.32,4,5.0,Delayed
+SC10510,2025-09-25,Mumbai,Mumbai,367.2,764.25,Mini Truck,Apparel,Rain,4743.67,5,5.0,On-Time
+SC10511,2025-11-19,Hyderabad,Chennai,388.2,63.01,Mini Truck,Furniture,Clear,3364.71,2,4.0,Delayed
+SC10512,2025-03-06,Hyderabad,Delhi,607.4,658.1,Heavy Truck,Electronics,Clear,4128.33,3,5.0,Delayed
+SC10513,2025-06-17,Mumbai,Delhi,229.1,543.52,Mini Truck,Apparel,Storm,5639.52,1,4.0,Delayed
+SC10514,2025-11-26,Hyderabad,Delhi,257.8,862.14,Mini Truck,Groceries,Clear,3884.47,1,4.0,Delayed
+SC10515,2025-02-12,Hyderabad,Hyderabad,740.1,116.8,Heavy Truck,Apparel,Clear,2280.33,4,5.0,Delayed
+SC10516,2025-02-13,Bengaluru,Delhi,49.7,507.57,Mini Truck,Apparel,Fog,2779.46,3,2.0,On-Time
+SC10517,2025-10-12,Delhi,Mumbai,391.1,835.55,Van,Pharma,Clear,5184.07,5,5.0,On-Time
+SC10518,2025-01-12,Delhi,Bengaluru,730.7,389.82,Mini Truck,Pharma,Fog,914.71,2,7.0,Delayed
+SC10519,2025-04-05,Bengaluru,Chennai,490.2,458.15,Bike,Groceries,Rain,2055.56,6,4.0,On-Time
+SC10520,2025-10-29,Mumbai,Hyderabad,439.4,67.4,Van,Groceries,Clear,3527.09,3,4.0,Delayed
+SC10521,2025-09-10,Chennai,Delhi,203.5,264.6,Heavy Truck,Apparel,Clear,4106.88,1,2.0,Delayed
+SC10522,2025-08-30,Chennai,Delhi,277.9,308.62,Van,Furniture,Rain,4616.47,4,4.0,On-Time
+SC10523,2025-02-04,Chennai,Bengaluru,682.4,897.89,Heavy Truck,Groceries,Clear,2011.51,5,6.0,Delayed
+SC10524,2025-08-03,Bengaluru,Bengaluru,449.6,268.89,Bike,Apparel,Fog,1003.28,4,5.0,Delayed
+SC10525,2025-12-03,Bengaluru,Hyderabad,414.2,438.09,Bike,Electronics,Fog,5735.81,2,4.0,Delayed
+SC10526,2025-03-31,Hyderabad,Chennai,84.2,637.9,Van,Pharma,Clear,596.89,7,1.0,On-Time
+SC10527,2025-09-21,Chennai,Delhi,17.7,154.49,Mini Truck,Furniture,Clear,710.46,7,1.0,On-Time
+SC10528,2025-04-03,Mumbai,Hyderabad,771.1,462.38,Van,Apparel,Fog,3045.41,3,7.0,Delayed
+SC10529,2025-03-31,Mumbai,Mumbai,304.7,701.74,Van,Electronics,Clear,4942.74,4,4.0,On-Time
+SC10530,2025-04-25,Chennai,Mumbai,484.6,823.58,Bike,Pharma,Clear,4680.85,6,5.0,On-Time
+SC10531,2025-04-15,Chennai,Hyderabad,68.4,595.13,Heavy Truck,Electronics,Rain,5635.54,6,4.0,On-Time
+SC10532,2025-07-15,Chennai,Delhi,548.1,635.77,Van,Apparel,Fog,978.38,7,5.0,On-Time
+SC10533,2025-11-10,Bengaluru,Hyderabad,746.4,120.41,Mini Truck,Groceries,Rain,2348.0,7,6.0,On-Time
+SC10534,2025-04-24,Bengaluru,Delhi,462.7,898.51,Bike,Pharma,Clear,1800.53,4,4.0,On-Time
+SC10535,2025-03-16,Bengaluru,Bengaluru,,,Van,Electronics,,,1,3.0,Delayed
+SC10536,2025-08-05,Delhi,Hyderabad,467.5,736.05,Van,Groceries,Rain,3006.87,4,6.0,Delayed
+SC10537,2025-10-04,Mumbai,Delhi,614.2,251.94,Mini Truck,Furniture,Fog,307.06,5,7.0,Delayed
+SC10538,2025-09-06,Mumbai,Hyderabad,328.1,886.95,Van,Apparel,Storm,4291.59,3,6.0,Delayed
+SC10539,2025-06-13,Hyderabad,Hyderabad,704.5,684.1,Van,Apparel,Clear,2423.88,2,6.0,Delayed
+SC10540,2025-12-23,Bengaluru,Delhi,520.7,716.25,Van,Pharma,Rain,3257.21,6,6.0,On-Time
+SC10541,2025-07-11,Delhi,Delhi,719.9,208.5,Van,Electronics,Storm,5378.66,4,7.0,Delayed
+SC10542,2025-08-15,Delhi,Chennai,500.7,421.17,Mini Truck,Furniture,Clear,1651.92,5,4.0,On-Time
+SC10543,2025-06-26,Mumbai,Hyderabad,109.4,587.11,Van,Pharma,Clear,1555.55,7,2.0,On-Time
+SC10544,2025-04-09,Bengaluru,Mumbai,251.2,731.59,Van,Pharma,Fog,1689.68,6,4.0,On-Time
+SC10545,2025-02-05,Hyderabad,Hyderabad,165.4,99.21,Van,Electronics,Clear,2127.93,6,2.0,On-Time
+SC10546,2025-04-06,Bengaluru,Hyderabad,727.5,914.27,Bike,Furniture,Clear,778.02,2,6.0,Delayed
+SC10547,2025-06-01,Chennai,Delhi,609.5,845.76,Mini Truck,Electronics,Clear,4228.74,6,6.0,On-Time
+SC10548,2025-05-31,Bengaluru,Hyderabad,542.7,257.2,Bike,Apparel,Clear,1363.28,5,5.0,On-Time
+SC10549,2025-07-09,Chennai,Hyderabad,244.3,781.71,Bike,Groceries,Clear,5567.95,6,3.0,On-Time
+SC10550,2025-08-12,Chennai,Mumbai,151.3,492.65,Mini Truck,Apparel,Clear,1411.76,6,3.0,On-Time
+SC10551,2025-02-06,Hyderabad,Delhi,606.4,438.99,Bike,Apparel,Storm,1645.51,4,8.0,Delayed
+SC10552,2025-09-25,Mumbai,Hyderabad,382.0,299.06,Bike,Pharma,Rain,1887.57,4,4.0,On-Time
+SC10553,2025-07-02,Bengaluru,Bengaluru,184.5,552.13,Bike,Apparel,Rain,4645.95,7,4.0,On-Time
+SC10554,2025-01-13,Chennai,Chennai,495.2,693.53,Mini Truck,Furniture,Clear,2651.5,3,6.0,Delayed
+SC10555,2025-10-06,Bengaluru,Mumbai,37.1,390.68,Van,Apparel,Rain,4943.11,1,3.0,Delayed
+SC10556,2025-08-05,Mumbai,Hyderabad,264.3,597.94,Heavy Truck,Furniture,Rain,4741.39,5,4.0,On-Time
+SC10557,2025-12-21,Mumbai,Bengaluru,377.5,664.5,Heavy Truck,Electronics,Rain,5587.52,1,4.0,Delayed
+SC10558,2025-12-27,Delhi,Hyderabad,,,Mini Truck,Pharma,,,1,2.0,Delayed
+SC10559,2025-10-13,Mumbai,Hyderabad,787.8,49.84,Heavy Truck,Furniture,Clear,453.68,6,5.0,On-Time
+SC10560,2025-09-30,Hyderabad,Delhi,171.2,816.83,Mini Truck,Apparel,Rain,5048.1,7,4.0,On-Time
+SC10561,2025-03-03,Chennai,Delhi,108.6,435.61,Mini Truck,Pharma,Rain,5637.72,2,2.0,On-Time
+SC10562,2025-03-25,Delhi,Delhi,166.8,249.66,Heavy Truck,Pharma,Rain,5963.08,2,3.0,Delayed
+SC10563,2025-08-05,Hyderabad,Bengaluru,616.4,230.06,Bike,Furniture,Clear,882.82,6,5.0,On-Time
+SC10564,2025-12-08,Bengaluru,Hyderabad,343.3,459.12,Van,Furniture,Clear,3737.65,7,3.0,On-Time
+SC10565,2025-07-06,Chennai,Chennai,454.5,842.55,Heavy Truck,Groceries,Rain,1316.83,5,5.0,On-Time
+SC10566,2025-01-19,Mumbai,Mumbai,21.7,359.74,Heavy Truck,Groceries,Clear,1685.68,1,2.0,Delayed
+SC10567,2025-06-26,Chennai,Delhi,32.4,712.36,Heavy Truck,Pharma,Rain,4511.67,3,3.0,On-Time
+SC10568,2025-04-10,Bengaluru,Delhi,359.4,92.43,Heavy Truck,Groceries,Storm,5869.36,7,5.0,On-Time
+SC10569,2025-08-21,Delhi,Hyderabad,654.2,452.52,Mini Truck,Apparel,Rain,3629.9,1,6.0,Delayed
+SC10570,2025-03-17,Delhi,Hyderabad,708.8,942.11,Mini Truck,Electronics,Clear,5125.92,2,6.0,Delayed
+SC10571,2025-09-22,Delhi,Bengaluru,73.9,732.03,Van,Pharma,Clear,201.97,1,1.0,On-Time
+SC10572,2025-10-11,Mumbai,Bengaluru,433.0,200.4,Van,Electronics,Rain,364.3,4,5.0,Delayed
+SC10573,2025-07-25,Hyderabad,Delhi,,,Heavy Truck,Groceries,,,4,7.0,Delayed
+SC10574,2025-08-11,Hyderabad,Hyderabad,313.4,222.33,Heavy Truck,Furniture,Clear,2425.55,3,3.0,On-Time
+SC10575,2025-02-21,Chennai,Chennai,664.5,389.38,Heavy Truck,Pharma,Clear,5355.08,5,5.0,On-Time
+SC10576,2025-12-05,Mumbai,Mumbai,111.3,741.19,Van,Groceries,Clear,1916.59,1,2.0,Delayed
+SC10577,2025-05-24,Delhi,Hyderabad,,,Heavy Truck,Apparel,,,4,7.0,Delayed
+SC10578,2025-03-10,Delhi,Hyderabad,602.4,217.08,Bike,Pharma,Rain,3238.27,5,5.0,On-Time
+SC10579,2025-04-09,Bengaluru,Bengaluru,753.4,876.15,Van,Pharma,Storm,1747.28,7,7.0,On-Time
+SC10580,2025-01-25,Bengaluru,Mumbai,542.9,563.14,Bike,Furniture,Clear,5464.69,7,5.0,On-Time
+SC10581,2025-02-22,Delhi,Delhi,293.9,361.24,Heavy Truck,Pharma,Rain,2867.52,4,4.0,On-Time
+SC10582,2025-05-31,Delhi,Hyderabad,750.9,477.09,Mini Truck,Furniture,Clear,2631.31,5,5.0,On-Time
+SC10583,2025-05-24,Mumbai,Delhi,224.1,575.02,Bike,Groceries,Clear,5121.06,5,3.0,On-Time
+SC10584,2025-02-26,Hyderabad,Hyderabad,269.1,532.12,Van,Apparel,Rain,1975.07,4,4.0,On-Time
+SC10585,2025-02-08,Bengaluru,Delhi,562.1,462.34,Bike,Apparel,Clear,4932.17,6,5.0,On-Time
+SC10586,2025-04-19,Hyderabad,Mumbai,613.4,479.93,Van,Pharma,Clear,865.3,2,5.0,Delayed
+SC10587,2025-06-30,Mumbai,Bengaluru,,,Heavy Truck,Pharma,,,5,6.0,Delayed
+SC10588,2025-02-11,Delhi,Mumbai,167.8,772.19,Bike,Groceries,Clear,5712.42,7,3.0,On-Time
+SC10589,2025-07-05,Hyderabad,Chennai,639.4,514.9,Mini Truck,Furniture,Clear,5078.32,6,6.0,On-Time
+SC10590,2025-08-11,Delhi,Bengaluru,592.1,124.96,Bike,Apparel,Clear,2419.21,1,4.0,Delayed
+SC10591,2025-05-02,Delhi,Mumbai,55.7,727.97,Mini Truck,Furniture,Clear,3884.97,6,3.0,On-Time
+SC10592,2025-05-13,Chennai,Chennai,312.8,885.86,Van,Groceries,Fog,5666.38,4,5.0,Delayed
+SC10593,2025-06-12,Hyderabad,Hyderabad,229.8,899.97,Heavy Truck,Apparel,Clear,1389.37,6,4.0,On-Time
+SC10594,2025-08-03,Hyderabad,Hyderabad,247.1,350.88,Heavy Truck,Apparel,Rain,495.21,2,3.0,Delayed
+SC10595,2025-08-09,Delhi,Delhi,786.4,129.17,Mini Truck,Electronics,Clear,3294.19,4,5.0,Delayed
+SC10596,2025-08-23,Mumbai,Bengaluru,516.0,492.72,Van,Groceries,Clear,984.19,3,5.0,Delayed
+SC10597,2025-11-27,Chennai,Hyderabad,575.6,107.42,Heavy Truck,Groceries,Clear,1245.82,1,3.0,Delayed
+SC10598,2025-05-26,Delhi,Bengaluru,781.4,887.32,Van,Electronics,Fog,5365.5,7,7.0,On-Time
+SC10599,2025-08-27,Bengaluru,Hyderabad,304.9,174.81,Mini Truck,Furniture,Clear,193.31,3,2.0,On-Time
+SC10600,2025-03-17,Bengaluru,Delhi,642.5,240.5,Mini Truck,Electronics,Rain,4928.4,6,5.0,On-Time
+SC10601,2025-01-09,Chennai,Mumbai,350.5,386.6,Bike,Groceries,Clear,3174.16,5,3.0,On-Time
+SC10602,2025-03-15,Mumbai,Delhi,696.3,364.31,Heavy Truck,Furniture,Storm,3421.87,6,7.0,Delayed
+SC10603,2025-09-10,Delhi,Chennai,148.6,755.03,Heavy Truck,Apparel,Rain,4079.84,7,4.0,On-Time
+SC10604,2025-08-18,Hyderabad,Hyderabad,758.4,433.77,Bike,Electronics,Rain,2673.95,7,6.0,On-Time
+SC10605,2025-01-07,Chennai,Chennai,178.9,162.64,Mini Truck,Furniture,Fog,826.33,5,4.0,On-Time
+SC10606,2025-06-23,Mumbai,Chennai,264.3,254.22,Mini Truck,Furniture,Rain,751.5,3,3.0,On-Time
+SC10607,2025-05-21,Hyderabad,Bengaluru,606.2,483.9,Mini Truck,Furniture,Rain,4563.02,3,5.0,Delayed
+SC10608,2025-06-17,Bengaluru,Hyderabad,318.0,140.51,Mini Truck,Electronics,Clear,1443.06,5,3.0,On-Time
+SC10609,2025-06-19,Bengaluru,Chennai,488.5,581.27,Van,Apparel,Clear,314.39,2,5.0,Delayed
+SC10610,2025-10-10,Hyderabad,Mumbai,358.4,537.68,Heavy Truck,Furniture,Rain,5880.74,1,5.0,Delayed
+SC10611,2025-05-02,Chennai,Chennai,595.2,679.11,Heavy Truck,Electronics,Clear,5885.29,4,4.0,On-Time
+SC10612,2025-07-13,Bengaluru,Mumbai,186.5,890.85,Mini Truck,Groceries,Clear,2362.13,3,3.0,On-Time
+SC10613,2025-01-05,Delhi,Bengaluru,,,Mini Truck,Electronics,,,1,3.0,Delayed
+SC10614,2025-01-29,Hyderabad,Chennai,243.4,898.8,Mini Truck,Electronics,Clear,4404.5,4,4.0,On-Time
+SC10615,2025-06-14,Hyderabad,Delhi,382.1,232.86,Heavy Truck,Electronics,Rain,5011.42,6,5.0,On-Time
+SC10616,2025-12-05,Bengaluru,Bengaluru,138.6,125.42,Heavy Truck,Furniture,Clear,881.33,4,2.0,On-Time
+SC10617,2025-05-16,Chennai,Mumbai,287.1,287.51,Mini Truck,Electronics,Storm,942.43,3,6.0,Delayed
+SC10618,2025-12-31,Delhi,Bengaluru,323.0,850.38,Van,Groceries,Fog,4960.01,2,5.0,Delayed
+SC10619,2025-11-17,Chennai,Chennai,50.6,923.46,Bike,Furniture,Fog,5543.16,2,4.0,Delayed
+SC10620,2025-12-08,Mumbai,Hyderabad,468.7,816.43,Bike,Groceries,Clear,4775.92,1,5.0,Delayed
+SC10621,2025-05-25,Mumbai,Hyderabad,708.1,104.96,Bike,Pharma,Clear,1324.36,6,5.0,On-Time
+SC10622,2025-11-23,Bengaluru,Mumbai,125.6,900.08,Heavy Truck,Electronics,Storm,2557.4,1,5.0,Delayed
+SC10623,2025-08-05,Bengaluru,Mumbai,480.3,402.48,Heavy Truck,Furniture,Fog,3664.93,5,6.0,Delayed
+SC10624,2025-10-28,Bengaluru,Hyderabad,533.5,9.34,Bike,Furniture,Rain,1087.72,2,4.0,Delayed
+SC10625,2025-05-12,Mumbai,Mumbai,338.4,420.55,Bike,Electronics,Clear,1382.02,1,3.0,Delayed
+SC10626,2025-10-19,Chennai,Bengaluru,562.4,44.24,Van,Apparel,Clear,1804.88,5,4.0,On-Time
+SC10627,2025-03-11,Chennai,Delhi,331.5,516.91,Heavy Truck,Apparel,Rain,3130.65,6,4.0,On-Time
+SC10628,2025-09-09,Bengaluru,Delhi,406.2,321.96,Heavy Truck,Groceries,Clear,3138.21,7,4.0,On-Time
+SC10629,2025-10-02,Delhi,Bengaluru,10.8,450.03,Bike,Electronics,Rain,4913.62,4,2.0,On-Time
+SC10630,2025-12-30,Chennai,Delhi,554.9,582.71,Van,Electronics,Rain,4555.11,1,6.0,Delayed
+SC10631,2025-07-01,Mumbai,Chennai,,,Van,Pharma,,,5,6.0,Delayed
+SC10632,2025-06-16,Hyderabad,Bengaluru,35.5,628.98,Bike,Apparel,Clear,5022.48,2,2.0,On-Time
+SC10633,2025-04-01,Hyderabad,Mumbai,297.8,412.63,Bike,Apparel,Clear,1635.18,4,3.0,On-Time
+SC10634,2025-07-21,Hyderabad,Bengaluru,783.3,778.55,Heavy Truck,Electronics,Storm,2088.09,1,9.0,Delayed
+SC10635,2025-12-12,Delhi,Hyderabad,339.5,860.35,Bike,Groceries,Rain,3077.48,2,5.0,Delayed
+SC10636,2025-01-19,Bengaluru,Mumbai,404.0,114.21,Mini Truck,Electronics,Rain,233.49,7,4.0,On-Time
+SC10637,2025-02-08,Mumbai,Hyderabad,728.4,505.57,Van,Groceries,Rain,5437.83,4,5.0,Delayed
+SC10638,2025-05-06,Delhi,Mumbai,575.2,270.64,Bike,Apparel,Rain,409.41,3,6.0,Delayed
+SC10639,2025-06-22,Mumbai,Delhi,467.7,45.18,Mini Truck,Pharma,Rain,2036.28,2,6.0,Delayed
+SC10640,2025-05-21,Mumbai,Bengaluru,639.3,635.29,Van,Furniture,Clear,3479.67,3,5.0,Delayed
+SC10641,2025-08-30,Bengaluru,Chennai,692.2,819.7,Mini Truck,Apparel,Clear,3179.37,6,6.0,On-Time
+SC10642,2025-08-08,Hyderabad,Mumbai,368.2,155.18,Mini Truck,Groceries,Clear,3978.59,1,3.0,Delayed
+SC10643,2025-05-06,Bengaluru,Mumbai,382.7,771.89,Bike,Electronics,Clear,3235.99,7,3.0,On-Time
+SC10644,2025-02-27,Delhi,Hyderabad,311.9,810.8,Van,Apparel,Clear,1489.66,5,3.0,On-Time
+SC10645,2025-05-28,Delhi,Delhi,773.5,868.67,Mini Truck,Pharma,Clear,1326.31,1,7.0,Delayed
+SC10646,2025-11-13,Delhi,Hyderabad,559.2,252.39,Heavy Truck,Groceries,Fog,5457.4,2,6.0,Delayed
+SC10647,2025-12-27,Bengaluru,Hyderabad,71.2,858.8,Van,Electronics,Clear,1694.21,3,2.0,On-Time
+SC10648,2025-01-01,Mumbai,Delhi,691.1,304.97,Heavy Truck,Furniture,Clear,1793.72,3,5.0,Delayed
+SC10649,2025-12-14,Mumbai,Chennai,387.0,524.94,Bike,Groceries,Clear,2565.77,4,5.0,Delayed
+SC10650,2025-07-09,Chennai,Hyderabad,59.7,48.46,Heavy Truck,Electronics,Rain,965.71,1,2.0,Delayed
+SC10651,2025-07-10,Delhi,Hyderabad,442.0,42.17,Van,Furniture,Clear,3117.55,1,3.0,Delayed
+SC10652,2025-11-08,Mumbai,Mumbai,336.6,684.49,Mini Truck,Electronics,Clear,4040.44,2,3.0,Delayed
+SC10653,2025-04-27,Chennai,Delhi,702.8,422.53,Mini Truck,Furniture,Clear,4748.1,3,5.0,Delayed
+SC10654,2025-05-14,Mumbai,Bengaluru,,,Van,Furniture,,,2,3.0,Delayed
+SC10655,2025-02-27,Delhi,Chennai,662.0,181.3,Mini Truck,Furniture,Storm,1013.67,2,7.0,Delayed
+SC10656,2025-02-13,Hyderabad,Chennai,448.4,636.62,Heavy Truck,Electronics,Storm,2817.99,6,6.0,On-Time
+SC10657,2025-06-22,Delhi,Delhi,48.4,0.88,Mini Truck,Furniture,Clear,375.73,3,2.0,On-Time
+SC10658,2025-06-09,Bengaluru,Mumbai,777.6,765.69,Mini Truck,Groceries,Rain,254.12,2,6.0,Delayed
+SC10659,2025-06-22,Mumbai,Mumbai,412.5,75.75,Heavy Truck,Pharma,Clear,2724.76,3,3.0,On-Time
+SC10660,2025-11-13,Mumbai,Delhi,236.2,182.32,Heavy Truck,Pharma,Clear,1629.82,2,2.0,On-Time
+SC10661,2025-10-30,Bengaluru,Mumbai,378.2,367.23,Heavy Truck,Furniture,Clear,4147.66,5,3.0,On-Time
+SC10662,2025-05-29,Bengaluru,Chennai,687.0,460.87,Bike,Pharma,Clear,4386.81,2,5.0,Delayed
+SC10663,2025-03-21,Hyderabad,Chennai,247.4,337.57,Heavy Truck,Pharma,Rain,5388.11,2,4.0,Delayed
+SC10664,2025-08-01,Mumbai,Bengaluru,158.2,305.02,Heavy Truck,Furniture,Clear,4599.99,7,2.0,On-Time
+SC10665,2025-07-22,Mumbai,Delhi,107.6,915.74,Bike,Furniture,Clear,432.23,5,3.0,On-Time
+SC10666,2025-09-09,Hyderabad,Hyderabad,241.8,609.68,Mini Truck,Groceries,Clear,2323.99,1,3.0,Delayed
+SC10667,2025-08-17,Chennai,Hyderabad,625.1,22.75,Heavy Truck,Apparel,Clear,1747.19,3,5.0,Delayed
+SC10668,2025-06-13,Hyderabad,Bengaluru,379.9,408.95,Van,Electronics,Rain,2408.87,7,4.0,On-Time
+SC10669,2025-08-15,Delhi,Bengaluru,185.8,831.32,Heavy Truck,Furniture,Rain,1086.44,4,4.0,On-Time
+SC10670,2025-05-27,Mumbai,Mumbai,137.1,286.73,Heavy Truck,Furniture,Rain,721.57,5,4.0,On-Time
+SC10671,2025-01-20,Bengaluru,Bengaluru,,,Bike,Pharma,,,7,4.0,On-Time
+SC10672,2025-02-16,Delhi,Bengaluru,752.2,720.59,Van,Groceries,Clear,4364.23,1,7.0,Delayed
+SC10673,2025-08-21,Mumbai,Hyderabad,277.7,575.91,Mini Truck,Pharma,Clear,4256.18,2,3.0,Delayed
+SC10674,2025-11-01,Hyderabad,Mumbai,,,Mini Truck,Furniture,,,6,8.0,Delayed
+SC10675,2025-01-14,Delhi,Bengaluru,,,Van,Furniture,,,1,6.0,Delayed
+SC10676,2025-05-23,Mumbai,Bengaluru,147.4,133.9,Heavy Truck,Pharma,Rain,3170.52,5,3.0,On-Time
+SC10677,2025-01-01,Chennai,Mumbai,713.5,591.61,Bike,Furniture,Clear,4195.69,6,5.0,On-Time
+SC10678,2025-02-23,Chennai,Delhi,371.0,197.83,Van,Apparel,Clear,430.36,2,3.0,Delayed
+SC10679,2025-09-16,Bengaluru,Mumbai,569.2,479.11,Van,Electronics,Clear,4302.89,1,4.0,Delayed
+SC10680,2025-05-24,Mumbai,Hyderabad,787.1,517.87,Mini Truck,Electronics,Fog,3555.88,4,7.0,Delayed
+SC10681,2025-01-12,Chennai,Delhi,44.9,269.69,Bike,Electronics,Rain,1308.94,3,2.0,On-Time
+SC10682,2025-11-26,Hyderabad,Chennai,81.9,901.03,Van,Apparel,Fog,436.99,3,4.0,Delayed
+SC10683,2025-08-12,Mumbai,Mumbai,577.8,800.42,Bike,Furniture,Rain,784.89,5,7.0,Delayed
+SC10684,2025-09-29,Hyderabad,Hyderabad,229.1,686.39,Heavy Truck,Pharma,Clear,3219.44,7,3.0,On-Time
+SC10685,2025-12-24,Hyderabad,Delhi,151.5,74.56,Mini Truck,Groceries,Clear,4586.69,2,2.0,On-Time
+SC10686,2025-06-05,Chennai,Mumbai,36.3,101.27,Heavy Truck,Furniture,Clear,2107.75,2,2.0,On-Time
+SC10687,2025-01-08,Mumbai,Bengaluru,22.4,468.4,Bike,Apparel,Clear,2367.87,3,2.0,On-Time
+SC10688,2025-05-02,Delhi,Mumbai,620.7,153.1,Heavy Truck,Apparel,Clear,5614.76,1,5.0,Delayed
+SC10689,2025-12-14,Chennai,Chennai,111.9,929.36,Mini Truck,Electronics,Rain,1396.13,2,4.0,Delayed
+SC10690,2025-06-13,Chennai,Mumbai,376.8,151.01,Bike,Furniture,Rain,756.93,4,4.0,On-Time
+SC10691,2025-03-31,Mumbai,Delhi,486.7,463.35,Van,Electronics,Clear,2158.95,4,4.0,On-Time
+SC10692,2025-05-16,Mumbai,Delhi,345.5,346.23,Heavy Truck,Groceries,Clear,4513.64,2,3.0,Delayed
+SC10693,2025-07-05,Hyderabad,Mumbai,,,Mini Truck,Electronics,,,2,3.0,Delayed
+SC10694,2025-11-12,Mumbai,Delhi,627.9,123.02,Van,Groceries,Rain,2582.4,3,6.0,Delayed
+SC10695,2025-06-27,Hyderabad,Bengaluru,13.4,409.09,Mini Truck,Apparel,Clear,5793.8,5,1.0,On-Time
+SC10696,2025-01-28,Chennai,Mumbai,610.7,261.33,Bike,Electronics,Clear,4449.73,3,6.0,Delayed
+SC10697,2025-08-08,Bengaluru,Bengaluru,715.2,843.42,Bike,Electronics,Fog,511.89,5,8.0,Delayed
+SC10698,2025-12-23,Delhi,Bengaluru,349.1,39.04,Heavy Truck,Pharma,Clear,4506.09,4,3.0,On-Time
+SC10699,2025-02-10,Chennai,Hyderabad,430.8,868.08,Mini Truck,Apparel,Clear,290.63,5,5.0,On-Time
+SC10700,2025-08-16,Mumbai,Mumbai,384.2,791.43,Mini Truck,Pharma,Rain,3954.39,3,4.0,Delayed
+SC10701,2025-07-11,Delhi,Delhi,314.4,283.04,Mini Truck,Groceries,Rain,1381.32,2,4.0,Delayed
+SC10702,2025-05-25,Bengaluru,Bengaluru,710.5,749.93,Bike,Groceries,Rain,4224.19,5,7.0,Delayed
+SC10703,2025-07-20,Bengaluru,Hyderabad,715.7,30.14,Heavy Truck,Apparel,Clear,1962.21,3,5.0,Delayed
+SC10704,2025-07-31,Hyderabad,Mumbai,272.0,918.54,Mini Truck,Groceries,Clear,5257.09,4,2.0,On-Time
+SC10705,2025-08-08,Delhi,Mumbai,494.0,500.5,Mini Truck,Apparel,Rain,2120.95,6,5.0,On-Time
+SC10706,2025-08-28,Hyderabad,Chennai,741.9,288.47,Van,Groceries,Clear,3775.22,5,5.0,On-Time
+SC10707,2025-02-15,Chennai,Chennai,769.8,344.77,Mini Truck,Furniture,Rain,1822.68,4,6.0,Delayed
+SC10708,2025-02-04,Delhi,Bengaluru,409.6,63.55,Heavy Truck,Electronics,Fog,5515.75,4,5.0,Delayed
+SC10709,2025-09-10,Chennai,Chennai,365.0,939.89,Van,Furniture,Fog,4718.83,1,6.0,Delayed
+SC10710,2025-03-23,Hyderabad,Bengaluru,226.6,37.81,Van,Apparel,Clear,1573.32,6,1.0,On-Time
+SC10711,2025-09-13,Delhi,Delhi,767.3,622.33,Van,Apparel,Clear,5700.46,5,7.0,Delayed
+SC10712,2025-07-16,Hyderabad,Bengaluru,118.5,420.88,Bike,Furniture,Clear,2239.37,3,3.0,On-Time
+SC10713,2025-10-30,Delhi,Chennai,466.0,901.5,Van,Electronics,Rain,3963.41,5,4.0,On-Time
+SC10714,2025-01-10,Hyderabad,Delhi,229.6,234.08,Mini Truck,Electronics,Clear,4495.69,5,3.0,On-Time
+SC10715,2025-11-08,Bengaluru,Chennai,226.8,505.72,Bike,Pharma,Clear,283.98,6,3.0,On-Time
+SC10716,2025-10-13,Hyderabad,Bengaluru,327.0,458.5,Bike,Groceries,Clear,5759.96,7,4.0,On-Time
+SC10717,2025-08-30,Bengaluru,Hyderabad,799.0,667.87,Bike,Pharma,Clear,2164.98,4,6.0,Delayed
+SC10718,2025-09-08,Hyderabad,Mumbai,,,Bike,Electronics,,,4,2.0,On-Time
+SC10719,2025-12-31,Delhi,Chennai,464.9,184.5,Bike,Furniture,Clear,5126.64,4,4.0,On-Time
+SC10720,2025-01-05,Delhi,Bengaluru,70.6,204.23,Bike,Groceries,Rain,4261.96,4,2.0,On-Time
+SC10721,2025-04-29,Delhi,Delhi,127.8,701.37,Bike,Furniture,Clear,657.45,6,2.0,On-Time
+SC10722,2025-10-16,Mumbai,Chennai,354.5,180.09,Van,Pharma,Clear,834.71,3,2.0,On-Time
+SC10723,2025-03-06,Chennai,Chennai,410.8,545.03,Heavy Truck,Apparel,Rain,4333.87,2,5.0,Delayed
+SC10724,2025-05-26,Delhi,Mumbai,210.7,204.87,Mini Truck,Furniture,Rain,587.48,1,3.0,Delayed
+SC10725,2025-08-12,Bengaluru,Bengaluru,256.6,818.61,Mini Truck,Pharma,Clear,5515.48,7,2.0,On-Time
+SC10726,2025-08-27,Delhi,Hyderabad,74.1,895.11,Van,Pharma,Clear,4488.01,7,2.0,On-Time
+SC10727,2025-06-26,Mumbai,Delhi,246.1,492.81,Van,Pharma,Rain,2112.63,4,4.0,On-Time
+SC10728,2025-09-24,Bengaluru,Bengaluru,773.4,335.02,Bike,Apparel,Clear,2273.19,4,5.0,Delayed
+SC10729,2025-12-07,Mumbai,Delhi,,,Heavy Truck,Apparel,,,1,5.0,Delayed
+SC10730,2025-10-09,Bengaluru,Chennai,,,Bike,Apparel,,,4,3.0,On-Time
+SC10731,2025-03-04,Hyderabad,Mumbai,458.8,255.44,VAN,Groceries,Clear,4733.29,2,2.0,On-Time
+SC10732,2025-08-05,Chennai,Mumbai,728.1,621.7,Bike,Apparel,Clear,5852.21,7,5.0,On-Time
+SC10733,2025-12-08,Chennai,Hyderabad,9.9,507.17,Mini Truck,Apparel,Fog,3569.45,5,3.0,On-Time
+SC10734,2025-11-11,Mumbai,Mumbai,649.5,896.87,Mini Truck,Apparel,Rain,2759.32,1,6.0,Delayed
+SC10735,2025-10-10,Chennai,Chennai,759.0,376.77,Bike,Furniture,Clear,1453.23,7,5.0,On-Time
+SC10736,2025-06-26,Mumbai,Hyderabad,77.6,659.32,Heavy Truck,Apparel,Clear,3972.59,3,1.0,On-Time
+SC10737,2025-04-08,Mumbai,Bengaluru,133.4,465.11,Bike,Groceries,Rain,4160.62,7,2.0,On-Time
+SC10738,2025-04-15,Mumbai,Mumbai,768.8,487.19,Bike,Pharma,Clear,4158.37,1,5.0,Delayed
+SC10739,2025-04-09,Chennai,Hyderabad,432.3,254.75,Heavy Truck,Furniture,Clear,307.86,2,4.0,Delayed
+SC10740,2025-11-07,Mumbai,Chennai,16.3,432.48,Heavy Truck,Electronics,Rain,5409.86,6,4.0,On-Time
+SC10741,2025-01-06,Chennai,Delhi,209.8,447.51,Heavy Truck,Apparel,Fog,2127.92,3,4.0,Delayed
+SC10742,2025-07-16,Mumbai,Delhi,362.7,671.46,Mini Truck,Pharma,Clear,4503.37,5,4.0,On-Time
+SC10743,2025-12-17,Delhi,Chennai,555.9,893.64,Bike,Pharma,Rain,4594.87,4,5.0,Delayed
+SC10744,2025-05-13,Mumbai,Chennai,587.9,313.19,Van,Furniture,Clear,3955.75,1,3.0,Delayed
+SC10745,2025-12-24,Bengaluru,Delhi,796.4,40.57,Heavy Truck,Electronics,Clear,2459.97,3,7.0,Delayed
+SC10746,2025-09-16,Mumbai,Hyderabad,233.6,471.73,Heavy Truck,Groceries,Clear,3709.05,1,2.0,Delayed
+SC10747,2025-01-23,Hyderabad,Delhi,432.9,517.47,Bike,Pharma,Rain,385.16,5,5.0,On-Time
+SC10748,2025-02-22,Mumbai,Chennai,429.0,160.43,Van,Pharma,Rain,4607.09,1,4.0,Delayed
+SC10749,2025-06-14,Bengaluru,Mumbai,327.5,722.56,Bike,Pharma,Rain,732.59,7,5.0,On-Time
+SC10750,2025-07-21,Bengaluru,Bengaluru,139.5,935.69,Bike,Pharma,Clear,2470.99,7,3.0,On-Time
+SC10751,2025-03-24,Chennai,Mumbai,782.1,898.51,Heavy Truck,Furniture,Clear,756.17,3,7.0,Delayed
+SC10752,2025-05-25,Delhi,Mumbai,683.4,187.65,Heavy Truck,Electronics,Clear,5046.89,2,5.0,Delayed
+SC10753,2025-03-26,Mumbai,Chennai,401.2,831.66,Mini Truck,Pharma,Clear,3369.27,6,5.0,On-Time
+SC10754,2025-03-19,Chennai,Delhi,484.6,669.42,Van,Groceries,Clear,4192.09,3,4.0,Delayed
+SC10755,2025-01-01,Delhi,Hyderabad,185.7,431.43,Van,Groceries,Storm,4143.11,1,5.0,Delayed
+SC10756,2025-02-20,Mumbai,Mumbai,437.3,513.81,Heavy Truck,Apparel,Rain,5073.4,5,4.0,On-Time
+SC10757,2025-06-22,Hyderabad,Delhi,557.5,807.2,Heavy Truck,Pharma,Clear,925.53,7,5.0,On-Time
+SC10758,2025-07-24,Mumbai,Hyderabad,414.6,456.39,Heavy Truck,Pharma,Clear,4009.41,4,4.0,On-Time
+SC10759,2025-09-17,Bengaluru,Mumbai,792.3,354.86,Van,Pharma,Clear,3514.53,4,5.0,Delayed
+SC10760,2025-10-15,Bengaluru,Hyderabad,491.0,468.84,Mini Truck,Pharma,Rain,330.75,5,6.0,Delayed
+SC10761,2025-02-03,Hyderabad,Delhi,299.9,550.38,Van,Pharma,Rain,1328.32,1,4.0,Delayed
+SC10762,2025-12-14,Chennai,Bengaluru,618.9,180.03,Heavy Truck,Groceries,Rain,1715.29,6,7.0,Delayed
+SC10763,2025-04-05,Delhi,Delhi,140.5,855.91,Heavy Truck,Electronics,Clear,574.45,5,4.0,On-Time
+SC10764,2025-03-13,Mumbai,Chennai,,,Mini Truck,Electronics,,,1,3.0,Delayed
+SC10765,2025-02-08,Bengaluru,Hyderabad,280.8,601.79,Bike,Apparel,Storm,309.13,3,6.0,Delayed
+SC10766,2025-06-03,Chennai,Bengaluru,348.3,94.97,Bike,Groceries,Storm,3386.12,6,6.0,On-Time
+SC10767,2025-09-07,Hyderabad,Hyderabad,626.5,574.16,Van,Pharma,Clear,1387.28,2,5.0,Delayed
+SC10768,2025-06-11,Bengaluru,Hyderabad,389.9,115.35,Bike,Electronics,Clear,1828.97,1,2.0,Delayed
+SC10769,2025-04-28,Hyderabad,Mumbai,636.2,75.22,Bike,Furniture,Clear,5476.26,4,4.0,On-Time
+SC10770,2025-09-16,Mumbai,Chennai,463.3,501.18,Van,Furniture,Fog,3091.48,4,5.0,Delayed
+SC10771,2025-11-02,Delhi,Hyderabad,276.9,382.94,Heavy Truck,Furniture,Rain,1723.73,7,3.0,On-Time
+SC10772,2025-09-25,Bengaluru,Delhi,648.9,559.58,Bike,Pharma,Rain,3651.0,6,6.0,On-Time
+SC10773,2025-02-23,Bengaluru,Delhi,194.4,85.22,Heavy Truck,Pharma,Clear,1329.78,2,3.0,Delayed
+SC10774,2025-08-24,Mumbai,Mumbai,,,Van,Apparel,,,1,3.0,Delayed
+SC10775,2025-08-10,Chennai,Chennai,406.1,166.46,Heavy Truck,Apparel,Clear,272.3,2,3.0,Delayed
+SC10776,2025-09-08,Delhi,Chennai,212.4,937.75,Heavy Truck,Apparel,Fog,5716.44,7,5.0,On-Time
+SC10777,2025-11-09,Bengaluru,Delhi,12.2,533.31,Van,Furniture,Clear,4388.97,3,1.0,On-Time
+SC10778,2025-04-22,Delhi,Bengaluru,520.4,653.22,Heavy Truck,Pharma,Rain,4829.7,2,5.0,Delayed
+SC10779,2025-09-12,Bengaluru,Mumbai,411.3,309.48,Bike,Furniture,Clear,5888.37,3,4.0,Delayed
+SC10780,2025-10-30,Delhi,Mumbai,359.2,90.45,Bike,Apparel,Fog,5600.03,4,4.0,On-Time
+SC10781,2025-07-26,Hyderabad,Delhi,773.7,927.09,Bike,Pharma,Rain,4460.94,3,7.0,Delayed
+SC10782,2025-08-17,Bengaluru,Delhi,459.1,272.3,Bike,Groceries,Clear,4209.82,1,4.0,Delayed
+SC10783,2025-12-07,Delhi,Bengaluru,691.4,402.91,Heavy Truck,Electronics,Fog,2120.57,6,7.0,Delayed
+SC10784,2025-03-07,Chennai,Bengaluru,115.9,617.55,Bike,Electronics,Clear,758.5,6,2.0,On-Time
+SC10785,2025-03-16,Hyderabad,Chennai,457.5,23.95,Heavy Truck,Apparel,Clear,3506.28,1,3.0,Delayed
+SC10786,2025-04-13,Hyderabad,Mumbai,695.0,769.84,Mini Truck,Furniture,Clear,3521.08,1,5.0,Delayed
+SC10787,2025-07-11,Chennai,Mumbai,7029.0,509.98,Heavy Truck,Groceries,Fog,114411.8,1,7.0,Delayed
+SC10788,2025-09-09,Delhi,Delhi,575.8,264.67,Bike,Pharma,Fog,2739.04,5,6.0,Delayed
+SC10789,2025-08-14,Mumbai,Chennai,300.8,59.0,Mini Truck,Furniture,Clear,4191.22,7,4.0,On-Time
+SC10790,2025-10-21,Chennai,Mumbai,78.5,154.79,Van,Apparel,Rain,3513.58,3,3.0,On-Time
+SC10791,2025-11-02,Delhi,Chennai,369.0,850.33,Heavy Truck,Furniture,Rain,1184.05,1,5.0,Delayed
+SC10792,2025-04-08,Chennai,Chennai,318.6,651.88,Bike,Apparel,Rain,3613.58,6,5.0,On-Time
+SC10793,2025-12-04,Chennai,Delhi,694.3,237.78,Bike,Electronics,Clear,3309.68,2,6.0,Delayed
+SC10794,2025-10-13,Bengaluru,Chennai,199.0,62.79,Bike,Electronics,Clear,3039.35,2,2.0,On-Time
+SC10795,2025-12-01,Delhi,Bengaluru,773.6,656.24,Van,Furniture,Rain,3153.52,5,6.0,Delayed
+SC10796,2025-12-13,Mumbai,Bengaluru,766.7,544.0,Mini Truck,Groceries,Clear,1109.33,3,5.0,Delayed
+SC10797,2025-11-04,Bengaluru,Hyderabad,201.9,384.59,Mini Truck,Pharma,Clear,2861.34,3,2.0,On-Time
+SC10798,2025-09-06,Chennai,Delhi,281.7,345.75,Bike,Apparel,Rain,3693.07,7,4.0,On-Time
+SC10799,2025-06-15,Chennai,Hyderabad,717.0,206.37,Heavy Truck,Pharma,Clear,3013.28,3,5.0,Delayed
+SC10800,2025-12-01,Chennai,Bengaluru,773.5,636.3,Bike,Electronics,Storm,3008.81,6,9.0,Delayed
+SC10801,2025-01-30,Delhi,Hyderabad,357.5,922.15,Bike,Groceries,Clear,603.48,6,5.0,On-Time
+SC10802,2025-09-04,Delhi,Delhi,260.2,167.34,Heavy Truck,Groceries,Storm,1266.03,7,5.0,On-Time
+SC10803,2025-04-16,Bengaluru,Delhi,423.2,567.46,Bike,Pharma,Clear,2027.69,5,4.0,On-Time
+SC10804,2025-02-20,Mumbai,Chennai,551.8,403.26,Van,Electronics,Clear,2603.18,3,5.0,Delayed
+SC10805,2025-03-22,Bengaluru,Mumbai,222.4,424.63,Bike,Pharma,Clear,3624.53,3,2.0,On-Time
+SC10806,2025-05-13,Hyderabad,Chennai,590.5,241.81,Van,Furniture,Rain,5200.57,1,5.0,Delayed
+SC10807,2025-10-12,Chennai,Delhi,46.1,783.97,Bike,Groceries,Rain,1081.11,3,3.0,On-Time
+SC10808,2025-05-18,Chennai,Bengaluru,,,Mini Truck,Groceries,,,6,1.0,On-Time
+SC10809,2025-07-03,Chennai,Bengaluru,312.1,516.46,Heavy Truck,Furniture,Clear,2778.04,1,4.0,Delayed
+SC10810,2025-11-26,Bengaluru,Chennai,286.0,289.87,Mini Truck,Electronics,Rain,2677.8,1,3.0,Delayed
+SC10811,2025-09-30,Bengaluru,Delhi,255.9,173.13,Bike,Groceries,Clear,3378.62,3,3.0,On-Time
+SC10812,2025-12-06,Chennai,Bengaluru,395.4,82.07,Bike,Apparel,Rain,5024.35,2,4.0,Delayed
+SC10813,2025-03-10,Bengaluru,Delhi,260.0,678.56,Van,Apparel,Clear,4843.81,4,3.0,On-Time
+SC10814,2025-02-03,Delhi,Bengaluru,157.8,186.82,Bike,Electronics,Rain,735.25,6,3.0,On-Time
+SC10815,2025-09-19,Delhi,Delhi,251.0,655.73,Bike,Furniture,Rain,5613.87,2,3.0,Delayed
+SC10816,2025-02-22,Bengaluru,Hyderabad,780.0,371.16,Bike,Pharma,Storm,795.92,3,7.0,Delayed
+SC10817,2025-07-24,Chennai,Delhi,331.8,395.28,Mini Truck,Electronics,Rain,3862.24,3,5.0,Delayed
+SC10818,2025-05-06,Bengaluru,Delhi,358.5,445.98,Van,Pharma,Clear,4083.58,2,2.0,On-Time
+SC10819,2025-08-23,Bengaluru,Chennai,463.4,349.64,Mini Truck,Electronics,Clear,4127.28,3,4.0,Delayed
+SC10820,2025-02-12,Bengaluru,Hyderabad,786.8,96.04,Van,Apparel,Rain,1702.3,6,7.0,Delayed
+SC10821,2025-08-28,Hyderabad,Mumbai,197.1,294.5,Mini Truck,Furniture,Clear,2082.52,7,3.0,On-Time
+SC10822,2025-04-21,Delhi,Chennai,546.6,630.72,Bike,Apparel,Fog,3359.76,1,7.0,Delayed
+SC10823,2025-09-06,Mumbai,Mumbai,574.2,632.66,Mini Truck,Furniture,Rain,1317.59,5,6.0,Delayed
+SC10824,2025-05-31,Mumbai,Bengaluru,487.8,272.27,Mini Truck,Pharma,Clear,268.82,3,4.0,Delayed
+SC10825,2025-07-02,Hyderabad,Mumbai,75.4,437.37,Van,Electronics,Clear,3438.55,3,1.0,On-Time
+SC10826,2025-12-02,Bengaluru,Delhi,543.1,184.18,Van,Groceries,Clear,2871.88,2,4.0,Delayed
+SC10827,2025-04-05,Hyderabad,Mumbai,56.0,200.25,Mini Truck,Groceries,Clear,3991.88,1,2.0,Delayed
+SC10828,2025-01-08, chennai ,Chennai,478.9,22.38,Van,Furniture,Clear,1008.2,2,4.0,Delayed
+SC10829,2025-12-26,Chennai,Chennai,593.0,851.96,Van,Furniture,Clear,5069.41,7,5.0,On-Time
+SC10830,2025-07-03,Delhi,Mumbai,172.7,200.57,Van,Apparel,Clear,1005.4,6,2.0,On-Time
+SC10831,2025-10-08,Mumbai,Chennai,674.1,216.54,Heavy Truck,Groceries,Clear,5364.36,2,5.0,Delayed
+SC10832,2025-07-14,Bengaluru,Chennai,29.1,265.98,Van,Apparel,Clear,2779.7,3,2.0,On-Time
+SC10833,2025-12-18,Mumbai,Mumbai,675.8,121.47,Heavy Truck,Pharma,Clear,3366.36,1,5.0,Delayed
+SC10834,2025-07-14,Mumbai,Hyderabad,371.0,607.48,Heavy Truck,Groceries,Clear,5395.0,6,3.0,On-Time
+SC10835,2025-06-04,Delhi,Hyderabad,178.0,71.85,Van,Pharma,Rain,1904.49,3,3.0,On-Time
+SC10836,2025-04-03,Mumbai,Bengaluru,111.4,127.93,Mini Truck,Electronics,Clear,1213.69,6,1.0,On-Time
+SC10837,2025-06-09,Mumbai,Chennai,762.9,612.7,Van,Apparel,Clear,2757.65,3,6.0,Delayed
+SC10838,2025-03-02,Hyderabad,Mumbai,62.8,323.01,Bike,Furniture,Rain,1579.55,3,2.0,On-Time
+SC10839,2025-05-02,Delhi,Chennai,163.3,672.7,Mini Truck,Groceries,Storm,3237.89,3,5.0,Delayed
+SC10840,2025-02-20,Chennai,Delhi,281.5,529.77,Heavy Truck,Apparel,Clear,1760.26,5,3.0,On-Time
+SC10841,2025-10-04,Bengaluru,Chennai,498.1,243.59,Heavy Truck,Furniture,Clear,5207.26,4,4.0,On-Time
+SC10842,2025-01-05,Mumbai,Chennai,438.1,618.46,VAN,Electronics,Clear,3702.85,1,4.0,Delayed
+SC10843,2025-04-02,Bengaluru,Hyderabad,104.9,110.9,Mini Truck,Groceries,Clear,151.41,7,2.0,On-Time
+SC10844,2025-06-19,Chennai,Mumbai,235.3,509.82,Van,Pharma,Fog,4862.02,5,5.0,On-Time
+SC10845,2025-11-13,Bengaluru,Chennai,194.8,415.57,Heavy Truck,Electronics,Rain,2081.74,4,2.0,On-Time
+SC10846,2025-01-22,Chennai,Hyderabad,174.8,254.85,Bike,Furniture,Rain,2023.22,6,3.0,On-Time
+SC10847,2025-11-22,Hyderabad,Bengaluru,331.9,574.0,Van,Groceries,Clear,2390.92,4,4.0,On-Time
+SC10848,2025-01-01,Mumbai,Hyderabad,564.7,827.83,Mini Truck,Groceries,Rain,3837.04,4,6.0,Delayed
+SC10849,2025-05-13,Chennai,Hyderabad,177.9,948.96,Heavy Truck,Electronics,Clear,2736.06,5,3.0,On-Time
+SC10850,2025-08-21,Bengaluru,Hyderabad,296.5,577.57,Mini Truck,Groceries,Clear,3827.52,1,3.0,Delayed
+SC10851,2025-01-12,Mumbai,Chennai,315.8,384.77,Mini Truck,Furniture,Clear,1008.67,2,3.0,Delayed
+SC10852,2025-12-12,Hyderabad,Chennai,781.3,214.33,Mini Truck,Electronics,Clear,5825.46,4,6.0,Delayed
+SC10853,2025-02-15,Mumbai,Bengaluru,764.0,244.61,Van,Pharma,Clear,4418.2,2,5.0,Delayed
+SC10854,2025-02-03,Chennai,Delhi,641.1,455.74,Bike,Electronics,Rain,1613.71,2,4.0,Delayed
+SC10855,2025-03-19,Hyderabad,Delhi,197.1,349.23,Bike,Electronics,Clear,4386.39,3,2.0,On-Time
+SC10856,2025-08-06,Bengaluru,Delhi,59.1,868.17,Heavy Truck,Pharma,Clear,3513.9,2,2.0,On-Time
+SC10857,2025-10-28,Hyderabad,Bengaluru,256.9,350.2,Mini Truck,Furniture,Clear,788.76,6,4.0,On-Time
+SC10858,2025-03-14,Hyderabad,Delhi,,,Bike,Apparel,,,6,3.0,On-Time
+SC10859,2025-10-09,Delhi,Delhi,407.2,364.67,Mini Truck,Apparel,Rain,391.65,3,5.0,Delayed
+SC10860,2025-09-06, chennai ,Hyderabad,623.3,794.87,Heavy Truck,Pharma,Rain,4884.04,1,7.0,Delayed
+SC10861,2025-02-16,Hyderabad,Chennai,687.4,618.42,Mini Truck,Furniture,Rain,3377.47,7,6.0,On-Time
+SC10862,2025-05-01,Mumbai,Chennai,676.7,583.65,Bike,Groceries,Clear,2002.98,1,5.0,Delayed
+SC10863,2025-08-02,Bengaluru,Hyderabad,290.9,317.77,Mini Truck,Pharma,Rain,889.12,6,3.0,On-Time
+SC10864,2025-08-27,Mumbai,Hyderabad,551.4,777.1,Bike,Apparel,Fog,2981.67,7,5.0,On-Time
+SC10865,2025-02-25,Mumbai,Hyderabad,253.7,36.93,Heavy Truck,Furniture,Clear,3222.78,3,3.0,On-Time
+SC10866,2025-12-16,Chennai,Chennai,53.4,827.32,Mini Truck,Electronics,Clear,4256.4,1,2.0,Delayed
+SC10867,2025-04-17,Mumbai,Delhi,562.7,487.36,Bike,Furniture,Fog,5824.13,7,6.0,On-Time
+SC10868,2025-11-15,Delhi,Hyderabad,,,Heavy Truck,Furniture,,,7,2.0,On-Time
+SC10869,2025-02-17,Delhi,Bengaluru,330.3,472.56,Mini Truck,Apparel,Clear,2525.3,4,3.0,On-Time
+SC10870,2025-03-02,Chennai,Hyderabad,266.9,634.21,Heavy Truck,Apparel,Clear,2314.09,1,3.0,Delayed
+SC10871,2025-12-03,Bengaluru,Mumbai,556.2,12.62,Bike,Groceries,Clear,4987.5,3,4.0,Delayed
+SC10872,2025-01-26,Bengaluru,Hyderabad,,,Mini Truck,Groceries,,,7,6.0,On-Time
+SC10873,2025-10-19,Mumbai,Chennai,246.8,424.68,Mini Truck,Pharma,Clear,2161.31,6,3.0,On-Time
+SC10874,2025-09-14,Mumbai,Hyderabad,,,Mini Truck,Electronics,,,4,5.0,Delayed
+SC10875,2025-01-08,Mumbai,Mumbai,238.7,131.76,Heavy Truck,Groceries,Clear,241.82,2,2.0,On-Time
+SC10876,2025-04-23,Bengaluru,Bengaluru,359.8,417.77,Heavy Truck,Apparel,Rain,1842.88,2,4.0,Delayed
+SC10877,2025-12-21,Hyderabad,Delhi,583.0,471.76,Bike,Furniture,Clear,3902.47,2,5.0,Delayed
+SC10878,2025-09-10,Delhi,Hyderabad,555.9,383.76,Van,Pharma,Storm,1237.82,6,7.0,Delayed
+SC10879,2025-06-29,Hyderabad,Mumbai,11850.0,644.89,Mini Truck,Groceries,Storm,38417.2,7,7.0,On-Time
+SC10880,2025-07-26,Hyderabad,Mumbai,184.0,400.14,Mini Truck,Furniture,Rain,2993.36,3,3.0,On-Time
+SC10881,2025-10-30,Bengaluru,Bengaluru,,,Bike,Furniture,,,2,6.0,Delayed
+SC10882,2025-05-07,Hyderabad,Chennai,489.7,569.51,Mini Truck,Groceries,Rain,770.26,1,4.0,Delayed
+SC10883,2025-02-25,Chennai,Hyderabad,732.5,767.2,Heavy Truck,Electronics,Fog,5638.68,2,8.0,Delayed
+SC10884,2025-08-02,Mumbai,Mumbai,129.3,104.33,Heavy Truck,Electronics,Clear,409.11,7,3.0,On-Time
+SC10885,2025-01-14,Chennai,Bengaluru,602.7,377.73,Mini Truck,Pharma,Clear,4536.0,5,4.0,On-Time
+SC10886,2025-01-28,Delhi,Delhi,456.8,320.34,Mini Truck,Electronics,Rain,567.82,6,5.0,On-Time
+SC10887,2025-03-19,Mumbai,Mumbai,223.4,541.22,Heavy Truck,Pharma,Clear,2883.68,5,2.0,On-Time
+SC10888,2025-08-04,Hyderabad,Bengaluru,382.2,818.13,Mini Truck,Apparel,Rain,1176.16,2,4.0,Delayed
+SC10889,2025-12-31,Delhi,Chennai,270.4,74.88,Heavy Truck,Groceries,Fog,975.42,7,3.0,On-Time
+SC10890,2025-06-03,Mumbai,Chennai,465.6,69.41,Van,Furniture,Clear,886.5,2,4.0,Delayed
+SC10891,2025-01-14,Hyderabad,Mumbai,711.8,807.88,Van,Pharma,Rain,2798.8,5,7.0,Delayed
+SC10892,2025-07-06,Chennai,Mumbai,457.6,202.6,Mini Truck,Electronics,Clear,3165.59,7,4.0,On-Time
+SC10893,2025-11-08,Mumbai,Hyderabad,507.2,635.48,Mini Truck,Pharma,Clear,930.3,6,5.0,On-Time
+SC10894,2025-01-07,Hyderabad,Bengaluru,417.4,515.96,Mini Truck,Pharma,Clear,5879.47,6,4.0,On-Time
+SC10895,2025-01-03,Chennai,Mumbai,45.7,791.33,Heavy Truck,Electronics,Clear,1657.93,2,1.0,On-Time
+SC10896,2025-04-21,Delhi,Hyderabad,190.1,119.27,Van,Electronics,Clear,2834.22,6,2.0,On-Time
+SC10897,2025-08-26,Delhi,Hyderabad,396.1,123.73,Van,Groceries,Clear,1415.18,4,4.0,On-Time
+SC10898,2025-12-29,Delhi,Mumbai,251.6,529.2,Bike,Furniture,Clear,3039.45,7,3.0,On-Time
+SC10899,2025-08-27,Delhi,Chennai,,,Bike,Groceries,,,7,3.0,On-Time
+SC10900,2025-10-01,Bengaluru,Bengaluru,405.8,394.54,Mini Truck,Groceries,Rain,3198.45,6,5.0,On-Time
+SC10901,2025-10-21,Mumbai,Bengaluru,261.6,310.93,Heavy Truck,Electronics,Clear,1821.05,7,3.0,On-Time
+SC10902,2025-08-15,Mumbai,Chennai,210.2,576.55,Mini Truck,Electronics,Clear,1603.12,5,1.0,On-Time
+SC10903,2025-01-15,Bengaluru,Mumbai,373.9,883.96,Van,Furniture,Fog,4589.77,3,7.0,Delayed
+SC10904,2025-07-11,Hyderabad,Bengaluru,111.0,795.16,Mini Truck,Pharma,Rain,841.69,5,3.0,On-Time
+SC10905,2025-04-29, chennai ,Mumbai,742.6,945.71,Mini Truck,Groceries,Clear,2314.3,1,8.0,Delayed
+SC10906,2025-01-28,Delhi,Mumbai,694.8,21.93,Van,Furniture,Clear,1036.17,4,5.0,Delayed
+SC10907,2025-07-21,Chennai,Hyderabad,567.6,107.66,Van,Groceries,Rain,1659.16,3,5.0,Delayed
+SC10908,2025-02-08,Hyderabad,Chennai,89.4,579.19,Van,Pharma,Rain,1043.2,2,3.0,Delayed
+SC10909,2025-09-30,Chennai,Mumbai,621.8,779.64,Van,Groceries,Clear,5337.62,7,5.0,On-Time
+SC10910,2025-08-19,Mumbai,Delhi,647.3,271.34,Bike,Apparel,Clear,4431.64,1,5.0,Delayed
+SC10911,2025-03-27,Chennai,Chennai,615.4,227.63,Heavy Truck,Furniture,Clear,3431.42,1,6.0,Delayed
+SC10912,2025-05-06,Mumbai,Bengaluru,95.6,747.73,Heavy Truck,Electronics,Rain,1462.89,4,3.0,On-Time
+SC10913,2025-10-27,Bengaluru,Hyderabad,516.9,54.03,Van,Groceries,Clear,3134.83,3,4.0,Delayed
+SC10914,2025-01-25,Bengaluru,Bengaluru,668.3,351.23,Heavy Truck,Furniture,Clear,3196.87,1,5.0,Delayed
+SC10915,2025-05-25,Delhi,Bengaluru,464.0,480.77,Heavy Truck,Furniture,Clear,3603.86,3,4.0,Delayed
+SC10916,2025-01-13,Hyderabad,Chennai,518.9,532.55,Heavy Truck,Groceries,Storm,501.5,3,8.0,Delayed
+SC10917,2025-07-31,Delhi,Bengaluru,369.4,692.32,Heavy Truck,Electronics,Rain,5841.48,6,5.0,On-Time
+SC10918,2025-01-25,Mumbai,Mumbai,425.3,337.43,Van,Electronics,Rain,2872.82,1,5.0,Delayed
+SC10919,2025-03-09,Delhi,Bengaluru,32.3,582.24,Mini Truck,Groceries,Rain,5570.21,3,3.0,On-Time
+SC10920,2025-03-08,Chennai,Hyderabad,513.0,556.31,Mini Truck,Furniture,Clear,207.38,4,6.0,Delayed
+SC10921,2025-08-21,Mumbai,Hyderabad,69.8,520.46,Mini Truck,Electronics,Fog,1598.22,1,3.0,Delayed
+SC10922,2025-04-19,Bengaluru,Delhi,350.8,608.64,Bike,Groceries,Clear,758.37,4,3.0,On-Time
+SC10923,2025-05-26,Hyderabad,Hyderabad,237.7,246.85,Heavy Truck,Groceries,Rain,4652.25,4,4.0,On-Time
+SC10924,2025-04-21,Mumbai,Bengaluru,438.6,80.87,Van,Groceries,Clear,2022.73,3,3.0,On-Time
+SC10925,2025-08-16,Mumbai,Hyderabad,111.1,113.75,Van,Furniture,Clear,5066.88,3,2.0,On-Time
+SC10926,2025-04-21,Chennai,Chennai,554.9,213.74,Bike,Electronics,Clear,5019.45,6,5.0,On-Time
+SC10927,2025-02-03,Hyderabad,Hyderabad,637.0,475.44,Van,Furniture,Rain,4056.6,7,6.0,On-Time
+SC10928,2025-04-21,Bengaluru,Mumbai,134.9,798.5,Mini Truck,Apparel,Rain,4044.82,6,5.0,On-Time
+SC10929,2025-09-21,Mumbai,Chennai,87.9,666.38,Bike,Electronics,Clear,4245.93,1,2.0,Delayed
+SC10930,2025-08-24,Mumbai,Delhi,120.7,749.69,Van,Furniture,Clear,4091.52,6,2.0,On-Time
+SC10931,2025-03-24,Chennai,Mumbai,702.3,333.75,Bike,Electronics,Fog,2413.41,2,5.0,Delayed
+SC10932,2025-02-11,Delhi,Bengaluru,424.9,384.72,Bike,Apparel,Clear,4144.54,1,4.0,Delayed
+SC10933,2025-04-11,Bengaluru,Bengaluru,376.5,374.3,Van,Pharma,Rain,5399.83,4,3.0,On-Time
+SC10934,2025-01-06,Hyderabad,Bengaluru,89.8,182.68,Mini Truck,Groceries,Rain,2095.55,6,3.0,On-Time
+SC10935,2025-06-29,Mumbai,Mumbai,521.4,58.63,Van,Furniture,Clear,5677.6,6,5.0,On-Time
+SC10936,2025-10-09,Mumbai,Mumbai,695.1,561.57,Heavy Truck,Apparel,Clear,229.45,7,5.0,On-Time
+SC10937,2025-11-16,Bengaluru,Mumbai,663.4,939.76,Heavy Truck,Apparel,Clear,2192.13,6,6.0,On-Time
+SC10938,2025-08-14,Delhi,Chennai,502.7,158.9,Van,Electronics,Clear,922.78,3,5.0,Delayed
+SC10939,2025-11-11,Mumbai,Chennai,64.8,44.83,Mini Truck,Electronics,Clear,890.73,4,2.0,On-Time
+SC10940,2025-12-31,Bengaluru,Bengaluru,94.4,740.67,Heavy Truck,Groceries,Clear,4920.26,6,3.0,On-Time
+SC10941,2025-08-17,Chennai,Hyderabad,44.2,240.33,Heavy Truck,Electronics,Clear,5522.45,5,2.0,On-Time
+SC10942,2025-10-16,Delhi,Bengaluru,209.7,788.25,Van,Furniture,Rain,4699.89,5,2.0,On-Time
+SC10943,2025-05-30,Hyderabad,Delhi,112.9,668.89,Van,Furniture,Rain,5863.2,4,4.0,On-Time
+SC10944,2025-10-04,Mumbai,Chennai,211.7,898.42,Van,Furniture,Clear,1415.52,6,3.0,On-Time
+SC10945,2025-07-17,Bengaluru,Mumbai,311.1,388.78,Bike,Pharma,Clear,973.68,7,3.0,On-Time
+SC10946,2025-03-11,Chennai,Chennai,754.7,629.04,Bike,Furniture,Clear,3196.12,2,6.0,Delayed
+SC10947,2025-04-22,Hyderabad,Mumbai,490.2,441.88,Bike,Electronics,Clear,4999.87,7,4.0,On-Time
+SC10948,2025-01-04,Bengaluru,Delhi,668.8,599.24,Van,Electronics,Rain,383.06,2,6.0,Delayed
+SC10949,2025-12-16,Bengaluru,Delhi,569.7,427.39,Mini Truck,Furniture,Clear,5974.06,1,4.0,Delayed
+SC10950,2025-11-27,Hyderabad,Chennai,94.4,179.61,Heavy Truck,Apparel,Rain,3673.14,1,3.0,Delayed
+SC10951,2025-11-14,Chennai,Mumbai,590.1,482.75,Bike,Apparel,Clear,5876.81,7,4.0,On-Time
+SC10952,2025-12-16,Chennai,Delhi,223.7,502.39,Mini Truck,Apparel,Rain,2285.73,6,4.0,On-Time
+SC10953,2025-04-05,Delhi,Bengaluru,513.1,770.17,Van,Groceries,Clear,2829.44,7,5.0,On-Time
+SC10954,2025-06-01,Mumbai,Bengaluru,276.1,698.88,Bike,Pharma,Rain,4551.31,1,5.0,Delayed
+SC10955,2025-11-07,Hyderabad,Mumbai,798.1,630.77,Van,Furniture,Fog,4787.3,3,9.0,Delayed
+SC10956,2025-05-17,Hyderabad,Chennai,214.5,108.16,Mini Truck,Groceries,Rain,1513.24,2,3.0,Delayed
+SC10957,2025-09-04,Hyderabad,Delhi,226.9,684.73,Bike,Apparel,Rain,5589.34,4,4.0,On-Time
+SC10958,2025-08-31,Chennai,Chennai,744.9,475.54,Bike,Furniture,Clear,5224.43,7,7.0,On-Time
+SC10959,2025-01-31,Mumbai,Bengaluru,24.6,849.45,Bike,Groceries,Fog,256.5,6,4.0,On-Time
+SC10960,2025-02-09,Delhi,Delhi,558.9,873.92,Bike,Electronics,Clear,902.12,6,5.0,On-Time
+SC10961,2025-08-17,Bengaluru,Chennai,581.6,52.87,Mini Truck,Apparel,Clear,3052.17,5,4.0,On-Time
+SC10962,2025-02-05,Bengaluru,Hyderabad,669.9,779.7,Bike,Groceries,Clear,2846.59,2,6.0,Delayed
+SC10963,2025-08-11,Hyderabad,Mumbai,779.7,36.29,Heavy Truck,Electronics,Storm,4294.09,2,7.0,Delayed
+SC10964,2025-01-06,Mumbai,Mumbai,780.6,349.13,Heavy Truck,Apparel,Fog,674.81,2,7.0,Delayed
+SC10965,2025-11-18, chennai ,Hyderabad,56.9,515.41,Van,Pharma,Fog,3922.4,7,3.0,On-Time
+SC10966,2025-08-08,Mumbai,Bengaluru,658.4,141.12,Bike,Apparel,Rain,3755.76,1,6.0,Delayed
+SC10967,2025-03-16,Mumbai,Delhi,518.8,709.12,Heavy Truck,Pharma,Clear,1516.67,3,6.0,Delayed
+SC10968,2025-01-04,Chennai,Mumbai,519.6,8.43,Heavy Truck,Pharma,Fog,3323.0,7,5.0,On-Time
+SC10969,2025-12-01,Hyderabad,Hyderabad,107.0,160.58,Heavy Truck,Pharma,Storm,1449.91,4,4.0,On-Time
+SC10970,2025-05-14,Mumbai,Hyderabad,521.9,551.97,Mini Truck,Furniture,Clear,1009.5,1,4.0,Delayed
+SC10971,2025-04-28, chennai ,Bengaluru,786.1,678.81,Bike,Furniture,Clear,3502.84,7,7.0,On-Time
+SC10972,2025-04-04,Chennai,Bengaluru,729.9,870.85,Mini Truck,Pharma,Rain,5868.22,3,7.0,Delayed
+SC10973,2025-03-03,Delhi,Chennai,354.1,670.37,Mini Truck,Electronics,Storm,1536.06,2,5.0,Delayed
+SC10974,2025-07-13,Hyderabad,Mumbai,36.8,638.35,Heavy Truck,Pharma,Fog,2228.72,3,2.0,On-Time
+SC10975,2025-12-01,Chennai,Chennai,293.0,374.93,Heavy Truck,Groceries,Fog,1650.95,1,5.0,Delayed
+SC10976,2025-07-22,Delhi,Hyderabad,662.0,1.72,Van,Pharma,Fog,1708.79,7,5.0,On-Time
+SC10977,2025-01-26,Delhi,Delhi,562.7,114.59,Bike,Furniture,Fog,2514.52,2,6.0,Delayed
+SC10978,2025-06-22,Mumbai,Delhi,370.2,508.06,Bike,Furniture,Rain,4255.85,7,4.0,On-Time
+SC10979,2025-10-27,Mumbai,Bengaluru,48.8,641.54,Heavy Truck,Groceries,Rain,377.01,1,3.0,Delayed
+SC10980,2025-05-13,Mumbai,Delhi,344.4,396.87,Heavy Truck,Groceries,Clear,5749.18,4,4.0,On-Time
+SC10981,2025-11-22,Chennai,Delhi,377.9,694.28,Bike,Apparel,Rain,420.74,2,4.0,Delayed
+SC10982,2025-04-28,Chennai,Delhi,743.2,496.01,Van,Electronics,Clear,5305.33,3,5.0,Delayed
+SC10983,2025-11-20,Hyderabad,Hyderabad,514.7,70.93,Heavy Truck,Electronics,Fog,5382.11,1,5.0,Delayed
+SC10984,2025-10-02,Mumbai,Delhi,252.8,182.82,Van,Electronics,Clear,3218.26,5,2.0,On-Time
+SC10985,2025-07-31,Delhi,Delhi,422.6,798.08,Mini Truck,Furniture,Clear,951.43,3,5.0,Delayed
+SC10986,2025-08-13,Bengaluru,Delhi,57.5,688.8,Heavy Truck,Electronics,Clear,3456.1,3,2.0,On-Time
+SC10987,2025-01-20,Hyderabad,Chennai,778.2,850.08,Mini Truck,Apparel,Rain,3827.5,2,7.0,Delayed
+SC10988,2025-04-23,Chennai,Hyderabad,291.2,112.12,Heavy Truck,Apparel,Clear,5167.89,7,3.0,On-Time
+SC10989,2025-05-20,Hyderabad,Bengaluru,384.9,940.72,Mini Truck,Electronics,Clear,3372.74,6,4.0,On-Time
+SC10990,2025-02-16,Hyderabad,Chennai,287.5,199.33,Heavy Truck,Groceries,Clear,2552.65,3,2.0,On-Time
+SC10991,2025-01-01,Hyderabad,Mumbai,547.6,11.68,Van,Apparel,Clear,5054.0,1,4.0,Delayed
+SC10992,2025-03-31,Hyderabad,Hyderabad,531.5,947.55,Van,Groceries,Clear,5888.57,5,3.0,On-Time
+SC10993,2025-05-22,Bengaluru,Hyderabad,573.7,267.38,Van,Furniture,Clear,3923.85,4,4.0,On-Time
+SC10994,2025-11-16,Mumbai,Mumbai,218.2,634.78,Mini Truck,Apparel,Clear,5265.16,5,3.0,On-Time
+SC10995,2025-02-07,Delhi,Mumbai,256.0,168.26,Van,Groceries,Clear,3652.6,1,3.0,Delayed
+SC10996,2025-10-20,Hyderabad,Mumbai,104.6,551.43,Mini Truck,Electronics,Clear,4185.26,2,3.0,Delayed
+SC10997,2025-05-19,Hyderabad,Bengaluru,526.1,858.88,Heavy Truck,Furniture,Clear,4175.78,1,4.0,Delayed
+SC10998,2025-12-22,Hyderabad,Delhi,36.6,304.51,Mini Truck,Pharma,Fog,4273.0,6,4.0,On-Time
+SC10999,2025-11-29,Mumbai,Hyderabad,480.2,636.91,Heavy Truck,Pharma,Clear,2027.93,6,4.0,On-Time
+SC11000,2025-09-16,Chennai,Delhi,696.4,178.91,Bike,Electronics,Clear,3517.62,6,4.0,On-Time
+SC11001,2025-06-10,Chennai,Delhi,713.2,593.74,Bike,Furniture,Clear,3625.69,3,4.0,Delayed
+SC11002,2025-06-27,Bengaluru,Mumbai,362.0,319.96,Bike,Furniture,Clear,1993.17,2,4.0,Delayed
+SC11003,2025-01-10,Chennai,Bengaluru,370.1,201.04,Mini Truck,Furniture,Clear,2196.64,7,3.0,On-Time
+SC11004,2025-09-18,Hyderabad,Chennai,66.2,297.87,Bike,Furniture,Clear,4609.14,6,2.0,On-Time
+SC11005,2025-05-18,Hyderabad,Bengaluru,538.3,170.31,Bike,Pharma,Rain,3558.93,7,5.0,On-Time
+SC11006,2025-06-21,Hyderabad,Delhi,657.9,856.87,Bike,Groceries,Rain,1022.89,4,6.0,Delayed
+SC11007,2025-01-13,Bengaluru,Bengaluru,199.5,377.63,Heavy Truck,Furniture,Clear,5050.18,4,3.0,On-Time
+SC11008,2025-06-17,Hyderabad,Mumbai,339.9,233.39,Van,Groceries,Rain,5316.22,7,5.0,On-Time
+SC11009,2025-05-10,Chennai,Chennai,671.9,426.26,Mini Truck,Furniture,Clear,2876.93,1,5.0,Delayed
+SC11010,2025-03-25,Mumbai,Mumbai,702.3,304.85,Bike,Apparel,Fog,1372.11,6,8.0,Delayed
+SC11011,2025-11-17,Mumbai,Chennai,198.3,707.33,Heavy Truck,Apparel,Clear,5693.5,3,3.0,On-Time
+SC11012,2025-11-15,Delhi,Delhi,442.7,922.67,Van,Apparel,Rain,5311.28,4,6.0,Delayed
+SC11013,2025-04-11,Chennai,Chennai,158.0,416.41,Van,Furniture,Clear,1579.63,5,3.0,On-Time
+SC11014,2025-11-25,Hyderabad,Chennai,86.0,818.05,Van,Groceries,Fog,709.22,2,2.0,On-Time
+SC11015,2025-09-30,Mumbai,Chennai,729.3,537.79,Heavy Truck,Pharma,Clear,2727.82,5,5.0,On-Time
+SC11016,2025-09-22,Chennai,Bengaluru,657.3,149.8,Bike,Electronics,Clear,4106.92,7,4.0,On-Time
+SC11017,2025-02-07,Mumbai,Bengaluru,609.2,656.25,Van,Pharma,Rain,1176.02,4,7.0,Delayed
+SC11018,2025-04-04,Hyderabad,Delhi,43.8,488.01,Heavy Truck,Furniture,Clear,3152.29,4,2.0,On-Time
+SC11019,2025-04-05,Mumbai,Chennai,675.8,618.25,Heavy Truck,Apparel,Rain,2638.68,1,6.0,Delayed
+SC11020,2025-11-01,Delhi,Hyderabad,353.2,845.26,Mini Truck,Apparel,Rain,5359.72,1,5.0,Delayed
+SC11021,2025-03-10,Delhi,Delhi,277.2,418.69,Heavy Truck,Groceries,Clear,2662.96,6,2.0,On-Time
+SC11022,2025-11-14,Mumbai,Chennai,439.4,856.17,Van,Furniture,Clear,3272.59,7,4.0,On-Time
+SC11023,2025-08-24,Chennai,Chennai,77.6,713.26,Van,Pharma,Clear,5738.42,2,3.0,Delayed
+SC11024,2025-11-30,Chennai,Bengaluru,606.5,464.43,Heavy Truck,Furniture,Rain,1903.2,6,4.0,On-Time
+SC11025,2025-05-17,Chennai,Delhi,468.0,573.26,Van,Furniture,Clear,1840.6,1,4.0,Delayed
+SC11026,2025-03-17,Mumbai,Chennai,153.3,309.64,Heavy Truck,Apparel,Clear,4827.63,3,2.0,On-Time
+SC11027,2025-02-04,Chennai,Chennai,,,VAN,Pharma,,,2,6.0,Delayed
+SC11028,2025-01-01,Hyderabad,Delhi,151.5,634.15,Mini Truck,Electronics,Clear,5016.42,3,3.0,On-Time
+SC11029,2025-10-23,Delhi,Hyderabad,50.3,42.13,Bike,Apparel,Storm,708.88,6,2.0,On-Time
+SC11030,2025-11-16,Hyderabad,Delhi,472.3,310.63,Mini Truck,Pharma,Rain,800.88,1,5.0,Delayed
+SC11031,2025-03-01,Chennai,Delhi,673.1,592.34,Mini Truck,Groceries,Clear,5422.74,2,6.0,Delayed
+SC11032,2025-11-16,Hyderabad,Hyderabad,18.9,53.99,Bike,Apparel,Clear,3313.75,6,1.0,On-Time
+SC11033,2025-12-15,Chennai,Delhi,44.0,23.18,Van,Groceries,Rain,4355.06,4,2.0,On-Time
+SC11034,2025-11-24,Mumbai,Chennai,460.4,427.8,Bike,Apparel,Clear,1467.94,6,4.0,On-Time
+SC11035,2025-09-24,Hyderabad,Delhi,656.5,316.39,Heavy Truck,Furniture,Clear,1122.71,7,6.0,On-Time
+SC11036,2025-12-27,Mumbai,Hyderabad,264.8,416.66,Bike,Pharma,Clear,5034.48,5,3.0,On-Time
+SC11037,2025-08-17,Mumbai,Mumbai,282.9,249.93,Mini Truck,Groceries,Rain,2247.95,4,4.0,On-Time
+SC11038,2025-09-27,Bengaluru,Delhi,479.1,156.9,Bike,Apparel,Rain,2811.94,3,5.0,Delayed
+SC11039,2025-11-12,Chennai,Bengaluru,223.0,654.84,Van,Groceries,Clear,313.64,4,2.0,On-Time
+SC11040,2025-10-13,Delhi,Chennai,26.2,489.09,Mini Truck,Apparel,Clear,2407.4,6,3.0,On-Time
+SC11041,2025-10-18,Chennai,Chennai,589.5,190.55,Heavy Truck,Apparel,Rain,4657.06,4,7.0,Delayed
+SC11042,2025-08-01,Delhi,Bengaluru,502.4,303.95,Van,Electronics,Storm,4954.46,5,6.0,Delayed
+SC11043,2025-06-14,Chennai,Bengaluru,466.7,562.42,Mini Truck,Electronics,Clear,4237.72,7,4.0,On-Time
+SC11044,2025-01-05,Mumbai,Delhi,,,Heavy Truck,Electronics,,,6,5.0,On-Time
+SC11045,2025-12-05,Hyderabad,Bengaluru,541.8,140.51,Van,Groceries,Fog,3111.5,5,6.0,Delayed
+SC11046,2025-03-19,Hyderabad,Mumbai,168.7,70.05,Heavy Truck,Furniture,Rain,3299.23,4,3.0,On-Time
+SC11047,2025-03-03,Bengaluru,Hyderabad,285.2,771.8,Bike,Apparel,Rain,4494.4,5,4.0,On-Time
+SC11048,2025-05-12,Delhi,Bengaluru,105.3,714.91,Bike,Pharma,Fog,1596.72,4,5.0,Delayed
+SC11049,2025-03-30,Delhi,Bengaluru,108.2,715.77,Heavy Truck,Electronics,Rain,1504.37,2,4.0,Delayed
+SC11050,2025-08-25,Delhi,Mumbai,542.6,680.65,Bike,Groceries,Clear,5707.06,4,5.0,Delayed
+SC11051,2025-02-11,Mumbai,Chennai,687.6,636.08,Heavy Truck,Groceries,Rain,311.99,1,6.0,Delayed
+SC11052,2025-03-30,Delhi,Chennai,770.4,453.4,Van,Groceries,Rain,965.87,5,7.0,Delayed
+SC11053,2025-10-23,Hyderabad,Delhi,504.5,610.34,Mini Truck,Pharma,Storm,3486.44,7,5.0,On-Time
+SC11054,2025-11-24,Mumbai,Mumbai,151.4,36.92,Heavy Truck,Pharma,Clear,4466.33,5,2.0,On-Time
+SC11055,2025-10-22,Chennai,Hyderabad,89.0,590.58,Mini Truck,Electronics,Clear,3296.66,3,3.0,On-Time
+SC11056,2025-04-14,Delhi,Hyderabad,651.2,739.09,Mini Truck,Pharma,Rain,2227.12,7,6.0,On-Time
+SC11057,2025-01-14,Delhi,Mumbai,465.1,475.59,Heavy Truck,Electronics,Clear,5871.16,7,4.0,On-Time
+SC11058,2025-10-15,Chennai,Hyderabad,496.5,339.96,Bike,Pharma,Clear,4267.54,3,4.0,Delayed
+SC11059,2025-06-28,Delhi,Chennai,626.3,263.92,Van,Pharma,Fog,5013.64,1,6.0,Delayed
+SC11060,2025-05-05,Chennai,Hyderabad,564.1,610.84,Mini Truck,Pharma,Clear,385.44,5,4.0,On-Time
+SC11061,2025-12-19,Mumbai,Hyderabad,668.4,658.31,Van,Electronics,Rain,1530.13,7,7.0,On-Time
+SC11062,2025-01-23,Hyderabad,Mumbai,49.7,827.48,Mini Truck,Apparel,Fog,2338.9,5,4.0,On-Time
+SC11063,2025-03-04,Chennai,Mumbai,599.3,325.55,Heavy Truck,Electronics,Clear,1218.22,7,5.0,On-Time
+SC11064,2025-05-23,Bengaluru,Hyderabad,681.4,731.4,Bike,Apparel,Storm,576.46,3,7.0,Delayed
+SC11065,2025-06-02,Chennai,Bengaluru,232.5,533.51,Van,Groceries,Rain,1466.79,3,4.0,Delayed
+SC11066,2025-05-25,Delhi,Mumbai,514.2,838.75,Mini Truck,Groceries,Clear,3271.77,4,4.0,On-Time
+SC11067,2025-08-13,Mumbai,Delhi,254.8,501.66,Heavy Truck,Electronics,Clear,4220.11,6,3.0,On-Time
+SC11068,2025-11-05,Mumbai,Delhi,,,Heavy Truck,Apparel,,,5,8.0,Delayed
+SC11069,2025-04-14,Chennai,Chennai,31.6,549.19,Mini Truck,Apparel,Clear,401.18,5,2.0,On-Time
+SC11070,2025-04-14,Hyderabad,Hyderabad,465.9,711.97,Mini Truck,Apparel,Clear,2653.72,7,5.0,On-Time
+SC11071,2025-02-08,Bengaluru,Bengaluru,,,Mini Truck,Groceries,,,4,3.0,On-Time
+SC11072,2025-07-17,Mumbai,Chennai,571.2,70.35,Bike,Electronics,Clear,2672.52,5,4.0,On-Time
+SC11073,2025-05-14,Delhi,Hyderabad,144.8,51.24,Mini Truck,Furniture,Clear,2688.76,7,1.0,On-Time
+SC11074,2025-03-08,Delhi,Mumbai,192.1,890.7,Mini Truck,Apparel,Storm,3064.54,1,5.0,Delayed
+SC11075,2025-06-28,Hyderabad,Delhi,398.0,503.62,Bike,Apparel,Fog,5373.06,3,6.0,Delayed
+SC11076,2025-02-11,Mumbai,Bengaluru,732.3,584.35,Heavy Truck,Furniture,Clear,4859.81,3,6.0,Delayed
+SC11077,2025-01-15,Chennai,Delhi,173.3,458.56,Mini Truck,Electronics,Clear,3874.82,6,3.0,On-Time
+SC11078,2025-04-21,Delhi,Mumbai,119.7,89.43,Van,Apparel,Rain,5329.63,3,1.0,On-Time
+SC11079,2025-06-06,Hyderabad,Hyderabad,608.4,729.8,Heavy Truck,Electronics,Clear,4119.04,2,5.0,Delayed
+SC11080,2025-10-16,Mumbai,Mumbai,403.0,709.99,Van,Apparel,Rain,4940.3,1,4.0,Delayed
+SC11081,2025-08-19,Mumbai,Mumbai,729.9,296.46,Mini Truck,Pharma,Fog,3448.1,1,6.0,Delayed
+SC11082,2025-06-06,Mumbai,Delhi,121.6,291.27,Bike,Apparel,Fog,3222.53,4,3.0,On-Time
+SC11083,2025-02-07,Mumbai,Bengaluru,518.5,796.03,Bike,Pharma,Clear,4385.97,2,4.0,Delayed
+SC11084,2025-04-07,Mumbai,Mumbai,190.1,69.2,Bike,Electronics,Clear,265.18,5,3.0,On-Time
+SC11085,2025-10-16,Delhi,Delhi,129.6,837.11,Mini Truck,Apparel,Clear,4188.71,6,3.0,On-Time
+SC11086,2025-09-11,Hyderabad,Bengaluru,548.3,244.2,Mini Truck,Groceries,Clear,5616.93,1,4.0,Delayed
+SC11087,2025-07-15,Mumbai,Hyderabad,477.0,563.54,Van,Groceries,Clear,4326.56,2,4.0,Delayed
+SC11088,2025-03-27,Bengaluru,Hyderabad,605.1,889.23,Bike,Furniture,Fog,365.24,2,7.0,Delayed
+SC11089,2025-11-18,Bengaluru,Chennai,251.0,644.38,Mini Truck,Groceries,Fog,2360.63,7,5.0,On-Time
+SC11090,2025-01-10,Hyderabad,Delhi,361.1,394.0,Heavy Truck,Pharma,Storm,4886.05,1,6.0,Delayed
+SC11091,2025-01-05,Chennai,Bengaluru,327.3,655.21,Mini Truck,Groceries,Fog,5757.86,7,4.0,On-Time
+SC11092,2025-05-03,Chennai,Mumbai,787.4,327.11,Mini Truck,Groceries,Clear,2315.46,4,5.0,Delayed
+SC11093,2025-11-26,Chennai,Hyderabad,237.3,263.76,Heavy Truck,Groceries,Rain,5070.99,2,5.0,Delayed
+SC11094,2025-12-19,Bengaluru,Bengaluru,239.4,946.85,Bike,Apparel,Clear,5203.29,3,3.0,On-Time
+SC11095,2025-04-28,Chennai,Delhi,286.9,713.38,Heavy Truck,Furniture,Clear,871.23,2,4.0,Delayed
+SC11096,2025-10-21,Delhi,Chennai,453.9,612.66,Bike,Electronics,Clear,5097.86,5,5.0,On-Time
+SC11097,2025-06-08,Mumbai,Hyderabad,205.6,337.85,Heavy Truck,Furniture,Rain,2046.86,1,3.0,Delayed
+SC11098,2025-10-30,Bengaluru,Bengaluru,732.7,47.18,Van,Pharma,Rain,3620.44,5,7.0,Delayed
+SC11099,2025-08-16,Hyderabad,Bengaluru,216.2,29.99,Bike,Apparel,Clear,3302.93,4,2.0,On-Time
+SC11100,2025-12-31,Hyderabad,Bengaluru,,,Mini Truck,Apparel,,,6,4.0,On-Time
+SC11101,2025-08-04,Mumbai,Delhi,87.3,724.05,Van,Groceries,Clear,4481.72,3,2.0,On-Time
+SC11102,2025-07-03,Bengaluru,Delhi,527.0,510.74,Bike,Groceries,Clear,2729.15,1,4.0,Delayed
+SC11103,2025-01-15,Chennai,Delhi,726.1,798.83,Bike,Pharma,Clear,5346.62,2,5.0,Delayed
+SC11104,2025-06-06,Chennai,Mumbai,139.2,32.24,Bike,Apparel,Rain,4885.57,3,2.0,On-Time
+SC11105,2025-05-16,Delhi,Bengaluru,774.8,348.73,Heavy Truck,Electronics,Rain,4744.71,2,7.0,Delayed
+SC11106,2025-09-18,Delhi,Hyderabad,365.0,225.6,Bike,Furniture,Clear,2830.74,4,3.0,On-Time
+SC11107,2025-06-06,Chennai,Delhi,756.8,425.19,Mini Truck,Apparel,Rain,369.8,6,6.0,On-Time
+SC11108,2025-02-16,Hyderabad,Delhi,543.1,69.22,Bike,Electronics,Clear,3029.7,1,5.0,Delayed
+SC11109,2025-11-20,Hyderabad,Bengaluru,244.8,906.45,Mini Truck,Electronics,Storm,5405.91,4,5.0,Delayed
+SC11110,2025-11-28,Delhi,Delhi,154.7,212.48,Mini Truck,Furniture,Clear,1264.13,4,2.0,On-Time
+SC11111,2025-06-22,Mumbai,Mumbai,246.5,876.23,Mini Truck,Electronics,Rain,5898.17,6,3.0,On-Time
+SC11112,2025-05-10,Chennai,Mumbai,78.9,404.89,Van,Pharma,Fog,4874.99,4,3.0,On-Time
+SC11113,2025-04-05,Delhi,Delhi,119.4,936.26,Mini Truck,Electronics,Fog,4302.5,4,4.0,On-Time
+SC11114,2025-04-25,Delhi,Bengaluru,88.2,526.58,Heavy Truck,Pharma,Clear,4111.39,2,3.0,Delayed
+SC11115,2025-08-31,Chennai,Bengaluru,341.2,884.33,Bike,Electronics,Rain,3584.1,7,4.0,On-Time
+SC11116,2025-10-19,Chennai,Bengaluru,637.5,5.58,Heavy Truck,Groceries,Clear,4365.92,5,4.0,On-Time
+SC11117,2025-10-09,Hyderabad,Chennai,117.4,710.95,Van,Electronics,Clear,2618.15,2,3.0,Delayed
+SC11118,2025-10-26,Mumbai,Delhi,108.6,857.95,Bike,Pharma,Clear,5094.94,6,3.0,On-Time
+SC11119,2025-10-10,Mumbai,Bengaluru,516.5,133.16,Mini Truck,Electronics,Fog,4223.62,3,5.0,Delayed
+SC11120,2025-03-10,Chennai,Mumbai,161.8,91.77,Bike,Electronics,Fog,4661.83,6,3.0,On-Time
+SC11121,2025-05-28,Bengaluru,Hyderabad,82.6,403.63,Van,Electronics,Clear,4786.05,6,3.0,On-Time
+SC11122,2025-01-11,Delhi,Hyderabad,137.6,887.03,Van,Pharma,Clear,688.61,6,2.0,On-Time
+SC11123,2025-09-11,Delhi,Bengaluru,739.4,515.5,Heavy Truck,Electronics,Storm,475.5,6,8.0,Delayed
+SC11124,2025-11-26,Chennai,Hyderabad,658.1,501.32,Bike,Furniture,Clear,4835.77,4,5.0,Delayed
+SC11125,2025-12-26,Bengaluru,Hyderabad,286.5,134.5,Bike,Furniture,Clear,1667.4,6,4.0,On-Time
+SC11126,2025-02-07,Hyderabad,Chennai,526.4,1.25,Bike,Pharma,Clear,3554.52,3,4.0,Delayed
+SC11127,2025-05-14,Chennai,Mumbai,432.1,769.73,Heavy Truck,Groceries,Rain,2745.71,6,6.0,On-Time
+SC11128,2025-07-19,Chennai,Mumbai,543.3,83.65,Van,Furniture,Clear,278.93,2,4.0,Delayed
+SC11129,2025-01-23,Delhi,Chennai,547.7,602.34,Mini Truck,Apparel,Rain,385.65,4,6.0,Delayed
+SC11130,2025-10-30,Chennai,Chennai,504.8,868.93,VAN,Furniture,Clear,4988.68,2,5.0,Delayed
+SC11131,2025-12-12,Chennai,Hyderabad,,,Heavy Truck,Apparel,,,4,3.0,On-Time
+SC11132,2025-10-29,Chennai,Delhi,36.0,632.18,Heavy Truck,Pharma,Clear,3214.48,2,2.0,On-Time
+SC11133,2025-12-29,Delhi,Hyderabad,367.2,75.22,Mini Truck,Groceries,Clear,5674.46,1,3.0,Delayed
+SC11134,2025-08-06,Hyderabad,Chennai,713.3,573.77,Van,Apparel,Clear,1162.72,5,4.0,On-Time
+SC11135,2025-05-21,Hyderabad,Mumbai,,,Bike,Apparel,,,5,5.0,On-Time
+SC11136,2025-04-14,Chennai,Hyderabad,666.8,699.29,Bike,Furniture,Rain,4576.92,4,6.0,Delayed
+SC11137,2025-07-29,Delhi,Delhi,793.3,286.52,Heavy Truck,Apparel,Clear,4685.13,1,6.0,Delayed
+SC11138,2025-04-21,Hyderabad,Hyderabad,,,Van,Pharma,,,3,2.0,On-Time
+SC11139,2025-04-14,Hyderabad,Bengaluru,555.0,569.66,Bike,Pharma,Storm,5713.22,1,7.0,Delayed
+SC11140,2025-11-12,Hyderabad,Hyderabad,541.1,163.12,Mini Truck,Pharma,Rain,5638.79,7,5.0,On-Time
+SC11141,2025-06-20,Delhi,Chennai,784.1,704.69,Van,Furniture,Storm,222.6,4,8.0,Delayed
+SC11142,2025-12-22,Delhi,Mumbai,788.6,287.86,Van,Groceries,Clear,1158.12,1,4.0,Delayed
+SC11143,2025-11-20,Chennai,Mumbai,550.9,629.42,Heavy Truck,Furniture,Clear,4948.28,3,4.0,Delayed
+SC11144,2025-05-13,Mumbai,Chennai,198.7,150.79,Heavy Truck,Pharma,Fog,2111.02,4,4.0,On-Time
+SC11145,2025-10-20,Hyderabad,Bengaluru,639.9,653.87,Bike,Furniture,Fog,708.46,5,7.0,Delayed
+SC11146,2025-11-24,Mumbai,Chennai,90.1,122.21,Heavy Truck,Pharma,Fog,4742.25,6,3.0,On-Time
+SC11147,2025-05-07,Delhi,Hyderabad,625.7,404.38,Van,Electronics,Rain,2809.31,1,5.0,Delayed
+SC11148,2025-04-16,Delhi,Chennai,728.6,235.22,Bike,Electronics,Rain,3030.6,5,5.0,On-Time
+SC11149,2025-04-02,Delhi,Chennai,,,Bike,Apparel,,,5,4.0,On-Time
+SC11150,2025-10-14,Mumbai,Bengaluru,506.4,249.3,Van,Groceries,Rain,4016.24,2,4.0,Delayed
+SC11151,2025-02-20,Delhi,Hyderabad,347.0,837.69,Bike,Electronics,Clear,3374.76,3,4.0,Delayed
+SC11152,2025-01-29,Chennai,Delhi,353.0,847.28,Mini Truck,Pharma,Clear,1359.04,7,3.0,On-Time
+SC11153,2025-10-23,Delhi,Delhi,251.7,187.02,Mini Truck,Furniture,Clear,2140.94,6,3.0,On-Time
+SC11154,2025-10-24,Bengaluru,Mumbai,610.9,583.35,Bike,Furniture,Clear,3641.74,1,5.0,Delayed
+SC11155,2025-08-02,Mumbai,Chennai,749.3,83.79,Heavy Truck,Apparel,Clear,5560.5,5,5.0,On-Time
+SC11156,2025-09-24,Bengaluru,Mumbai,752.9,372.26,Mini Truck,Furniture,Rain,5534.2,5,7.0,Delayed
+SC11157,2025-09-14,Delhi,Bengaluru,144.0,677.8,Bike,Electronics,Fog,1834.25,7,3.0,On-Time
+SC11158,2025-10-29,Chennai,Delhi,700.4,626.62,Mini Truck,Furniture,Rain,4453.38,3,6.0,Delayed
+SC11159,2025-04-11,Hyderabad,Chennai,591.3,593.65,Heavy Truck,Electronics,Clear,4686.79,6,4.0,On-Time
+SC11160,2025-12-12,Delhi,Bengaluru,206.0,268.77,Van,Electronics,Storm,4881.62,6,5.0,On-Time
+SC11161,2025-04-20,Chennai,Bengaluru,58.5,359.43,Bike,Groceries,Clear,3488.96,7,2.0,On-Time
+SC11162,2025-07-01,Mumbai,Chennai,218.1,98.25,Bike,Apparel,Rain,211.47,5,4.0,On-Time
+SC11163,2025-11-09,Bengaluru,Bengaluru,730.2,683.21,Bike,Pharma,Clear,4605.81,5,5.0,On-Time
+SC11164,2025-01-01,Bengaluru,Chennai,508.4,478.94,Bike,Electronics,Clear,773.6,5,5.0,On-Time
+SC11165,2025-11-15,Bengaluru,Chennai,578.2,673.47,Bike,Apparel,Clear,833.7,5,4.0,On-Time
+SC11166,2025-02-24,Mumbai,Hyderabad,209.4,236.87,Bike,Pharma,Rain,3692.91,2,3.0,Delayed
+SC11167,2025-05-29,Chennai,Mumbai,576.9,308.55,Heavy Truck,Furniture,Clear,5903.6,2,4.0,Delayed
+SC11168,2025-11-05,Mumbai,Bengaluru,27.4,317.84,Van,Apparel,Clear,1568.86,7,1.0,On-Time
+SC11169,2025-05-17,Bengaluru,Bengaluru,303.4,24.94,Heavy Truck,Apparel,Clear,3927.99,6,3.0,On-Time
+SC11170,2025-07-21,Delhi,Hyderabad,503.3,324.32,Heavy Truck,Apparel,Clear,1926.37,4,4.0,On-Time
+SC11171,2025-11-09,Hyderabad,Hyderabad,121.1,763.24,Van,Furniture,Rain,5407.55,1,3.0,Delayed
+SC11172,2025-04-27,Mumbai,Hyderabad,659.3,852.48,Heavy Truck,Furniture,Clear,3622.07,3,5.0,Delayed
+SC11173,2025-06-03,Mumbai,Delhi,191.8,492.55,Mini Truck,Apparel,Clear,1363.74,4,3.0,On-Time
+SC11174,2025-10-18,Chennai,Delhi,523.6,433.0,Heavy Truck,Groceries,Clear,1683.47,2,3.0,Delayed
+SC11175,2025-03-04,Chennai,Delhi,327.1,29.77,Bike,Electronics,Clear,2680.01,2,2.0,On-Time
+SC11176,2025-09-01,Mumbai,Chennai,478.9,835.3,Mini Truck,Furniture,Clear,863.95,2,5.0,Delayed
+SC11177,2025-01-25,Bengaluru,Bengaluru,90.4,12.85,Mini Truck,Groceries,Rain,610.59,4,2.0,On-Time
+SC11178,2025-03-31,Hyderabad,Mumbai,18.4,897.54,Van,Furniture,Clear,4128.36,2,3.0,Delayed
+SC11179,2025-03-16,Chennai,Chennai,728.1,465.01,Heavy Truck,Apparel,Clear,2531.92,4,6.0,Delayed
+SC11180,2025-10-21,Bengaluru,Bengaluru,219.4,325.17,Heavy Truck,Groceries,Clear,4398.42,2,2.0,On-Time
+SC11181,2025-07-29,Delhi,Bengaluru,656.6,878.05,Mini Truck,Pharma,Clear,793.84,5,5.0,On-Time
+SC11182,2025-12-13,Chennai,Hyderabad,799.5,23.66,Heavy Truck,Electronics,Clear,3717.71,5,5.0,On-Time
+SC11183,2025-01-17,Bengaluru,Hyderabad,173.1,552.56,Heavy Truck,Electronics,Clear,2743.34,1,2.0,Delayed
+SC11184,2025-05-08,Bengaluru,Chennai,215.8,521.71,Van,Furniture,Clear,489.29,2,3.0,Delayed
+SC11185,2025-12-30,Hyderabad,Hyderabad,532.0,208.74,Mini Truck,Electronics,Clear,3337.09,7,5.0,On-Time
+SC11186,2025-09-08,Hyderabad,Bengaluru,772.5,407.73,Bike,Pharma,Fog,634.41,1,6.0,Delayed
+SC11187,2025-06-28,Delhi,Hyderabad,733.1,619.82,Mini Truck,Groceries,Rain,4992.16,4,7.0,Delayed
+SC11188,2025-07-01,Bengaluru,Delhi,404.8,690.91,Van,Groceries,Rain,3846.95,1,5.0,Delayed
+SC11189,2025-06-01,Bengaluru,Hyderabad,637.1,1.18,Van,Apparel,Clear,3408.26,2,5.0,Delayed
+SC11190,2025-01-25,Hyderabad,Bengaluru,112.9,890.04,Van,Groceries,Rain,930.79,4,3.0,On-Time
+SC11191,2025-06-29,Chennai,Chennai,782.1,156.72,Heavy Truck,Furniture,Fog,1831.62,7,8.0,Delayed
+SC11192,2025-07-17,Chennai,Mumbai,771.7,222.28,Mini Truck,Pharma,Rain,3033.32,4,7.0,Delayed
+SC11193,2025-12-10,Mumbai,Hyderabad,135.2,250.67,Heavy Truck,Apparel,Clear,3854.71,5,2.0,On-Time
+SC11194,2025-06-10,Hyderabad,Bengaluru,243.0,36.41,Heavy Truck,Furniture,Clear,1221.9,4,2.0,On-Time
+SC11195,2025-06-26,Mumbai,Mumbai,84.6,117.34,Mini Truck,Furniture,Clear,201.87,4,1.0,On-Time
+SC11196,2025-10-12,Hyderabad,Mumbai,221.0,937.04,Van,Furniture,Clear,2166.85,1,4.0,Delayed
+SC11197,2025-03-04,Delhi,Delhi,653.7,299.8,Bike,Electronics,Clear,2974.8,7,5.0,On-Time
+SC11198,2025-05-30,Bengaluru,Mumbai,305.8,109.98,Bike,Furniture,Fog,1228.94,6,4.0,On-Time
+SC11199,2025-06-03,Delhi,Bengaluru,75.3,102.09,Mini Truck,Electronics,Rain,3029.17,4,1.0,On-Time
+SC11200,2025-06-05,Hyderabad,Bengaluru,277.1,683.63,Mini Truck,Groceries,Clear,2130.14,3,3.0,On-Time
+SC11201,2025-02-18,Bengaluru,Hyderabad,785.2,811.91,Van,Electronics,Clear,2812.27,6,6.0,On-Time
+SC11202,2025-12-03,Chennai,Hyderabad,505.6,244.48,Mini Truck,Furniture,Clear,2182.63,5,5.0,On-Time
+SC11203,2025-03-25,Chennai,Hyderabad,335.8,20.35,Mini Truck,Pharma,Clear,3826.54,7,2.0,On-Time
+SC11204,2025-12-27,Mumbai,Mumbai,137.4,212.32,Van,Pharma,Clear,400.95,7,1.0,On-Time
+SC11205,2025-06-26,Hyderabad,Mumbai,789.0,54.16,Van,Groceries,Clear,1149.8,5,6.0,Delayed
+SC11206,2025-05-28,Hyderabad,Delhi,657.6,98.67,Heavy Truck,Furniture,Clear,2681.59,4,5.0,Delayed
+SC11207,2025-04-28,Chennai,Hyderabad,228.8,410.22,Mini Truck,Electronics,Storm,2234.34,1,4.0,Delayed
+SC11208,2025-12-08,Delhi,Chennai,60.7,218.81,Bike,Pharma,Clear,2441.05,6,1.0,On-Time
+SC11209,2025-03-04,Bengaluru,Delhi,50.0,490.39,Mini Truck,Apparel,Clear,4852.0,5,1.0,On-Time
+SC11210,2025-07-08,Delhi,Chennai,,,Bike,Furniture,,,5,2.0,On-Time
+SC11211,2025-12-26,Delhi,Mumbai,466.7,893.54,Bike,Furniture,Clear,1604.71,3,5.0,Delayed
+SC11212,2025-02-18,Chennai,Delhi,743.4,860.69,Bike,Apparel,Clear,5042.89,4,5.0,Delayed
+SC11213,2025-11-23,Chennai,Delhi,399.9,538.68,Heavy Truck,Pharma,Rain,2833.92,6,5.0,On-Time
+SC11214,2025-09-14,Chennai,Bengaluru,675.1,337.03,Van,Apparel,Clear,1751.85,5,4.0,On-Time
+SC11215,2025-08-12,Mumbai,Mumbai,359.5,362.4,Van,Groceries,Clear,5914.92,7,4.0,On-Time
+SC11216,2025-05-21,Delhi,Mumbai,568.3,391.55,Heavy Truck,Electronics,Rain,4975.09,5,6.0,Delayed
+SC11217,2025-08-03,Hyderabad,Delhi,586.8,691.34,Van,Electronics,Clear,5966.38,5,5.0,On-Time
+SC11218,2025-07-30,Bengaluru,Mumbai,143.3,429.33,Heavy Truck,Pharma,Clear,1133.92,5,2.0,On-Time
+SC11219,2025-11-14,Mumbai,Delhi,292.2,813.97,Mini Truck,Apparel,Clear,991.48,1,4.0,Delayed
+SC11220,2025-02-01,Hyderabad,Bengaluru,511.7,896.92,Heavy Truck,Furniture,Rain,3094.76,2,6.0,Delayed
+SC11221,2025-06-07,Delhi,Delhi,61.2,319.48,Van,Furniture,Clear,3886.07,3,2.0,On-Time
+SC11222,2025-10-12,Chennai,Mumbai,292.4,532.88,Van,Furniture,Clear,1150.7,7,3.0,On-Time
+SC11223,2025-11-01,Delhi,Mumbai,430.2,90.76,Mini Truck,Groceries,Rain,5183.52,1,5.0,Delayed
+SC11224,2025-10-13,Bengaluru,Delhi,11955.0,190.85,Heavy Truck,Groceries,Clear,3262.28,3,5.0,Delayed
+SC11225,2025-05-24,Mumbai,Delhi,382.3,393.09,Mini Truck,Furniture,Clear,2554.01,5,4.0,On-Time
+SC11226,2025-01-19,Mumbai,Delhi,653.8,196.29,Bike,Pharma,Clear,3672.01,3,5.0,Delayed
+SC11227,2025-01-18,Bengaluru,Hyderabad,348.5,832.79,Heavy Truck,Groceries,Rain,3864.48,4,5.0,Delayed
+SC11228,2025-09-14,Hyderabad,Mumbai,638.1,150.79,Mini Truck,Groceries,Fog,400.28,4,6.0,Delayed
+SC11229,2025-03-19,Hyderabad,Mumbai,478.4,433.15,Mini Truck,Electronics,Storm,5999.37,2,6.0,Delayed
+SC11230,2025-06-24,Mumbai,Hyderabad,709.8,575.61,Van,Electronics,Fog,2278.93,2,7.0,Delayed
+SC11231,2025-07-13,Mumbai,Delhi,331.7,657.42,Heavy Truck,Pharma,Rain,510.02,3,4.0,Delayed
+SC11232,2025-04-23,Chennai,Bengaluru,485.4,364.22,Bike,Groceries,Rain,5136.09,1,5.0,Delayed
+SC11233,2025-04-24,Hyderabad,Delhi,505.9,825.71,Bike,Groceries,Rain,5959.16,1,5.0,Delayed
+SC11234,2025-08-10,Bengaluru,Delhi,336.8,540.12,Heavy Truck,Apparel,Clear,4925.7,5,3.0,On-Time
+SC11235,2025-06-15,Hyderabad,Hyderabad,119.7,417.81,Heavy Truck,Pharma,Clear,5133.51,1,3.0,Delayed
+SC11236,2025-11-15,Chennai,Mumbai,79.4,64.34,Mini Truck,Pharma,Clear,3811.72,2,3.0,Delayed
+SC11237,2025-05-12,Mumbai,Delhi,18.3,441.72,Van,Apparel,Clear,5545.6,1,1.0,On-Time
+SC11238,2025-09-21,Mumbai,Mumbai,699.5,779.79,Van,Apparel,Rain,359.07,5,6.0,Delayed
+SC11239,2025-02-24,Chennai,Chennai,193.0,584.01,Van,Electronics,Clear,4635.33,4,3.0,On-Time
+SC11240,2025-12-25,Bengaluru,Mumbai,173.1,790.64,Heavy Truck,Pharma,Clear,4073.65,1,3.0,Delayed
+SC11241,2025-05-11,Mumbai,Bengaluru,590.1,469.56,Van,Pharma,Clear,440.07,1,5.0,Delayed
+SC11242,2025-10-15,Delhi,Bengaluru,259.4,112.98,Mini Truck,Apparel,Fog,3332.25,2,3.0,Delayed
+SC11243,2025-09-23,Mumbai,Delhi,407.3,13.45,Heavy Truck,Furniture,Rain,3163.1,3,3.0,On-Time
+SC11244,2025-06-11,Delhi,Mumbai,134.2,288.41,Heavy Truck,Furniture,Clear,4195.48,4,2.0,On-Time
+SC11245,2025-03-28,Chennai,Delhi,768.0,663.24,Van,Electronics,Clear,603.56,3,6.0,Delayed
+SC11246,2025-02-24,Chennai,Hyderabad,682.0,750.85,Bike,Furniture,Clear,4860.88,5,6.0,Delayed
+SC11247,2025-10-15,Mumbai,Bengaluru,691.7,281.32,Bike,Furniture,Clear,965.51,5,6.0,Delayed
+SC11248,2025-06-27,Hyderabad,Delhi,328.4,471.12,Mini Truck,Furniture,Clear,2599.19,3,3.0,On-Time
+SC11249,2025-12-15,Delhi,Hyderabad,611.1,400.35,Van,Groceries,Rain,5305.53,2,7.0,Delayed
+SC11250,2025-01-08,Bengaluru,Delhi,119.4,390.29,Van,Electronics,Clear,3429.11,6,2.0,On-Time
+SC11251,2025-11-17,Mumbai,Mumbai,11.9,220.17,Heavy Truck,Apparel,Clear,2370.61,2,2.0,On-Time
+SC11252,2025-11-09,Bengaluru,Mumbai,20.9,129.98,Heavy Truck,Furniture,Clear,431.98,6,1.0,On-Time
+SC11253,2025-09-04,Mumbai,Mumbai,471.3,187.26,Van,Groceries,Clear,4082.8,6,4.0,On-Time
+SC11254,2025-11-19,Hyderabad,Mumbai,367.0,53.04,Heavy Truck,Furniture,Clear,5921.3,2,3.0,Delayed
+SC11255,2025-09-12,Hyderabad,Chennai,416.8,188.63,Van,Groceries,Clear,5484.01,6,4.0,On-Time
+SC11256,2025-11-24,Hyderabad,Hyderabad,,,Mini Truck,Electronics,,,6,3.0,On-Time
+SC11257,2025-02-23,Hyderabad,Hyderabad,341.0,596.08,Heavy Truck,Furniture,Rain,765.96,6,5.0,On-Time
+SC11258,2025-09-06,Chennai,Mumbai,575.9,300.9,Van,Groceries,Clear,1550.72,4,5.0,Delayed
+SC11259,2025-08-27,Chennai,Chennai,356.9,924.5,Heavy Truck,Pharma,Clear,1243.07,5,5.0,On-Time
+SC11260,2025-08-17,Delhi,Mumbai,587.1,184.43,Mini Truck,Pharma,Clear,2229.45,6,5.0,On-Time
+SC11261,2025-03-08,Bengaluru,Chennai,190.3,328.86,Heavy Truck,Groceries,Rain,1527.78,5,3.0,On-Time
+SC11262,2025-02-20,Mumbai,Mumbai,651.4,340.27,Van,Furniture,Clear,1579.97,7,5.0,On-Time
+SC11263,2025-04-07,Mumbai,Bengaluru,472.8,8.52,Heavy Truck,Furniture,Rain,3757.87,5,5.0,On-Time
+SC11264,2025-04-02,Chennai,Bengaluru,,,Heavy Truck,Electronics,,,7,5.0,On-Time
+SC11265,2025-09-21,Mumbai,Delhi,193.2,30.88,Van,Electronics,Clear,4111.4,4,1.0,On-Time
+SC11266,2025-10-18,Chennai,Mumbai,504.3,893.2,Bike,Apparel,Rain,5695.15,5,4.0,On-Time
+SC11267,2025-04-06,Delhi,Hyderabad,664.8,847.52,Heavy Truck,Electronics,Rain,3885.1,3,7.0,Delayed
+SC11268,2025-03-29,Bengaluru,Delhi,335.4,508.98,Heavy Truck,Furniture,Clear,4547.19,1,3.0,Delayed
+SC11269,2025-03-19,Delhi,Bengaluru,210.3,516.64,Mini Truck,Apparel,Rain,4546.75,4,3.0,On-Time
+SC11270,2025-10-15,Hyderabad,Mumbai,,,Bike,Electronics,,,1,4.0,Delayed
+SC11271,2025-04-30,Hyderabad,Delhi,537.1,368.0,Mini Truck,Groceries,Clear,237.5,3,5.0,Delayed
+SC11272,2025-10-29,Hyderabad,Mumbai,361.2,615.04,Van,Pharma,Rain,472.03,2,5.0,Delayed
+SC11273,2025-06-14,Delhi,Bengaluru,392.9,43.01,Van,Electronics,Rain,1800.05,2,4.0,Delayed
+SC11274,2025-07-01,Mumbai,Delhi,167.4,51.82,Mini Truck,Electronics,Fog,4183.83,6,3.0,On-Time
+SC11275,2025-08-11,Bengaluru,Bengaluru,503.3,434.64,Heavy Truck,Groceries,Clear,5454.1,2,4.0,Delayed
+SC11276,2025-11-07,Hyderabad,Chennai,290.2,522.37,Bike,Furniture,Clear,5758.97,4,4.0,On-Time
+SC11277,2025-01-07,Hyderabad,Bengaluru,796.5,843.48,Mini Truck,Groceries,Clear,301.21,2,6.0,Delayed
+SC11278,2025-11-26,Hyderabad,Mumbai,386.7,99.88,Mini Truck,Electronics,Clear,5942.01,4,3.0,On-Time
+SC11279,2025-09-20,Bengaluru,Hyderabad,391.3,781.6,Van,Furniture,Clear,2036.61,4,5.0,Delayed
+SC11280,2025-06-10,Hyderabad,Bengaluru,454.9,199.94,Heavy Truck,Apparel,Clear,5081.29,1,4.0,Delayed
+SC11281,2025-05-31,Bengaluru,Hyderabad,733.8,374.68,Bike,Electronics,Clear,1204.73,2,5.0,Delayed
+SC11282,2025-03-26,Hyderabad,Chennai,,,Mini Truck,Groceries,,,5,5.0,On-Time
+SC11283,2025-05-27,Delhi,Delhi,363.6,380.45,Bike,Apparel,Clear,2363.38,7,2.0,On-Time
+SC11284,2025-04-22,Delhi,Delhi,576.4,143.4,Bike,Pharma,Storm,5174.71,2,7.0,Delayed
+SC11285,2025-02-05,Bengaluru,Hyderabad,471.1,478.64,Mini Truck,Apparel,Rain,1441.83,2,5.0,Delayed
+SC11286,2025-10-12,Delhi,Delhi,396.4,761.66,Bike,Groceries,Clear,1050.65,2,3.0,Delayed
+SC11287,2025-07-07,Bengaluru,Bengaluru,157.9,419.74,Van,Apparel,Fog,5472.36,6,2.0,On-Time
+SC11288,2025-03-23,Delhi,Hyderabad,373.8,466.34,Heavy Truck,Groceries,Rain,5639.27,5,4.0,On-Time
+SC11289,2025-01-02,Delhi,Mumbai,200.4,806.4,Heavy Truck,Electronics,Fog,223.41,5,4.0,On-Time
+SC11290,2025-10-30,Bengaluru,Bengaluru,732.3,670.9,Heavy Truck,Furniture,Clear,4405.5,4,6.0,Delayed
+SC11291,2025-07-16,Mumbai,Bengaluru,271.6,466.19,Van,Pharma,Clear,1958.87,5,4.0,On-Time
+SC11292,2025-01-11,Delhi,Bengaluru,762.0,245.18,Van,Furniture,Fog,2342.02,4,7.0,Delayed
+SC11293,2025-08-22,Hyderabad,Mumbai,428.8,840.74,Van,Furniture,Clear,2894.25,7,3.0,On-Time
+SC11294,2025-07-14,Mumbai,Chennai,507.1,548.38,Heavy Truck,Furniture,Fog,2646.73,1,5.0,Delayed
+SC11295,2025-04-29,Bengaluru,Delhi,436.6,210.48,Bike,Groceries,Rain,3162.6,4,4.0,On-Time
+SC11296,2025-01-20,Mumbai,Hyderabad,107.9,256.03,Van,Groceries,Storm,3556.82,2,4.0,Delayed
+SC11297,2025-09-18,Chennai,Chennai,303.8,763.07,Mini Truck,Pharma,Clear,2873.73,3,4.0,Delayed
+SC11298,2025-10-20,Chennai,Hyderabad,83.8,42.42,Van,Groceries,Clear,4254.15,3,2.0,On-Time
+SC11299,2025-09-13,Delhi,Delhi,500.2,942.49,Mini Truck,Groceries,Clear,4353.82,6,4.0,On-Time
+SC11300,2025-08-10,Delhi,Mumbai,360.3,124.27,Heavy Truck,Groceries,Storm,2726.1,2,5.0,Delayed
+SC11301,2025-08-14,Hyderabad,Bengaluru,623.5,756.37,Mini Truck,Groceries,Clear,983.41,4,5.0,Delayed
+SC11302,2025-02-22,Mumbai,Bengaluru,180.3,375.34,Van,Electronics,Clear,3897.74,2,1.0,On-Time
+SC11303,2025-12-21,Chennai,Mumbai,135.8,467.86,Van,Pharma,Clear,4671.8,6,2.0,On-Time
+SC11304,2025-12-08,Delhi,Chennai,328.0,836.68,Bike,Groceries,Clear,3882.94,5,4.0,On-Time
+SC11305,2025-12-30,Mumbai,Chennai,741.6,392.56,Heavy Truck,Pharma,Clear,3590.12,4,6.0,Delayed
+SC11306,2025-10-07,Delhi,Hyderabad,569.8,510.85,Mini Truck,Apparel,Clear,1492.06,7,6.0,On-Time
+SC11307,2025-03-22,Delhi,Mumbai,338.0,47.31,Heavy Truck,Electronics,Rain,3924.05,2,4.0,Delayed
+SC11308,2025-07-21,Chennai,Chennai,416.2,2.73,Van,Groceries,Clear,2108.91,5,4.0,On-Time
+SC11309,2025-06-07,Chennai,Mumbai,71.9,232.94,Bike,Electronics,Fog,5529.42,6,3.0,On-Time
+SC11310,2025-04-30,Delhi,Delhi,787.7,646.71,Van,Electronics,Rain,3974.26,5,7.0,Delayed
+SC11311,2025-02-28,Bengaluru,Bengaluru,534.8,115.64,Van,Apparel,Rain,1777.35,4,6.0,Delayed
+SC11312,2025-08-03,Delhi,Bengaluru,231.9,108.52,Van,Pharma,Rain,2916.62,6,4.0,On-Time
+SC11313,2025-05-08,Delhi,Bengaluru,470.7,390.71,Mini Truck,Electronics,Clear,5102.5,6,5.0,On-Time
+SC11314,2025-08-12,Hyderabad,Mumbai,92.0,615.62,Van,Furniture,Clear,2112.46,6,2.0,On-Time
+SC11315,2025-07-28,Hyderabad,Mumbai,,,Heavy Truck,Apparel,,,1,5.0,Delayed
+SC11316,2025-04-25,Hyderabad,Hyderabad,144.0,169.94,Heavy Truck,Furniture,Clear,4126.07,6,2.0,On-Time
+SC11317,2025-07-28,Bengaluru,Bengaluru,520.2,76.07,Bike,Apparel,Clear,4564.0,1,4.0,Delayed
+SC11318,2025-01-14,Bengaluru,Hyderabad,200.1,893.41,Heavy Truck,Furniture,Clear,1167.27,5,3.0,On-Time
+SC11319,2025-01-09,Delhi,Bengaluru,575.5,248.0,Van,Furniture,Rain,3456.14,7,5.0,On-Time
+SC11320,2025-02-09,Hyderabad,Hyderabad,622.6,810.75,Van,Electronics,Clear,5486.37,1,5.0,Delayed
+SC11321,2025-08-25,Bengaluru,Hyderabad,540.4,820.39,Heavy Truck,Electronics,Clear,5814.9,5,5.0,On-Time
+SC11322,2025-10-08,Chennai,Delhi,493.5,734.01,Bike,Apparel,Clear,3988.45,1,5.0,Delayed
+SC11323,2025-12-25,Delhi,Hyderabad,714.5,160.81,Bike,Pharma,Storm,5904.42,5,7.0,Delayed
+SC11324,2025-07-20, chennai ,Mumbai,67.5,780.8,Heavy Truck,Electronics,Clear,3488.8,5,2.0,On-Time
+SC11325,2025-09-03,Delhi,Hyderabad,268.1,730.9,Mini Truck,Electronics,Rain,2739.24,7,5.0,On-Time
+SC11326,2025-10-05, chennai ,Bengaluru,202.4,567.09,Mini Truck,Groceries,Clear,3376.79,6,3.0,On-Time
+SC11327,2025-08-23,Hyderabad,Hyderabad,790.5,320.67,Mini Truck,Electronics,Rain,826.92,7,7.0,On-Time
+SC11328,2025-01-04,Mumbai,Chennai,314.6,249.75,Mini Truck,Pharma,Clear,2500.04,7,3.0,On-Time
+SC11329,2025-06-03,Hyderabad,Bengaluru,587.4,116.23,Heavy Truck,Groceries,Rain,2831.67,6,6.0,On-Time
+SC11330,2025-01-29,Chennai,Chennai,549.4,484.51,VAN,Furniture,Clear,5114.47,5,5.0,On-Time
+SC11331,2025-04-19,Mumbai,Bengaluru,173.6,556.21,Van,Furniture,Clear,4588.09,6,2.0,On-Time
+SC11332,2025-04-08, chennai ,Mumbai,195.0,341.69,Van,Groceries,Rain,3668.35,5,4.0,On-Time
+SC11333,2025-08-03,Hyderabad,Mumbai,228.6,451.85,Heavy Truck,Groceries,Rain,2181.57,6,3.0,On-Time
+SC11334,2025-10-20,Delhi,Mumbai,331.8,345.66,Van,Groceries,Rain,1244.15,3,4.0,Delayed
+SC11335,2025-03-16,Bengaluru,Chennai,191.3,609.14,Mini Truck,Apparel,Fog,2184.43,1,4.0,Delayed
+SC11336,2025-11-22,Hyderabad,Delhi,20.6,856.25,Bike,Pharma,Clear,4126.85,7,2.0,On-Time
+SC11337,2025-05-26,Mumbai,Bengaluru,704.1,156.14,Heavy Truck,Pharma,Fog,1688.77,5,7.0,Delayed
+SC11338,2025-05-08,Hyderabad,Mumbai,772.7,362.65,Bike,Furniture,Clear,2647.29,2,6.0,Delayed
+SC11339,2025-12-07,Delhi,Bengaluru,276.5,134.25,Heavy Truck,Furniture,Rain,2412.61,6,4.0,On-Time
+SC11340,2025-02-11,Chennai,Chennai,274.1,593.88,Heavy Truck,Furniture,Clear,4628.7,6,3.0,On-Time
+SC11341,2025-12-22,Hyderabad,Delhi,10.6,692.56,Heavy Truck,Electronics,Clear,5320.15,4,3.0,On-Time
+SC11342,2025-02-10,Mumbai,Chennai,545.8,885.35,Heavy Truck,Furniture,Clear,4241.32,2,6.0,Delayed
+SC11343,2025-02-03,Bengaluru,Bengaluru,661.2,265.29,Bike,Groceries,Clear,2148.37,2,6.0,Delayed
+SC11344,2025-01-17,Chennai,Delhi,121.6,902.73,Van,Furniture,Clear,2684.09,7,3.0,On-Time
+SC11345,2025-06-14,Bengaluru,Delhi,131.9,60.57,Heavy Truck,Groceries,Clear,988.6,3,1.0,On-Time
+SC11346,2025-06-02,Hyderabad,Chennai,633.1,573.06,Mini Truck,Apparel,Clear,1133.37,1,5.0,Delayed
+SC11347,2025-03-17,Delhi,Mumbai,495.0,54.75,Heavy Truck,Electronics,Clear,1111.11,3,4.0,Delayed
+SC11348,2025-03-28,Delhi,Bengaluru,40.7,849.14,Bike,Electronics,Clear,913.93,1,3.0,Delayed
+SC11349,2025-04-27,Mumbai,Hyderabad,499.9,503.55,Heavy Truck,Pharma,Clear,1200.55,5,5.0,On-Time
+SC11350,2025-12-28,Delhi,Hyderabad,250.6,636.05,Mini Truck,Apparel,Clear,1335.73,7,3.0,On-Time
+SC11351,2025-12-08,Chennai,Chennai,298.1,790.08,Bike,Groceries,Clear,804.3,3,5.0,Delayed
+SC11352,2025-01-27,Delhi,Bengaluru,616.9,143.22,Heavy Truck,Apparel,Rain,3895.53,4,5.0,Delayed
+SC11353,2025-11-09,Mumbai,Bengaluru,649.7,37.14,Mini Truck,Electronics,Fog,5943.85,1,6.0,Delayed
+SC11354,2025-10-14,Hyderabad,Chennai,323.3,835.0,Bike,Groceries,Clear,5293.24,3,4.0,Delayed
+SC11355,2025-05-14,Hyderabad,Bengaluru,758.0,299.53,Heavy Truck,Apparel,Rain,416.78,7,7.0,On-Time
+SC11356,2025-08-07,Delhi,Mumbai,328.1,122.97,Mini Truck,Electronics,Rain,2624.89,4,4.0,On-Time
+SC11357,2025-06-17,Bengaluru,Chennai,618.6,445.3,Bike,Groceries,Clear,5176.97,7,5.0,On-Time
+SC11358,2025-04-08,Hyderabad,Mumbai,389.7,568.59,Heavy Truck,Groceries,Rain,937.85,2,4.0,Delayed
+SC11359,2025-09-25,Delhi,Bengaluru,718.5,29.91,Bike,Electronics,Clear,5108.72,6,5.0,On-Time
+SC11360,2025-08-25,Mumbai,Chennai,726.7,261.51,Mini Truck,Groceries,Clear,3617.3,5,6.0,Delayed
+SC11361,2025-11-05,Delhi,Bengaluru,74.5,31.64,Heavy Truck,Electronics,Clear,5598.1,7,2.0,On-Time
+SC11362,2025-06-22,Hyderabad,Chennai,11242.5,399.61,Heavy Truck,Furniture,Clear,5274.83,5,5.0,On-Time
+SC11363,2025-07-09,Mumbai,Bengaluru,661.3,850.4,Heavy Truck,Furniture,Rain,4110.65,7,5.0,On-Time
+SC11364,2025-05-02,Delhi,Mumbai,634.1,933.53,Mini Truck,Groceries,Clear,3998.26,2,5.0,Delayed
+SC11365,2025-02-15,Chennai,Mumbai,164.7,605.38,Van,Groceries,Clear,1397.01,7,3.0,On-Time
+SC11366,2025-03-05,Mumbai,Bengaluru,645.1,153.97,Heavy Truck,Electronics,Clear,833.0,7,4.0,On-Time
+SC11367,2025-05-10,Chennai,Chennai,680.9,860.6,Mini Truck,Groceries,Rain,2580.05,3,7.0,Delayed
+SC11368,2025-11-06,Bengaluru,Hyderabad,234.9,490.68,Bike,Pharma,Rain,1241.49,6,4.0,On-Time
+SC11369,2025-12-29,Mumbai,Mumbai,,,Bike,Furniture,,,2,7.0,Delayed
+SC11370,2025-07-12,Chennai,Mumbai,44.6,875.68,Mini Truck,Groceries,Clear,1918.61,4,2.0,On-Time
+SC11371,2025-11-03,Hyderabad,Hyderabad,124.2,719.72,Van,Groceries,Clear,5183.87,6,3.0,On-Time
+SC11372,2025-06-30,Hyderabad,Bengaluru,432.4,695.25,Mini Truck,Apparel,Clear,250.32,1,4.0,Delayed
+SC11373,2025-10-19,Bengaluru,Chennai,462.8,673.87,Bike,Groceries,Clear,1861.93,3,4.0,Delayed
+SC11374,2025-10-09,Mumbai,Bengaluru,517.9,190.72,Bike,Pharma,Clear,2630.71,6,3.0,On-Time
+SC11375,2025-01-29,Mumbai,Delhi,18.5,200.85,Heavy Truck,Furniture,Clear,3136.83,1,2.0,Delayed
+SC11376,2025-05-29,Mumbai,Mumbai,768.5,654.03,Van,Apparel,Clear,1212.23,2,7.0,Delayed
+SC11377,2025-09-24,Bengaluru,Delhi,40.4,209.13,Mini Truck,Electronics,Fog,5790.69,7,2.0,On-Time
+SC11378,2025-10-23,Mumbai,Mumbai,118.7,417.02,Bike,Electronics,Rain,3536.41,5,2.0,On-Time
+SC11379,2025-01-11,Hyderabad,Mumbai,16.1,743.01,Bike,Furniture,Clear,3204.35,6,1.0,On-Time
+SC11380,2025-06-13,Chennai,Delhi,455.7,744.86,Bike,Electronics,Clear,201.61,6,4.0,On-Time
+SC11381,2025-04-23,Hyderabad,Delhi,746.2,430.87,Mini Truck,Pharma,Clear,2991.43,1,5.0,Delayed
+SC11382,2025-07-06,Hyderabad,Bengaluru,534.4,752.68,Mini Truck,Groceries,Rain,5050.37,1,5.0,Delayed
+SC11383,2025-10-22,Chennai,Delhi,659.0,796.77,Van,Furniture,Rain,1434.92,5,6.0,Delayed
+SC11384,2025-08-20,Hyderabad,Bengaluru,15.6,622.21,Heavy Truck,Apparel,Storm,2204.56,1,4.0,Delayed
+SC11385,2025-08-15,Bengaluru,Bengaluru,435.9,217.39,Heavy Truck,Groceries,Clear,270.34,1,2.0,Delayed
+SC11386,2025-11-06,Chennai,Bengaluru,370.4,260.67,Heavy Truck,Electronics,Rain,5865.03,6,4.0,On-Time
+SC11387,2025-04-08,Hyderabad,Mumbai,401.7,299.44,Bike,Electronics,Clear,539.91,5,4.0,On-Time
+SC11388,2025-02-24,Delhi,Mumbai,62.4,111.41,Heavy Truck,Apparel,Fog,5404.59,5,2.0,On-Time
+SC11389,2025-04-21,Hyderabad,Delhi,549.1,259.87,Bike,Pharma,Rain,1980.98,7,5.0,On-Time
+SC11390,2025-06-01,Bengaluru,Mumbai,405.1,199.44,Van,Apparel,Rain,3587.2,6,4.0,On-Time
+SC11391,2025-09-03,Mumbai,Delhi,613.3,432.83,Bike,Furniture,Clear,4124.0,7,5.0,On-Time
+SC11392,2025-03-10,Hyderabad,Mumbai,390.8,863.06,Van,Apparel,Rain,973.85,2,4.0,Delayed
+SC11393,2025-11-08,Mumbai,Chennai,123.8,99.7,Van,Electronics,Clear,2745.99,2,2.0,On-Time
+SC11394,2025-10-16,Delhi,Chennai,520.4,684.39,Heavy Truck,Pharma,Clear,2053.98,6,4.0,On-Time
+SC11395,2025-09-07,Hyderabad,Delhi,142.0,653.08,Heavy Truck,Pharma,Clear,481.12,1,1.0,On-Time
+SC11396,2025-02-05,Chennai,Mumbai,698.6,91.42,Bike,Apparel,Clear,5024.18,3,5.0,Delayed
+SC11397,2025-08-27,Mumbai,Mumbai,492.4,876.48,Mini Truck,Furniture,Clear,414.23,2,4.0,Delayed
+SC11398,2025-05-28,Delhi,Bengaluru,130.0,540.26,Heavy Truck,Electronics,Clear,3971.56,2,1.0,On-Time
+SC11399,2025-08-15,Chennai,Hyderabad,770.1,345.86,Heavy Truck,Groceries,Clear,1987.35,6,6.0,On-Time
+SC11400,2025-09-01,Chennai,Delhi,417.1,718.83,Mini Truck,Pharma,Clear,1273.96,7,4.0,On-Time
+SC11401,2025-12-03,Chennai,Hyderabad,63.0,244.87,Mini Truck,Apparel,Clear,4052.45,6,1.0,On-Time
+SC11402,2025-12-31,Chennai,Hyderabad,,,Heavy Truck,Furniture,,,3,5.0,Delayed
+SC11403,2025-07-20,Hyderabad,Delhi,206.3,38.21,Mini Truck,Furniture,Clear,1994.25,3,2.0,On-Time
+SC11404,2025-06-03,Hyderabad,Mumbai,643.9,797.52,Bike,Electronics,Clear,3150.82,5,6.0,Delayed
+SC11405,2025-03-14,Hyderabad,Delhi,655.2,426.04,Van,Pharma,Clear,1590.49,6,5.0,On-Time
+SC11406,2025-07-20,Delhi,Hyderabad,783.3,605.04,Van,Electronics,Rain,5202.62,2,6.0,Delayed
+SC11407,2025-10-23,Delhi,Mumbai,404.0,210.57,Heavy Truck,Groceries,Clear,1985.84,7,4.0,On-Time
+SC11408,2025-01-17,Delhi,Chennai,366.7,643.38,Heavy Truck,Groceries,Rain,1584.15,7,5.0,On-Time
+SC11409,2025-05-09,Bengaluru,Delhi,604.0,733.74,Bike,Groceries,Clear,4548.23,4,5.0,Delayed
+SC11410,2025-08-05,Delhi,Delhi,110.3,449.82,Mini Truck,Furniture,Storm,252.92,4,4.0,On-Time
+SC11411,2025-03-02,Hyderabad,Mumbai,439.8,587.03,Heavy Truck,Pharma,Clear,1717.87,1,4.0,Delayed
+SC11412,2025-04-14,Hyderabad,Chennai,439.3,433.78,Van,Electronics,Clear,2346.06,2,4.0,Delayed
+SC11413,2025-02-11,Bengaluru,Chennai,76.1,849.44,Bike,Electronics,Clear,5311.09,4,3.0,On-Time
+SC11414,2025-01-25,Bengaluru,Mumbai,337.3,473.23,Bike,Groceries,Clear,5710.08,7,2.0,On-Time
+SC11415,2025-02-08,Delhi,Bengaluru,,,Mini Truck,Pharma,,,2,6.0,Delayed
+SC11416,2025-10-18,Mumbai,Delhi,685.6,761.38,Heavy Truck,Pharma,Clear,3031.31,6,4.0,On-Time
+SC11417,2025-05-11,Bengaluru,Delhi,83.9,390.27,Heavy Truck,Apparel,Clear,3897.64,2,2.0,On-Time
+SC11418,2025-08-17,Chennai,Hyderabad,,,Bike,Pharma,,,4,3.0,On-Time
+SC11419,2025-04-18,Hyderabad,Mumbai,213.8,386.07,Van,Pharma,Clear,1898.13,7,3.0,On-Time
+SC11420,2025-06-21,Chennai,Hyderabad,700.4,784.99,Heavy Truck,Electronics,Clear,5711.53,2,6.0,Delayed
+SC11421,2025-04-12,Hyderabad,Hyderabad,107.5,216.64,Van,Pharma,Clear,825.03,3,2.0,On-Time
+SC11422,2025-12-20,Hyderabad,Chennai,577.4,498.45,Bike,Pharma,Clear,2176.4,1,5.0,Delayed
+SC11423,2025-01-12,Bengaluru,Delhi,85.4,765.89,Heavy Truck,Electronics,Fog,5409.67,5,4.0,On-Time
+SC11424,2025-10-02,Bengaluru,Hyderabad,500.4,336.13,Van,Pharma,Rain,4380.38,7,6.0,On-Time
+SC11425,2025-04-11,Chennai,Chennai,288.1,610.28,Bike,Electronics,Rain,320.24,4,4.0,On-Time
+SC11426,2025-02-13,Hyderabad,Mumbai,632.2,233.73,Van,Apparel,Fog,285.13,6,6.0,On-Time
+SC11427,2025-11-01,Chennai,Hyderabad,190.8,104.26,Heavy Truck,Furniture,Clear,3171.6,5,2.0,On-Time
+SC11428,2025-01-17,Mumbai,Delhi,513.2,754.77,Mini Truck,Electronics,Clear,2982.88,1,6.0,Delayed
+SC11429,2025-11-26,Chennai,Hyderabad,192.4,94.47,Van,Electronics,Clear,2741.5,7,2.0,On-Time
+SC11430,2025-02-26,Delhi,Mumbai,572.4,258.18,Mini Truck,Pharma,Rain,1918.71,7,6.0,On-Time
+SC11431,2025-11-07,Chennai,Hyderabad,699.6,812.43,Heavy Truck,Electronics,Fog,5921.84,3,6.0,Delayed
+SC11432,2025-10-30,Delhi,Delhi,105.8,329.47,Mini Truck,Groceries,Clear,1741.13,3,3.0,On-Time
+SC11433,2025-01-12,Delhi,Chennai,693.9,924.41,Bike,Groceries,Clear,3016.74,3,6.0,Delayed
+SC11434,2025-11-14,Delhi,Delhi,476.9,930.76,Mini Truck,Apparel,Fog,2518.62,3,6.0,Delayed
+SC11435,2025-03-21,Mumbai,Chennai,106.1,255.23,Van,Electronics,Clear,1145.96,4,2.0,On-Time
+SC11436,2025-08-04,Chennai,Bengaluru,344.9,39.41,Van,Pharma,Fog,1335.32,7,4.0,On-Time
+SC11437,2025-12-05,Chennai,Delhi,,,Mini Truck,Pharma,,,4,2.0,On-Time
+SC11438,2025-09-21,Mumbai,Delhi,561.8,428.71,Bike,Furniture,Clear,5170.94,2,6.0,Delayed
+SC11439,2025-05-29, chennai ,Mumbai,608.3,96.16,Heavy Truck,Apparel,Clear,1314.41,6,4.0,On-Time
+SC11440,2025-03-22,Bengaluru,Hyderabad,,,Mini Truck,Pharma,,,2,3.0,Delayed
+SC11441,2025-08-03,Chennai,Chennai,407.4,30.1,Van,Furniture,Clear,1373.74,6,4.0,On-Time
+SC11442,2025-07-17,Bengaluru,Chennai,652.6,826.75,Van,Pharma,Clear,3815.3,1,6.0,Delayed
+SC11443,2025-07-19,Mumbai,Mumbai,749.2,132.15,Mini Truck,Furniture,Fog,625.49,2,7.0,Delayed
+SC11444,2025-01-25,Hyderabad,Mumbai,413.2,121.38,Mini Truck,Groceries,Rain,5300.16,1,5.0,Delayed
+SC11445,2025-03-30,Hyderabad,Hyderabad,760.5,167.3,Mini Truck,Groceries,Rain,451.28,1,7.0,Delayed
+SC11446,2025-09-25,Hyderabad,Hyderabad,430.9,912.27,Heavy Truck,Pharma,Clear,3396.42,1,5.0,Delayed
+SC11447,2025-05-23,Mumbai,Delhi,318.4,658.66,Van,Apparel,Fog,4711.31,3,5.0,Delayed
+SC11448,2025-02-28,Delhi,Bengaluru,679.3,761.4,Van,Electronics,Clear,833.48,5,5.0,On-Time
+SC11449,2025-12-31,Delhi,Hyderabad,396.9,378.05,Van,Apparel,Clear,2516.21,5,4.0,On-Time
+SC11450,2025-01-26,Bengaluru,Mumbai,380.2,319.83,Heavy Truck,Apparel,Clear,395.41,4,4.0,On-Time
+SC11451,2025-02-16,Delhi,Hyderabad,394.8,223.14,Bike,Electronics,Clear,4144.1,1,3.0,Delayed
+SC11452,2025-10-15,Delhi,Chennai,678.2,456.88,Van,Groceries,Fog,1948.58,3,6.0,Delayed
+SC11453,2025-09-23,Hyderabad,Bengaluru,666.4,524.46,Van,Groceries,Clear,3422.46,2,6.0,Delayed
+SC11454,2025-01-16,Hyderabad,Delhi,325.8,600.37,Bike,Electronics,Clear,5606.48,2,4.0,Delayed
+SC11455,2025-07-18,Bengaluru,Chennai,270.0,244.63,Heavy Truck,Furniture,Rain,1939.27,4,3.0,On-Time
+SC11456,2025-10-09,Chennai,Chennai,396.1,901.25,Bike,Apparel,Rain,434.47,4,5.0,Delayed
+SC11457,2025-03-27,Bengaluru,Bengaluru,460.4,161.69,Bike,Pharma,Rain,4102.42,1,4.0,Delayed
+SC11458,2025-09-07,Bengaluru,Delhi,194.5,917.39,Bike,Groceries,Clear,4753.02,1,3.0,Delayed
+SC11459,2025-09-27,Mumbai,Mumbai,636.2,14.61,Bike,Pharma,Rain,5753.53,2,5.0,Delayed
+SC11460,2025-12-01,Mumbai,Delhi,391.8,457.33,Heavy Truck,Electronics,Clear,1073.14,2,3.0,Delayed
+SC11461,2025-04-27,Bengaluru,Hyderabad,270.6,317.03,Heavy Truck,Pharma,Storm,2444.02,2,5.0,Delayed
+SC11462,2025-01-07,Bengaluru,Chennai,89.9,426.94,Bike,Pharma,Clear,5088.22,2,2.0,On-Time
+SC11463,2025-05-17,Bengaluru,Hyderabad,194.9,542.35,Mini Truck,Apparel,Rain,4870.2,5,4.0,On-Time
+SC11464,2025-06-25,Delhi,Mumbai,759.7,414.09,Mini Truck,Electronics,Clear,3805.05,1,5.0,Delayed
+SC11465,2025-11-24,Mumbai,Hyderabad,247.6,394.4,Mini Truck,Pharma,Clear,1725.81,1,3.0,Delayed
+SC11466,2025-11-11,Bengaluru,Delhi,139.2,696.22,VAN,Groceries,Clear,1811.61,2,3.0,Delayed
+SC11467,2025-08-03,Hyderabad,Hyderabad,371.2,651.74,Van,Electronics,Clear,875.42,3,3.0,On-Time
+SC11468,2025-03-23,Hyderabad,Mumbai,,,Heavy Truck,Groceries,,,2,4.0,Delayed
+SC11469,2025-08-11,Delhi,Mumbai,33.0,237.84,Heavy Truck,Furniture,Rain,1161.65,6,2.0,On-Time
+SC11470,2025-04-13,Delhi,Mumbai,261.9,579.25,Bike,Pharma,Clear,3501.39,7,4.0,On-Time
+SC11471,2025-09-30,Chennai,Delhi,437.6,556.14,Van,Electronics,Rain,3568.46,7,6.0,On-Time
+SC11472,2025-01-14,Chennai,Mumbai,443.6,351.57,Bike,Groceries,Clear,2312.19,4,4.0,On-Time
+SC11473,2025-06-08,Chennai,Chennai,288.5,462.01,Bike,Pharma,Clear,2212.23,6,3.0,On-Time
+SC11474,2025-06-01,Delhi,Mumbai,360.6,298.44,Heavy Truck,Apparel,Rain,4061.24,3,5.0,Delayed
+SC11475,2025-04-18,Delhi,Hyderabad,772.6,135.18,Van,Groceries,Rain,2421.54,4,5.0,Delayed
+SC11476,2025-07-07,Delhi,Hyderabad,305.0,203.5,Mini Truck,Groceries,Clear,1642.43,7,3.0,On-Time
+SC11477,2025-10-28,Hyderabad,Hyderabad,210.3,100.69,Heavy Truck,Furniture,Clear,2484.92,3,3.0,On-Time
+SC11478,2025-04-08,Delhi,Delhi,198.6,649.07,Van,Apparel,Rain,4874.82,4,3.0,On-Time
+SC11479,2025-05-11,Hyderabad,Hyderabad,368.9,627.86,Van,Furniture,Clear,5803.9,2,4.0,Delayed
+SC11480,2025-10-20,Chennai,Delhi,608.8,903.1,Heavy Truck,Apparel,Clear,3870.31,2,6.0,Delayed
+SC11481,2025-06-20,Chennai,Delhi,168.8,693.33,Heavy Truck,Groceries,Rain,4725.29,3,4.0,Delayed
+SC11482,2025-07-02,Chennai,Mumbai,,,Bike,Furniture,,,4,5.0,Delayed
+SC11483,2025-12-30,Bengaluru,Chennai,21.8,840.09,Bike,Pharma,Clear,3805.22,5,1.0,On-Time
+SC11484,2025-02-08,Bengaluru,Mumbai,338.1,819.61,Bike,Apparel,Fog,5930.31,3,4.0,Delayed
+SC11485,2025-01-15,Mumbai,Mumbai,621.8,421.43,Mini Truck,Groceries,Rain,2714.75,3,7.0,Delayed
+SC11486,2025-01-04,Mumbai,Delhi,274.3,556.78,Heavy Truck,Electronics,Clear,537.59,6,4.0,On-Time
+SC11487,2025-12-15,Mumbai,Delhi,453.2,927.29,Van,Apparel,Clear,5748.49,1,5.0,Delayed
+SC11488,2025-07-29,Bengaluru,Hyderabad,168.0,505.92,VAN,Apparel,Clear,4789.41,3,2.0,On-Time
+SC11489,2025-06-10,Bengaluru,Hyderabad,594.9,860.1,Van,Pharma,Rain,2480.12,5,6.0,Delayed
+SC11490,2025-01-16,Mumbai,Mumbai,46.6,79.35,Mini Truck,Apparel,Rain,5897.01,2,3.0,Delayed
+SC11491,2025-04-18,Mumbai,Bengaluru,682.8,181.9,Heavy Truck,Apparel,Clear,2171.38,4,5.0,Delayed
+SC11492,2025-11-07,Delhi,Bengaluru,162.6,419.0,Van,Pharma,Clear,2326.9,1,3.0,Delayed
+SC11493,2025-08-15,Mumbai,Hyderabad,700.1,555.73,Van,Pharma,Clear,3716.93,4,6.0,Delayed
+SC11494,2025-06-19,Delhi,Bengaluru,285.3,775.51,Bike,Furniture,Clear,1754.93,2,3.0,Delayed
+SC11495,2025-02-03,Hyderabad,Hyderabad,579.5,938.85,Mini Truck,Groceries,Rain,4236.64,3,6.0,Delayed
+SC11496,2025-09-08,Bengaluru,Delhi,,,Heavy Truck,Groceries,,,6,4.0,On-Time
+SC11497,2025-09-04,Mumbai,Mumbai,725.2,45.52,Bike,Furniture,Clear,781.95,5,5.0,On-Time
+SC11498,2025-09-26,Bengaluru,Chennai,105.7,761.21,Mini Truck,Groceries,Clear,3279.04,1,2.0,Delayed
+SC11499,2025-05-21,Bengaluru,Mumbai,146.9,574.36,Bike,Apparel,Clear,3399.64,5,2.0,On-Time
+SC11500,2025-10-01,Bengaluru,Hyderabad,397.0,189.02,Heavy Truck,Furniture,Clear,773.93,7,3.0,On-Time
+SC11501,2025-04-06,Hyderabad,Hyderabad,70.1,470.34,Van,Furniture,Clear,5790.43,5,3.0,On-Time
+SC11502,2025-08-15,Chennai,Mumbai,160.8,705.32,Heavy Truck,Groceries,Rain,3503.73,5,3.0,On-Time
+SC11503,2025-02-08,Mumbai,Hyderabad,755.3,732.01,Mini Truck,Electronics,Storm,1033.55,5,8.0,Delayed
+SC11504,2025-10-29,Chennai,Bengaluru,781.3,474.89,Heavy Truck,Groceries,Fog,1971.94,2,8.0,Delayed
+SC11505,2025-01-29,Chennai,Bengaluru,304.1,290.3,Mini Truck,Electronics,Clear,4831.37,5,2.0,On-Time
+SC11506,2025-11-14,Chennai,Hyderabad,739.0,925.07,Bike,Furniture,Rain,3210.9,6,7.0,Delayed
+SC11507,2025-09-02,Bengaluru,Hyderabad,438.1,630.36,Mini Truck,Electronics,Storm,1250.67,5,6.0,Delayed
+SC11508,2025-08-24,Delhi,Bengaluru,219.4,388.12,Van,Apparel,Clear,751.67,2,2.0,On-Time
+SC11509,2025-07-04,Bengaluru,Hyderabad,563.4,266.8,Van,Pharma,Clear,2670.03,4,4.0,On-Time
+SC11510,2025-09-29,Bengaluru,Hyderabad,528.8,694.68,Van,Electronics,Clear,2123.88,2,4.0,Delayed
+SC11511,2025-08-24,Chennai,Mumbai,791.4,230.45,Bike,Pharma,Clear,3987.12,7,6.0,On-Time
+SC11512,2025-08-27,Bengaluru,Chennai,215.7,163.54,Mini Truck,Apparel,Rain,5562.69,7,3.0,On-Time
+SC11513,2025-09-23,Chennai,Bengaluru,539.3,503.58,Bike,Pharma,Clear,1599.22,6,5.0,On-Time
+SC11514,2025-12-25,Delhi,Mumbai,46.4,275.84,Heavy Truck,Apparel,Clear,5153.12,6,1.0,On-Time
+SC11515,2025-12-06,Mumbai,Chennai,95.3,597.65,Heavy Truck,Pharma,Clear,5534.7,3,2.0,On-Time
+SC11516,2025-03-06,Chennai,Hyderabad,8.1,112.48,Heavy Truck,Pharma,Clear,5426.72,2,1.0,On-Time
+SC11517,2025-06-26,Delhi,Hyderabad,799.6,622.37,Heavy Truck,Groceries,Clear,5719.65,4,6.0,Delayed
+SC11518,2025-01-03,Mumbai,Mumbai,642.8,269.49,Van,Electronics,Clear,5076.34,3,6.0,Delayed
+SC11519,2025-05-22,Hyderabad,Hyderabad,630.4,0.73,Mini Truck,Pharma,Clear,3621.89,3,4.0,Delayed
+SC11520,2025-06-07,Chennai,Delhi,410.2,121.03,Van,Furniture,Rain,2547.6,1,5.0,Delayed
+SC11521,2025-11-20,Chennai,Mumbai,243.6,886.97,Mini Truck,Groceries,Rain,3026.37,5,4.0,On-Time
+SC11522,2025-05-26,Hyderabad,Chennai,125.3,824.05,Mini Truck,Electronics,Rain,5254.78,3,3.0,On-Time
+SC11523,2025-10-20,Hyderabad,Mumbai,231.3,222.31,Bike,Groceries,Rain,1913.18,3,2.0,On-Time
+SC11524,2025-06-02,Chennai,Bengaluru,303.9,739.56,Heavy Truck,Electronics,Rain,1081.68,6,4.0,On-Time
+SC11525,2025-07-12,Hyderabad,Mumbai,606.3,578.34,Mini Truck,Apparel,Rain,973.79,4,6.0,Delayed
+SC11526,2025-03-14,Bengaluru,Hyderabad,434.0,922.37,Heavy Truck,Pharma,Rain,4987.92,3,5.0,Delayed
+SC11527,2025-11-01,Mumbai,Hyderabad,66.6,355.24,Heavy Truck,Furniture,Rain,4604.69,7,3.0,On-Time
+SC11528,2025-12-10,Mumbai,Delhi,19.3,647.55,Heavy Truck,Groceries,Clear,3061.23,4,2.0,On-Time
+SC11529,2025-05-20,Mumbai,Delhi,86.4,60.83,Van,Groceries,Clear,1758.0,5,2.0,On-Time
+SC11530,2025-07-06,Bengaluru,Delhi,331.3,376.74,Heavy Truck,Groceries,Rain,4114.04,7,4.0,On-Time
+SC11531,2025-10-20,Hyderabad,Chennai,746.9,915.64,Mini Truck,Groceries,Clear,374.83,6,6.0,On-Time
+SC11532,2025-03-02,Delhi,Delhi,511.7,512.26,Van,Pharma,Clear,3474.13,7,4.0,On-Time
+SC11533,2025-07-17,Hyderabad,Chennai,642.5,273.84,Heavy Truck,Electronics,Clear,2480.79,1,5.0,Delayed
+SC11534,2025-10-22,Chennai,Delhi,375.8,114.7,Bike,Pharma,Clear,5870.48,1,4.0,Delayed
+SC11535,2025-11-15,Mumbai,Chennai,292.5,668.5,Heavy Truck,Apparel,Storm,3119.23,5,5.0,On-Time
+SC11536,2025-10-29,Hyderabad,Mumbai,91.2,612.79,Heavy Truck,Pharma,Clear,3380.77,5,3.0,On-Time
+SC11537,2025-12-10,Delhi,Mumbai,701.4,355.55,Van,Pharma,Clear,4317.32,7,6.0,On-Time
+SC11538,2025-01-11,Chennai,Hyderabad,627.6,903.42,Mini Truck,Apparel,Clear,2984.55,6,5.0,On-Time
+SC11539,2025-03-03,Bengaluru,Chennai,138.7,21.58,Heavy Truck,Pharma,Rain,1463.73,6,3.0,On-Time
+SC11540,2025-11-29,Bengaluru,Bengaluru,412.2,288.89,Van,Electronics,Clear,3293.08,2,3.0,Delayed
+SC11541,2025-08-14,Delhi,Hyderabad,392.5,875.06,Van,Furniture,Rain,5673.97,3,5.0,Delayed
+SC11542,2025-06-02,Chennai,Mumbai,501.9,305.23,Mini Truck,Apparel,Rain,2547.98,3,5.0,Delayed
+SC11543,2025-07-18,Mumbai,Chennai,757.2,240.01,Van,Groceries,Clear,4125.9,3,5.0,Delayed
+SC11544,2025-02-21,Hyderabad,Delhi,465.9,507.74,Mini Truck,Electronics,Clear,5871.5,4,5.0,Delayed
+SC11545,2025-09-17,Chennai,Bengaluru,434.5,782.7,Bike,Furniture,Clear,5005.05,2,4.0,Delayed
+SC11546,2025-02-28,Bengaluru,Mumbai,45.0,98.44,Heavy Truck,Electronics,Rain,4005.35,7,2.0,On-Time
+SC11547,2025-03-13,Delhi,Hyderabad,55.0,895.9,Van,Electronics,Rain,4455.58,3,3.0,On-Time
+SC11548,2025-05-28,Delhi,Chennai,153.9,755.42,Bike,Groceries,Clear,5628.43,4,1.0,On-Time
+SC11549,2025-12-15,Hyderabad,Bengaluru,30.8,172.6,Van,Furniture,Clear,5764.55,4,1.0,On-Time
+SC11550,2025-03-04,Delhi,Chennai,596.0,676.55,Van,Electronics,Clear,5818.46,1,6.0,Delayed
+SC11551,2025-11-06,Delhi,Delhi,580.0,366.02,Bike,Groceries,Rain,3810.0,4,5.0,Delayed
+SC11552,2025-08-31,Chennai,Hyderabad,113.2,382.48,Van,Apparel,Clear,2400.56,5,2.0,On-Time
+SC11553,2025-11-26,Mumbai,Chennai,669.7,744.23,Van,Groceries,Clear,928.95,6,6.0,On-Time
+SC11554,2025-04-17,Hyderabad,Mumbai,128.1,914.66,Bike,Pharma,Clear,2405.46,4,3.0,On-Time
+SC11555,2025-08-14,Chennai,Hyderabad,244.4,120.76,Van,Groceries,Rain,5666.29,5,4.0,On-Time
+SC11556,2025-11-09,Mumbai,Mumbai,202.9,399.89,Mini Truck,Groceries,Rain,5355.31,5,3.0,On-Time
+SC11557,2025-08-06,Chennai,Chennai,301.0,457.15,Van,Groceries,Clear,3213.41,1,3.0,Delayed
+SC11558,2025-08-29,Chennai,Hyderabad,207.5,357.81,Heavy Truck,Electronics,Rain,3291.49,7,3.0,On-Time
+SC11559,2025-09-16,Delhi,Mumbai,393.7,345.35,Van,Furniture,Clear,1957.18,1,4.0,Delayed
+SC11560,2025-09-19,Mumbai,Delhi,328.9,50.13,Heavy Truck,Groceries,Storm,2808.87,4,5.0,Delayed
+SC11561,2025-01-05,Hyderabad,Delhi,789.3,651.42,Heavy Truck,Groceries,Clear,4329.52,1,7.0,Delayed
+SC11562,2025-09-18,Hyderabad,Chennai,49.5,414.69,Van,Pharma,Rain,2504.22,1,2.0,Delayed
+SC11563,2025-02-23,Mumbai,Hyderabad,118.0,185.46,Bike,Pharma,Clear,1249.71,7,3.0,On-Time
+SC11564,2025-02-16,Delhi,Bengaluru,47.0,775.32,Mini Truck,Apparel,Clear,3314.03,6,2.0,On-Time
+SC11565,2025-08-03,Bengaluru,Hyderabad,502.5,762.53,Mini Truck,Apparel,Rain,1468.22,3,5.0,Delayed
+SC11566,2025-06-26,Chennai,Delhi,48.3,462.33,Van,Pharma,Clear,5849.58,4,2.0,On-Time
+SC11567,2025-01-09,Delhi,Mumbai,670.0,283.88,Bike,Furniture,Clear,2433.49,7,6.0,On-Time
+SC11568,2025-04-09,Mumbai,Bengaluru,412.0,606.37,Bike,Apparel,Clear,5471.54,4,4.0,On-Time
+SC11569,2025-01-20,Chennai,Chennai,424.0,274.1,Mini Truck,Furniture,Clear,1469.49,4,3.0,On-Time
+SC11570,2025-08-29,Hyderabad,Bengaluru,451.5,224.59,Bike,Pharma,Clear,1256.87,1,4.0,Delayed
+SC11571,2025-03-02,Bengaluru,Chennai,140.8,694.12,Van,Apparel,Clear,3758.87,6,3.0,On-Time
+SC11572,2025-06-27,Hyderabad,Bengaluru,162.2,38.79,Van,Groceries,Rain,4709.37,1,2.0,Delayed
+SC11573,2025-12-04,Mumbai,Chennai,258.5,90.48,Bike,Pharma,Rain,3465.57,5,3.0,On-Time
+SC11574,2025-03-03,Chennai,Chennai,476.8,6.95,Van,Apparel,Clear,1494.3,2,4.0,Delayed
+SC11575,2025-05-25,Mumbai,Bengaluru,172.0,145.72,Heavy Truck,Furniture,Clear,371.68,2,1.0,On-Time
+SC11576,2025-08-04,Chennai,Bengaluru,97.5,66.01,Mini Truck,Furniture,Fog,3766.99,7,3.0,On-Time
+SC11577,2025-01-03,Delhi,Chennai,776.2,946.01,Van,Apparel,Clear,916.57,2,7.0,Delayed
+SC11578,2025-06-09,Bengaluru,Delhi,22.5,274.73,Bike,Furniture,Clear,2157.58,7,1.0,On-Time
+SC11579,2025-08-15,Delhi,Bengaluru,643.1,142.23,Mini Truck,Apparel,Rain,4103.34,3,6.0,Delayed
+SC11580,2025-09-26,Delhi,Hyderabad,631.5,229.33,Van,Apparel,Rain,723.44,1,4.0,Delayed
+SC11581,2025-04-30,Mumbai,Mumbai,241.3,889.35,Mini Truck,Furniture,Clear,894.42,5,3.0,On-Time
+SC11582,2025-03-30,Bengaluru,Chennai,112.8,494.39,Bike,Electronics,Clear,510.75,5,2.0,On-Time
+SC11583,2025-11-25,Chennai,Chennai,120.8,346.89,Heavy Truck,Groceries,Clear,5977.06,2,1.0,On-Time
+SC11584,2025-03-09,Chennai,Mumbai,559.5,829.79,Heavy Truck,Pharma,Storm,2414.4,6,8.0,Delayed
+SC11585,2025-12-23,Hyderabad,Delhi,516.0,375.54,VAN,Groceries,Clear,5448.9,3,5.0,Delayed
+SC11586,2025-04-08,Chennai,Mumbai,627.3,318.59,Heavy Truck,Pharma,Storm,1867.48,7,8.0,Delayed
+SC11587,2025-09-24,Mumbai,Bengaluru,750.3,197.31,Van,Pharma,Clear,4556.24,3,5.0,Delayed
+SC11588,2025-04-15,Delhi,Mumbai,555.1,359.22,Mini Truck,Groceries,Clear,1431.54,2,5.0,Delayed
+SC11589,2025-11-19,Delhi,Chennai,128.9,301.19,Van,Apparel,Clear,3065.2,7,3.0,On-Time
+SC11590,2025-05-03,Delhi,Mumbai,198.5,643.6,Van,Furniture,Rain,4974.0,7,4.0,On-Time
+SC11591,2025-01-29,Bengaluru,Hyderabad,674.5,275.46,Van,Electronics,Clear,4925.56,2,5.0,Delayed
+SC11592,2025-05-17,Chennai,Bengaluru,171.4,548.55,Heavy Truck,Electronics,Clear,4796.54,1,2.0,Delayed
+SC11593,2025-07-14,Mumbai,Mumbai,62.7,63.06,Van,Electronics,Fog,4968.85,6,2.0,On-Time
+SC11594,2025-08-14,Bengaluru,Chennai,564.1,182.13,Bike,Groceries,Storm,1387.11,3,6.0,Delayed
+SC11595,2025-11-28,Hyderabad,Bengaluru,325.0,387.33,Van,Groceries,Clear,2970.97,5,3.0,On-Time
+SC11596,2025-06-19,Mumbai,Chennai,736.4,890.13,Mini Truck,Apparel,Clear,2986.5,2,5.0,Delayed
+SC11597,2025-01-09,Mumbai,Delhi,522.0,358.7,Bike,Electronics,Rain,5359.44,1,5.0,Delayed
+SC11598,2025-02-09,Mumbai,Hyderabad,76.9,631.04,Mini Truck,Apparel,Rain,1886.82,5,2.0,On-Time
+SC11599,2025-01-25,Delhi,Delhi,758.5,242.71,Mini Truck,Electronics,Clear,5599.25,3,5.0,Delayed
+SC11600,2025-09-18,Mumbai,Hyderabad,210.6,121.12,Mini Truck,Groceries,Fog,2787.16,2,3.0,Delayed
+SC11601,2025-08-14,Chennai,Mumbai,273.1,56.08,Bike,Furniture,Clear,4068.25,7,3.0,On-Time
+SC11602,2025-05-04,Mumbai,Bengaluru,324.8,290.49,Bike,Furniture,Rain,1722.97,6,4.0,On-Time
+SC11603,2025-02-07,Delhi,Mumbai,45.7,150.2,Heavy Truck,Furniture,Clear,2550.24,2,1.0,On-Time
+SC11604,2025-11-24,Mumbai,Hyderabad,399.7,165.72,Bike,Furniture,Clear,4302.34,6,3.0,On-Time
+SC11605,2025-09-08,Hyderabad,Hyderabad,103.0,722.84,Van,Pharma,Clear,3149.57,1,2.0,Delayed
+SC11606,2025-06-25,Hyderabad,Hyderabad,323.8,15.54,Mini Truck,Electronics,Rain,5594.64,1,4.0,Delayed
+SC11607,2025-03-31,Delhi,Chennai,283.8,530.14,Heavy Truck,Furniture,Storm,4462.18,3,6.0,Delayed
+SC11608,2025-02-06,Chennai,Bengaluru,619.4,360.8,Bike,Pharma,Clear,3451.76,6,5.0,On-Time
+SC11609,2025-11-12,Chennai,Mumbai,643.5,481.47,Mini Truck,Pharma,Clear,5337.02,2,6.0,Delayed
+SC11610,2025-06-25,Bengaluru,Mumbai,127.0,534.91,Bike,Pharma,Clear,4043.5,1,3.0,Delayed
+SC11611,2025-10-11,Delhi,Delhi,296.4,298.04,Heavy Truck,Apparel,Fog,3936.82,2,5.0,Delayed
+SC11612,2025-03-22,Mumbai,Hyderabad,301.8,280.71,Bike,Apparel,Storm,1591.27,3,5.0,Delayed
+SC11613,2025-04-24,Delhi,Hyderabad,125.4,696.87,Bike,Pharma,Rain,2459.91,6,3.0,On-Time
+SC11614,2025-02-09,Bengaluru,Hyderabad,639.8,827.78,Mini Truck,Furniture,Clear,4147.33,2,4.0,Delayed
+SC11615,2025-10-28,Delhi,Mumbai,567.2,183.36,Van,Electronics,Storm,5366.98,5,7.0,Delayed
+SC11616,2025-08-12,Delhi,Delhi,156.4,93.19,Bike,Groceries,Clear,1995.95,2,2.0,On-Time
+SC11617,2025-11-14,Bengaluru,Chennai,296.5,852.96,Heavy Truck,Apparel,Clear,1410.59,4,5.0,Delayed
+SC11618,2025-12-15,Chennai,Bengaluru,,,Bike,Furniture,,,4,1.0,On-Time
+SC11619,2025-04-25,Mumbai,Chennai,504.4,523.98,Bike,Furniture,Clear,543.1,7,5.0,On-Time
+SC11620,2025-07-05,Bengaluru,Mumbai,101.5,341.89,Van,Groceries,Rain,4330.07,3,2.0,On-Time
+SC11621,2025-11-19,Hyderabad,Hyderabad,788.8,119.95,Mini Truck,Groceries,Rain,4263.36,3,6.0,Delayed
+SC11622,2025-02-25,Chennai,Bengaluru,625.6,560.07,Heavy Truck,Furniture,Clear,2226.55,3,4.0,Delayed
+SC11623,2025-02-09,Hyderabad,Mumbai,315.2,499.12,Mini Truck,Groceries,Clear,5372.16,5,4.0,On-Time
+SC11624,2025-12-20,Chennai,Mumbai,,,Mini Truck,Furniture,,,6,4.0,On-Time
+SC11625,2025-02-09,Mumbai,Mumbai,729.5,429.55,Mini Truck,Groceries,Clear,3927.72,5,5.0,On-Time
+SC11626,2025-12-13,Mumbai,Bengaluru,445.5,757.2,VAN,Groceries,Clear,1376.03,7,4.0,On-Time
+SC11627,2025-08-25,Delhi,Bengaluru,143.7,561.11,Van,Furniture,Clear,2591.44,2,2.0,On-Time
+SC11628,2025-10-16,Hyderabad,Delhi,306.1,92.52,Bike,Pharma,Rain,5195.14,1,3.0,Delayed
+SC11629,2025-09-19,Chennai,Delhi,675.3,520.85,Heavy Truck,Furniture,Fog,1395.7,6,7.0,Delayed
+SC11630,2025-08-04,Mumbai,Chennai,517.1,667.75,Van,Electronics,Fog,2434.86,4,6.0,Delayed
+SC11631,2025-05-27,Bengaluru,Bengaluru,522.3,753.17,Mini Truck,Groceries,Storm,2010.75,4,7.0,Delayed
+SC11632,2025-12-02,Mumbai,Bengaluru,694.1,597.85,Van,Apparel,Rain,1033.99,7,6.0,On-Time
+SC11633,2025-06-17,Bengaluru,Bengaluru,715.7,145.45,Heavy Truck,Groceries,Clear,1844.85,4,7.0,Delayed
+SC11634,2025-04-02,Chennai,Delhi,736.2,674.81,Bike,Electronics,Fog,1511.72,7,7.0,On-Time
+SC11635,2025-12-19,Mumbai,Mumbai,80.4,643.64,Bike,Apparel,Clear,5553.02,2,2.0,On-Time
+SC11636,2025-02-28,Mumbai,Hyderabad,,,Mini Truck,Apparel,,,2,5.0,Delayed
+SC11637,2025-02-28,Chennai,Delhi,593.7,391.45,Bike,Furniture,Clear,1999.19,3,5.0,Delayed
+SC11638,2025-10-31,Mumbai,Bengaluru,606.8,316.64,Bike,Pharma,Rain,4615.53,1,6.0,Delayed
+SC11639,2025-06-18,Bengaluru,Delhi,487.3,636.11,Heavy Truck,Furniture,Clear,279.52,3,5.0,Delayed
+SC11640,2025-09-26,Mumbai,Chennai,137.6,205.72,Van,Apparel,Clear,3230.17,2,2.0,On-Time
+SC11641,2025-12-29,Hyderabad,Bengaluru,638.9,561.53,Bike,Apparel,Clear,1614.46,5,5.0,On-Time
+SC11642,2025-02-14,Delhi,Chennai,577.5,867.59,Heavy Truck,Pharma,Clear,818.78,3,5.0,Delayed
+SC11643,2025-12-11,Bengaluru,Bengaluru,73.5,758.01,Heavy Truck,Groceries,Storm,5319.99,6,5.0,On-Time
+SC11644,2025-06-30,Hyderabad,Delhi,373.7,875.42,Mini Truck,Pharma,Clear,1316.14,2,5.0,Delayed
+SC11645,2025-06-19,Chennai,Mumbai,143.3,929.59,Heavy Truck,Furniture,Clear,4960.99,2,2.0,On-Time
+SC11646,2025-12-22,Bengaluru,Hyderabad,273.3,10.63,Mini Truck,Groceries,Fog,2567.35,5,3.0,On-Time
+SC11647,2025-07-10,Delhi,Chennai,19.4,591.79,Bike,Furniture,Rain,233.6,5,2.0,On-Time
+SC11648,2025-06-04,Delhi,Delhi,323.3,392.49,Mini Truck,Pharma,Clear,4435.32,5,4.0,On-Time
+SC11649,2025-07-07,Chennai,Mumbai,442.2,816.93,Heavy Truck,Groceries,Clear,3638.7,1,5.0,Delayed
+SC11650,2025-01-07,Chennai,Delhi,497.6,239.6,Van,Pharma,Clear,2163.41,6,3.0,On-Time
+SC11651,2025-05-13,Bengaluru,Chennai,532.5,931.99,Van,Electronics,Fog,1797.04,2,8.0,Delayed
+SC11652,2025-08-23,Mumbai,Hyderabad,669.9,583.22,Bike,Apparel,Rain,581.09,5,6.0,Delayed
+SC11653,2025-02-14,Chennai,Delhi,176.3,753.96,Bike,Groceries,Storm,5657.34,1,6.0,Delayed
+SC11654,2025-11-10,Mumbai,Bengaluru,100.8,81.78,Van,Apparel,Clear,3039.81,4,2.0,On-Time
+SC11655,2025-09-06,Hyderabad,Mumbai,682.0,174.69,Mini Truck,Electronics,Clear,650.32,6,4.0,On-Time
+SC11656,2025-01-31,Delhi,Delhi,129.5,720.6,Bike,Groceries,Clear,5231.78,7,2.0,On-Time
+SC11657,2025-01-23,Mumbai,Mumbai,779.9,21.38,Heavy Truck,Apparel,Rain,1781.17,7,6.0,On-Time
+SC11658,2025-06-09,Delhi,Bengaluru,674.8,776.13,Bike,Apparel,Clear,1341.08,4,5.0,Delayed
+SC11659,2025-12-29,Mumbai,Hyderabad,403.2,13.74,Mini Truck,Groceries,Clear,1793.48,4,3.0,On-Time
+SC11660,2025-06-07,Hyderabad,Hyderabad,785.2,624.43,Bike,Apparel,Clear,3452.74,2,5.0,Delayed
+SC11661,2025-02-08,Chennai,Bengaluru,82.4,347.16,Heavy Truck,Apparel,Clear,583.23,1,2.0,Delayed
+SC11662,2025-03-23,Hyderabad,Mumbai,245.9,581.11,Heavy Truck,Groceries,Rain,2968.28,1,5.0,Delayed
+SC11663,2025-12-22,Chennai,Delhi,512.4,661.38,Heavy Truck,Apparel,Clear,5390.1,4,5.0,Delayed
+SC11664,2025-09-15,Chennai,Bengaluru,283.3,325.68,Mini Truck,Apparel,Clear,1250.8,6,3.0,On-Time
+SC11665,2025-07-25,Delhi,Chennai,743.1,103.01,Mini Truck,Furniture,Clear,2087.45,3,5.0,Delayed
+SC11666,2025-03-18,Hyderabad,Mumbai,57.2,66.63,Heavy Truck,Furniture,Fog,2467.31,4,2.0,On-Time
+SC11667,2025-01-12,Mumbai,Hyderabad,441.8,559.69,Heavy Truck,Electronics,Clear,3579.39,2,5.0,Delayed
+SC11668,2025-10-22,Hyderabad,Bengaluru,474.7,494.86,Mini Truck,Furniture,Clear,5527.64,4,4.0,On-Time
+SC11669,2025-08-12,Delhi,Hyderabad,523.9,705.22,Mini Truck,Furniture,Clear,2458.05,6,5.0,On-Time
+SC11670,2025-01-13,Chennai,Mumbai,208.3,484.49,Mini Truck,Electronics,Clear,554.54,6,3.0,On-Time
+SC11671,2025-02-15,Delhi,Hyderabad,294.8,401.61,Van,Apparel,Fog,2185.51,4,5.0,Delayed
+SC11672,2025-06-04,Bengaluru,Bengaluru,675.7,378.48,Mini Truck,Apparel,Clear,1262.0,1,5.0,Delayed
+SC11673,2025-04-23,Bengaluru,Mumbai,160.0,25.61,Heavy Truck,Furniture,Fog,3962.88,4,3.0,On-Time
+SC11674,2025-08-21,Mumbai,Chennai,662.4,319.11,Van,Electronics,Clear,321.18,5,5.0,On-Time
+SC11675,2025-01-17,Delhi,Bengaluru,452.3,927.23,Mini Truck,Apparel,Fog,1857.79,5,7.0,Delayed
+SC11676,2025-12-26,Mumbai,Delhi,610.9,829.94,Heavy Truck,Pharma,Rain,3339.27,3,6.0,Delayed
+SC11677,2025-08-11,Mumbai,Bengaluru,572.3,313.24,Bike,Groceries,Clear,1772.41,2,4.0,Delayed
+SC11678,2025-12-20,Bengaluru,Mumbai,,,Van,Groceries,,,2,3.0,Delayed
+SC11679,2025-07-07,Mumbai,Bengaluru,457.2,805.01,Heavy Truck,Groceries,Clear,821.07,7,3.0,On-Time
+SC11680,2025-12-10,Bengaluru,Chennai,694.8,419.49,Bike,Furniture,Clear,5665.41,1,5.0,Delayed
+SC11681,2025-12-31,Chennai,Chennai,348.5,17.55,Heavy Truck,Groceries,Clear,1851.8,2,4.0,Delayed
+SC11682,2025-06-12,Delhi,Delhi,,,Mini Truck,Groceries,,,3,6.0,Delayed
+SC11683,2025-11-22,Mumbai,Hyderabad,364.5,485.12,Mini Truck,Pharma,Rain,2056.14,5,4.0,On-Time
+SC11684,2025-03-15,Bengaluru,Mumbai,118.5,920.98,Bike,Apparel,Clear,4723.77,1,4.0,Delayed
+SC11685,2025-08-21,Hyderabad,Mumbai,314.6,658.7,Mini Truck,Pharma,Rain,1590.2,6,5.0,On-Time
+SC11686,2025-08-12,Mumbai,Hyderabad,761.6,67.83,Heavy Truck,Furniture,Clear,4068.15,5,6.0,Delayed
+SC11687,2025-11-15,Chennai,Chennai,259.2,180.3,Bike,Groceries,Clear,2043.74,3,2.0,On-Time
+SC11688,2025-03-01,Chennai,Chennai,,,Heavy Truck,Apparel,,,1,6.0,Delayed
+SC11689,2025-12-01,Hyderabad,Bengaluru,705.6,799.45,Heavy Truck,Groceries,Rain,4091.81,4,7.0,Delayed
+SC11690,2025-08-10,Bengaluru,Delhi,283.4,587.0,Heavy Truck,Groceries,Rain,3594.96,2,4.0,Delayed
+SC11691,2025-02-06,Mumbai,Delhi,71.2,612.38,Mini Truck,Furniture,Rain,3521.24,3,4.0,Delayed
+SC11692,2025-10-05,Bengaluru,Delhi,581.0,27.41,Mini Truck,Groceries,Fog,534.23,1,5.0,Delayed
+SC11693,2025-07-15,Chennai,Bengaluru,252.7,787.19,Heavy Truck,Electronics,Clear,1607.1,5,3.0,On-Time
+SC11694,2025-12-18,Bengaluru,Delhi,627.4,748.97,Van,Apparel,Rain,3495.26,1,7.0,Delayed
+SC11695,2025-08-30,Chennai,Hyderabad,356.9,246.45,Heavy Truck,Apparel,Clear,257.16,4,3.0,On-Time
+SC11696,2025-11-20,Bengaluru,Bengaluru,390.8,673.39,Heavy Truck,Electronics,Clear,1616.27,3,5.0,Delayed
+SC11697,2025-08-07,Hyderabad,Hyderabad,623.4,204.5,Bike,Furniture,Clear,1490.73,1,5.0,Delayed
+SC11698,2025-07-11,Delhi,Bengaluru,309.0,38.79,Heavy Truck,Groceries,Clear,1611.66,6,3.0,On-Time
+SC11699,2025-01-17,Hyderabad,Delhi,,,Mini Truck,Groceries,,,3,2.0,On-Time
+SC11700,2025-01-12,Hyderabad,Hyderabad,304.1,170.11,Bike,Apparel,Fog,3554.47,3,4.0,Delayed
+SC11701,2025-07-12,Delhi,Hyderabad,,,Van,Furniture,,,5,5.0,On-Time
+SC11702,2025-01-22,Delhi,Hyderabad,423.1,397.82,Bike,Furniture,Clear,2408.28,7,4.0,On-Time
+SC11703,2025-04-30,Mumbai,Bengaluru,648.0,483.36,Van,Furniture,Clear,5570.49,2,5.0,Delayed
+SC11704,2025-07-29,Mumbai,Mumbai,292.6,453.18,Bike,Groceries,Clear,3963.93,7,4.0,On-Time
+SC11705,2025-11-02,Hyderabad,Delhi,421.8,257.51,Bike,Furniture,Clear,5489.06,6,3.0,On-Time
+SC11706,2025-09-27,Hyderabad,Hyderabad,538.2,28.2,Van,Electronics,Rain,5025.81,4,6.0,Delayed
+SC11707,2025-07-11,Chennai,Mumbai,219.2,575.04,Mini Truck,Pharma,Clear,4172.36,1,2.0,Delayed
+SC11708,2025-06-24,Chennai,Delhi,225.6,376.26,Mini Truck,Furniture,Clear,2233.22,7,3.0,On-Time
+SC11709,2025-10-12,Mumbai,Delhi,747.1,284.09,Mini Truck,Pharma,Fog,1560.5,2,8.0,Delayed
+SC11710,2025-07-23,Mumbai,Hyderabad,580.2,823.66,Bike,Groceries,Rain,1450.99,5,5.0,On-Time
+SC11711,2025-06-13,Chennai,Hyderabad,463.9,709.53,Heavy Truck,Furniture,Rain,5720.22,2,5.0,Delayed
+SC11712,2025-09-08,Chennai,Bengaluru,519.9,814.95,Bike,Apparel,Rain,5757.66,3,6.0,Delayed
+SC11713,2025-08-15,Bengaluru,Mumbai,28.3,470.49,Heavy Truck,Groceries,Clear,4390.26,3,1.0,On-Time
+SC11714,2025-01-07,Bengaluru,Mumbai,496.4,124.82,Heavy Truck,Electronics,Clear,5320.21,4,4.0,On-Time
+SC11715,2025-01-29,Chennai,Hyderabad,410.1,661.56,Mini Truck,Electronics,Rain,5526.13,6,5.0,On-Time
+SC11716,2025-02-02,Bengaluru,Delhi,438.9,196.17,Heavy Truck,Pharma,Rain,3142.6,1,5.0,Delayed
+SC11717,2025-05-14,Delhi,Hyderabad,290.7,419.45,Bike,Pharma,Clear,3830.0,1,3.0,Delayed
+SC11718,2025-03-20,Mumbai,Delhi,69.8,62.22,Bike,Apparel,Clear,2599.71,5,1.0,On-Time
+SC11719,2025-02-27,Mumbai,Delhi,158.7,784.13,Mini Truck,Apparel,Rain,2598.17,4,3.0,On-Time
+SC11720,2025-01-26,Chennai,Hyderabad,760.8,120.08,Van,Electronics,Clear,374.81,1,5.0,Delayed
+SC11721,2025-08-14,Hyderabad,Chennai,329.9,857.99,Bike,Furniture,Clear,2687.86,6,4.0,On-Time
+SC11722,2025-10-12,Chennai,Mumbai,376.0,821.09,Heavy Truck,Electronics,Clear,4089.92,3,4.0,Delayed
+SC11723,2025-01-04,Bengaluru,Delhi,46.9,441.62,Bike,Electronics,Clear,2618.6,4,1.0,On-Time
+SC11724,2025-04-09,Hyderabad,Delhi,34.9,707.28,Bike,Apparel,Clear,5253.6,2,2.0,On-Time
+SC11725,2025-02-08,Bengaluru,Chennai,575.2,588.66,Bike,Pharma,Clear,2095.49,7,5.0,On-Time
+SC11726,2025-09-28,Delhi,Bengaluru,432.8,763.02,Van,Apparel,Rain,926.19,7,5.0,On-Time
+SC11727,2025-10-12,Bengaluru,Chennai,409.4,410.5,Heavy Truck,Apparel,Clear,4897.62,4,4.0,On-Time
+SC11728,2025-06-06,Delhi,Chennai,,,Mini Truck,Apparel,,,4,3.0,On-Time
+SC11729,2025-03-16,Delhi,Delhi,8956.5,439.6,Bike,Electronics,Clear,31292.800000000003,6,4.0,On-Time
+SC11730,2025-10-15,Bengaluru,Mumbai,138.7,893.95,Heavy Truck,Furniture,Storm,3288.24,6,5.0,On-Time
+SC11731,2025-05-10,Bengaluru,Chennai,156.0,462.31,Heavy Truck,Electronics,Clear,2500.84,1,2.0,Delayed
+SC11732,2025-06-24,Delhi,Bengaluru,371.3,439.76,Mini Truck,Groceries,Clear,5642.33,7,3.0,On-Time
+SC11733,2025-03-25,Hyderabad,Hyderabad,232.6,745.93,Bike,Apparel,Rain,3702.89,5,3.0,On-Time
+SC11734,2025-01-22,Delhi,Chennai,201.7,780.59,Van,Apparel,Clear,1076.58,5,4.0,On-Time
+SC11735,2025-01-27,Mumbai,Chennai,518.0,526.99,Heavy Truck,Groceries,Clear,3087.57,6,4.0,On-Time
+SC11736,2025-07-14,Delhi,Bengaluru,522.5,171.22,Mini Truck,Apparel,Clear,5195.96,1,3.0,Delayed
+SC11737,2025-12-03,Hyderabad,Mumbai,660.5,444.64,Van,Apparel,Storm,4078.26,1,7.0,Delayed
+SC11738,2025-08-24,Mumbai,Chennai,337.1,919.68,Heavy Truck,Apparel,Fog,5078.34,1,5.0,Delayed
+SC11739,2025-04-02,Chennai,Chennai,63.1,715.46,Bike,Groceries,Fog,1614.84,6,4.0,On-Time
+SC11740,2025-01-21,Chennai,Mumbai,222.6,770.7,Heavy Truck,Electronics,Clear,5346.86,5,4.0,On-Time
+SC11741,2025-10-30,Hyderabad,Bengaluru,784.1,31.67,Van,Apparel,Fog,4570.33,1,7.0,Delayed
+SC11742,2025-12-23,Delhi,Chennai,479.0,444.73,Van,Furniture,Clear,4414.15,6,4.0,On-Time
+SC11743,2025-03-25,Bengaluru,Mumbai,569.2,614.47,Bike,Groceries,Rain,2177.27,2,6.0,Delayed
+SC11744,2025-09-19,Hyderabad,Chennai,10.8,788.62,Bike,Pharma,Rain,5342.8,2,2.0,On-Time
+SC11745,2025-05-27,Mumbai,Hyderabad,417.0,47.29,Mini Truck,Groceries,Clear,3882.18,3,4.0,Delayed
+SC11746,2025-09-14,Mumbai,Delhi,34.8,809.89,Bike,Electronics,Rain,5133.26,2,3.0,Delayed
+SC11747,2025-02-27,Chennai,Hyderabad,457.5,521.21,Mini Truck,Groceries,Clear,2261.68,4,5.0,Delayed
+SC11748,2025-01-15,Mumbai,Chennai,737.0,187.85,Van,Pharma,Clear,1002.06,3,6.0,Delayed
+SC11749,2025-06-11,Hyderabad,Bengaluru,774.9,301.73,Van,Furniture,Fog,2094.17,2,7.0,Delayed
+SC11750,2025-06-12,Mumbai,Delhi,434.7,268.19,Heavy Truck,Pharma,Clear,2813.3,4,4.0,On-Time
+SC11751,2025-11-16,Hyderabad,Hyderabad,369.3,504.55,Heavy Truck,Groceries,Clear,3270.43,2,4.0,Delayed
+SC11752,2025-10-08,Bengaluru,Mumbai,756.3,49.58,Mini Truck,Pharma,Clear,3138.23,6,4.0,On-Time
+SC11753,2025-10-07,Chennai,Bengaluru,540.5,151.03,Bike,Groceries,Fog,3344.42,7,5.0,On-Time
+SC11754,2025-01-12,Mumbai,Hyderabad,56.6,772.15,Bike,Furniture,Clear,5073.98,4,3.0,On-Time
+SC11755,2025-10-01,Hyderabad,Mumbai,375.3,126.41,Heavy Truck,Furniture,Clear,1145.09,1,4.0,Delayed
+SC11756,2025-09-28,Delhi,Chennai,196.0,222.11,Van,Electronics,Fog,1998.9,6,3.0,On-Time
+SC11757,2025-07-27,Chennai,Mumbai,378.5,430.98,Mini Truck,Furniture,Clear,5348.36,7,4.0,On-Time
+SC11758,2025-01-27,Bengaluru,Hyderabad,367.1,491.51,Van,Apparel,Clear,3428.68,4,3.0,On-Time
+SC11759,2025-03-13,Hyderabad,Hyderabad,467.8,725.55,Van,Pharma,Rain,3562.83,6,5.0,On-Time
+SC11760,2025-03-01,Bengaluru,Chennai,288.6,425.24,Bike,Pharma,Clear,2946.67,1,3.0,Delayed
+SC11761,2025-05-25,Bengaluru,Mumbai,,,Mini Truck,Groceries,,,4,4.0,On-Time
+SC11762,2025-04-03,Mumbai,Mumbai,405.5,587.62,Van,Furniture,Clear,1308.77,4,4.0,On-Time
+SC11763,2025-11-05,Mumbai,Chennai,665.0,107.89,Heavy Truck,Electronics,Fog,3349.17,7,7.0,On-Time
+SC11764,2025-01-08,Hyderabad,Mumbai,532.9,148.94,Heavy Truck,Electronics,Fog,5983.46,6,5.0,On-Time
+SC11765,2025-03-20,Delhi,Chennai,274.0,415.46,Bike,Electronics,Clear,3461.38,2,3.0,Delayed
+SC11766,2025-01-27,Hyderabad,Bengaluru,748.7,377.35,Heavy Truck,Apparel,Clear,409.75,4,5.0,Delayed
+SC11767,2025-06-23,Delhi,Hyderabad,730.2,706.5,Heavy Truck,Furniture,Storm,4809.15,2,8.0,Delayed
+SC11768,2025-02-19,Bengaluru,Bengaluru,171.4,551.91,Van,Electronics,Clear,2469.38,4,2.0,On-Time
+SC11769,2025-07-18,Chennai,Delhi,36.3,369.03,Heavy Truck,Apparel,Clear,1049.01,5,2.0,On-Time
+SC11770,2025-12-15,Hyderabad,Delhi,594.3,162.64,Heavy Truck,Pharma,Rain,5195.74,3,6.0,Delayed
+SC11771,2025-06-30,Hyderabad,Delhi,663.0,215.88,Van,Groceries,Rain,1308.14,2,6.0,Delayed
+SC11772,2025-01-24,Delhi,Chennai,774.5,546.94,Bike,Furniture,Rain,5536.49,2,6.0,Delayed
+SC11773,2025-11-12,Bengaluru,Mumbai,712.4,402.56,Bike,Furniture,Clear,2734.51,7,5.0,On-Time
+SC11774,2025-02-15,Bengaluru,Bengaluru,482.4,489.42,Mini Truck,Pharma,Clear,4495.33,1,4.0,Delayed
+SC11775,2025-01-15,Delhi,Bengaluru,426.4,162.56,Heavy Truck,Furniture,Fog,3349.93,5,4.0,On-Time
+SC11776,2025-06-02,Bengaluru,Bengaluru,27.1,629.93,Van,Furniture,Rain,1651.27,1,2.0,Delayed
+SC11777,2025-08-10,Mumbai,Bengaluru,201.1,809.99,Mini Truck,Furniture,Rain,4075.88,5,4.0,On-Time
+SC11778,2025-07-25,Chennai,Delhi,370.4,245.41,Bike,Furniture,Storm,5753.79,5,6.0,Delayed
+SC11779,2025-09-30,Hyderabad,Bengaluru,504.7,467.19,Bike,Apparel,Rain,4652.38,6,6.0,On-Time
+SC11780,2025-08-24,Chennai,Mumbai,448.0,926.76,Van,Apparel,Clear,3683.51,6,5.0,On-Time
+SC11781,2025-12-06,Hyderabad,Delhi,595.4,316.91,Mini Truck,Groceries,Rain,5945.17,6,5.0,On-Time
+SC11782,2025-08-16,Mumbai,Bengaluru,227.4,565.5,Mini Truck,Furniture,Clear,1702.16,4,4.0,On-Time
+SC11783,2025-01-09,Bengaluru,Chennai,454.1,86.14,Van,Pharma,Clear,514.7,7,4.0,On-Time
+SC11784,2025-06-15,Delhi,Hyderabad,75.1,575.91,Van,Electronics,Clear,337.97,1,2.0,Delayed
+SC11785,2025-11-15,Mumbai,Hyderabad,333.9,85.61,Mini Truck,Groceries,Rain,4307.52,3,4.0,Delayed
+SC11786,2025-08-02,Chennai,Hyderabad,601.4,911.29,Bike,Electronics,Storm,5006.86,5,7.0,Delayed
+SC11787,2025-04-27,Delhi,Delhi,556.3,680.02,Heavy Truck,Electronics,Clear,3865.34,5,4.0,On-Time
+SC11788,2025-12-10,Bengaluru,Bengaluru,792.6,748.86,Bike,Furniture,Clear,5444.41,7,7.0,On-Time
+SC11789,2025-03-13,Mumbai,Delhi,225.9,669.05,Van,Pharma,Clear,4233.16,2,3.0,Delayed
+SC11790,2025-03-05,Delhi,Mumbai,401.1,560.45,Mini Truck,Electronics,Rain,2320.08,4,4.0,On-Time
+SC11791,2025-07-24,Mumbai,Chennai,267.0,427.69,Mini Truck,Electronics,Rain,1210.36,3,3.0,On-Time
+SC11792,2025-07-28,Mumbai,Chennai,5329.5,815.53,Heavy Truck,Groceries,Clear,5559.19,6,3.0,On-Time
+SC11793,2025-03-13,Bengaluru,Hyderabad,686.3,909.02,Mini Truck,Pharma,Rain,756.04,5,7.0,Delayed
+SC11794,2025-10-04,Hyderabad,Hyderabad,548.9,474.33,Heavy Truck,Pharma,Clear,3326.48,2,4.0,Delayed
+SC11795,2025-10-01,Delhi,Hyderabad,706.5,884.99,Bike,Electronics,Clear,1986.95,1,7.0,Delayed
+SC11796,2025-11-16,Bengaluru,Bengaluru,166.8,554.37,Bike,Pharma,Clear,1737.78,5,3.0,On-Time
+SC11797,2025-12-04,Mumbai,Mumbai,699.3,511.7,Mini Truck,Groceries,Fog,3928.13,2,7.0,Delayed
+SC11798,2025-04-05,Bengaluru,Mumbai,52.5,432.03,Mini Truck,Groceries,Clear,1502.74,1,2.0,Delayed
+SC11799,2025-06-15,Hyderabad,Mumbai,711.4,199.22,Van,Groceries,Rain,5510.74,4,6.0,Delayed
+SC11800,2025-02-01,Delhi,Mumbai,266.6,4.03,Van,Furniture,Clear,2525.36,6,3.0,On-Time
+SC11801,2025-01-11,Hyderabad,Hyderabad,255.1,229.81,Mini Truck,Electronics,Clear,4112.65,7,2.0,On-Time
+SC11802,2025-10-28,Chennai,Chennai,412.1,484.48,Mini Truck,Pharma,Clear,4407.37,1,5.0,Delayed
+SC11803,2025-08-05,Delhi,Hyderabad,752.8,361.27,Bike,Groceries,Clear,4145.21,5,5.0,On-Time
+SC11804,2025-10-16,Hyderabad,Mumbai,43.0,426.34,Mini Truck,Electronics,Clear,5434.89,3,2.0,On-Time
+SC11805,2025-04-12,Mumbai,Hyderabad,285.0,931.63,Van,Electronics,Rain,1502.12,1,6.0,Delayed
+SC11806,2025-09-24,Delhi,Mumbai,686.0,333.08,Bike,Furniture,Clear,653.42,3,5.0,Delayed
+SC11807,2025-08-02,Delhi,Delhi,319.9,429.85,Heavy Truck,Pharma,Rain,474.47,3,4.0,Delayed
+SC11808,2025-06-28,Bengaluru,Chennai,163.3,127.27,Van,Pharma,Clear,5285.39,1,2.0,Delayed
+SC11809,2025-03-29,Mumbai,Delhi,342.7,46.04,Van,Groceries,Clear,5843.73,7,2.0,On-Time
+SC11810,2025-02-10,Chennai,Bengaluru,311.5,736.75,Bike,Groceries,Clear,1919.78,7,3.0,On-Time
+SC11811,2025-03-17,Hyderabad,Hyderabad,,,Heavy Truck,Electronics,,,4,9.0,Delayed
+SC11812,2025-02-15,Bengaluru,Bengaluru,610.7,722.79,Van,Pharma,Clear,202.14,7,6.0,On-Time
+SC11813,2025-06-09,Hyderabad,Hyderabad,,,Mini Truck,Pharma,,,1,3.0,Delayed
+SC11814,2025-03-21,Chennai,Delhi,790.8,543.45,Van,Groceries,Fog,4182.26,7,7.0,On-Time
+SC11815,2025-11-06,Chennai,Mumbai,374.9,241.33,Bike,Apparel,Clear,535.44,2,4.0,Delayed
+SC11816,2025-03-27,Delhi,Mumbai,51.3,217.04,Bike,Electronics,Rain,2890.78,6,3.0,On-Time
+SC11817,2025-04-02,Chennai,Hyderabad,213.5,11.44,Bike,Pharma,Clear,4026.11,3,2.0,On-Time
+SC11818,2025-05-28,Hyderabad,Mumbai,351.7,124.26,Van,Furniture,Rain,4630.86,6,5.0,On-Time
+SC11819,2025-06-10,Mumbai,Delhi,129.7,294.15,Heavy Truck,Furniture,Clear,2804.82,5,2.0,On-Time
+SC11820,2025-07-21,Mumbai,Mumbai,758.3,111.48,Mini Truck,Apparel,Fog,3837.16,3,6.0,Delayed
+SC11821,2025-08-30,Delhi,Delhi,,,Bike,Groceries,,,5,6.0,Delayed
+SC11822,2025-12-19,Hyderabad,Bengaluru,218.3,293.55,Heavy Truck,Groceries,Clear,455.99,2,4.0,Delayed
+SC11823,2025-01-02,Hyderabad,Delhi,474.7,124.24,Mini Truck,Groceries,Clear,4495.41,2,4.0,Delayed
+SC11824,2025-08-13,Chennai,Chennai,,,Bike,Furniture,,,6,5.0,On-Time
+SC11825,2025-10-16,Hyderabad,Chennai,753.3,558.52,Mini Truck,Groceries,Rain,336.06,2,7.0,Delayed
+SC11826,2025-08-21,Bengaluru,Chennai,705.9,61.31,Mini Truck,Furniture,Clear,2789.33,1,5.0,Delayed
+SC11827,2025-03-18,Chennai,Hyderabad,414.6,819.38,Heavy Truck,Apparel,Clear,5213.98,3,4.0,Delayed
+SC11828,2025-04-26,Bengaluru,Hyderabad,620.8,913.44,Mini Truck,Electronics,Clear,1032.35,5,5.0,On-Time
+SC11829,2025-06-03,Delhi,Hyderabad,451.9,234.79,Bike,Pharma,Clear,225.22,7,5.0,On-Time
+SC11830,2025-04-13,Mumbai,Delhi,444.4,427.87,Heavy Truck,Apparel,Clear,793.38,6,5.0,On-Time
+SC11831,2025-07-13,Delhi,Hyderabad,96.2,21.52,Van,Furniture,Clear,2277.41,6,1.0,On-Time
+SC11832,2025-06-15,Mumbai,Bengaluru,105.3,608.85,Van,Apparel,Rain,3544.01,2,2.0,On-Time
+SC11833,2025-12-25,Delhi,Chennai,426.0,393.52,Heavy Truck,Pharma,Storm,1279.12,2,6.0,Delayed
+SC11834,2025-03-31,Hyderabad,Delhi,218.7,256.92,Van,Electronics,Clear,4841.49,5,2.0,On-Time
+SC11835,2025-06-23,Bengaluru,Chennai,21.7,196.89,Mini Truck,Pharma,Rain,4556.79,3,2.0,On-Time
+SC11836,2025-05-02,Mumbai,Hyderabad,579.7,621.49,Bike,Furniture,Clear,4220.8,3,4.0,Delayed
+SC11837,2025-05-23,Chennai,Delhi,30.8,395.7,Mini Truck,Pharma,Clear,3001.7,6,2.0,On-Time
+SC11838,2025-04-16,Bengaluru,Mumbai,478.2,171.09,Heavy Truck,Apparel,Clear,2286.52,5,4.0,On-Time
+SC11839,2025-11-01,Chennai,Bengaluru,433.7,654.81,Bike,Groceries,Clear,2347.18,6,5.0,On-Time
+SC11840,2025-12-26,Bengaluru,Hyderabad,775.2,537.04,Heavy Truck,Apparel,Clear,3092.96,7,7.0,On-Time
+SC11841,2025-11-13,Bengaluru,Hyderabad,389.9,815.81,Heavy Truck,Furniture,Fog,602.29,4,6.0,Delayed
+SC11842,2025-05-03,Delhi,Bengaluru,,,Heavy Truck,Electronics,,,3,3.0,On-Time
+SC11843,2025-01-09,Mumbai,Bengaluru,443.6,746.49,Mini Truck,Pharma,Clear,2206.32,5,5.0,On-Time
+SC11844,2025-09-19,Mumbai,Mumbai,673.7,640.0,Bike,Electronics,Clear,1464.84,7,5.0,On-Time
+SC11845,2025-03-14,Bengaluru,Hyderabad,797.5,109.7,VAN,Furniture,Storm,1778.21,5,8.0,Delayed
+SC11846,2025-12-25,Hyderabad,Hyderabad,347.1,660.23,Bike,Pharma,Clear,1204.72,6,3.0,On-Time
+SC11847,2025-08-11,Hyderabad,Chennai,259.6,419.75,Mini Truck,Apparel,Rain,5424.17,2,4.0,Delayed
+SC11848,2025-02-10,Chennai,Delhi,725.8,897.76,Van,Apparel,Clear,1138.87,5,7.0,Delayed
+SC11849,2025-07-23,Chennai,Delhi,157.0,134.96,Mini Truck,Furniture,Clear,5315.12,6,3.0,On-Time
+SC11850,2025-09-21,Delhi,Chennai,494.3,610.87,Mini Truck,Pharma,Clear,3497.62,1,4.0,Delayed
+SC11851,2025-11-24,Bengaluru,Delhi,327.5,363.19,Heavy Truck,Apparel,Fog,5224.59,2,5.0,Delayed
+SC11852,2025-06-27,Chennai,Bengaluru,37.7,909.0,Bike,Furniture,Fog,2923.28,2,3.0,Delayed
+SC11853,2025-12-14,Chennai,Delhi,281.1,313.81,Bike,Furniture,Clear,5576.66,3,3.0,On-Time
+SC11854,2025-11-14,Bengaluru,Delhi,215.9,914.1,Van,Electronics,Rain,1387.22,4,4.0,On-Time
+SC11855,2025-03-25,Delhi,Chennai,550.4,856.46,Van,Apparel,Clear,3394.95,3,5.0,Delayed
+SC11856,2025-11-14,Chennai,Mumbai,759.3,257.23,Heavy Truck,Pharma,Clear,886.16,1,6.0,Delayed
+SC11857,2025-04-21,Delhi,Delhi,218.1,763.46,Bike,Apparel,Rain,2766.24,6,4.0,On-Time
+SC11858,2025-09-08,Mumbai,Delhi,650.1,945.83,Van,Apparel,Clear,3483.94,2,6.0,Delayed
+SC11859,2025-01-07,Delhi,Mumbai,49.0,240.4,Van,Apparel,Clear,3693.2,2,2.0,On-Time
+SC11860,2025-03-25,Hyderabad,Chennai,432.8,415.22,Bike,Furniture,Clear,2288.34,7,4.0,On-Time
+SC11861,2025-07-27,Hyderabad,Mumbai,61.1,494.41,Mini Truck,Groceries,Storm,596.56,5,4.0,On-Time
+SC11862,2025-11-10,Delhi,Chennai,747.6,280.54,Van,Groceries,Fog,3983.66,4,7.0,Delayed
+SC11863,2025-01-22,Hyderabad,Bengaluru,614.2,14.99,Bike,Electronics,Rain,3007.33,4,6.0,Delayed
+SC11864,2025-01-03,Mumbai,Chennai,528.1,209.51,Van,Apparel,Clear,950.74,5,4.0,On-Time
+SC11865,2025-05-07,Bengaluru,Bengaluru,660.0,268.2,Heavy Truck,Groceries,Rain,5624.87,1,5.0,Delayed
+SC11866,2025-10-24,Hyderabad,Bengaluru,519.8,421.7,Van,Electronics,Clear,5740.66,4,4.0,On-Time
+SC11867,2025-07-07,Hyderabad,Chennai,775.3,162.96,Bike,Furniture,Storm,5161.15,2,7.0,Delayed
+SC11868,2025-12-28,Delhi,Hyderabad,572.6,829.66,Van,Apparel,Clear,5086.63,1,6.0,Delayed
+SC11869,2025-01-14,Mumbai,Chennai,740.1,669.81,Heavy Truck,Pharma,Clear,727.23,3,5.0,Delayed
+SC11870,2025-01-12,Bengaluru,Delhi,416.1,81.4,Heavy Truck,Furniture,Clear,5961.51,3,4.0,Delayed
+SC11871,2025-03-28,Delhi,Delhi,98.1,617.76,Van,Electronics,Rain,2492.23,1,4.0,Delayed
+SC11872,2025-01-12,Delhi,Hyderabad,424.9,621.15,Van,Furniture,Rain,1104.26,2,3.0,Delayed
+SC11873,2025-01-25,Mumbai,Bengaluru,105.9,908.43,Heavy Truck,Pharma,Clear,4900.8,7,3.0,On-Time
+SC11874,2025-10-28,Bengaluru,Hyderabad,476.0,3.37,Heavy Truck,Furniture,Clear,1470.52,3,4.0,Delayed
+SC11875,2025-08-31,Mumbai,Delhi,388.6,235.91,Mini Truck,Electronics,Rain,3228.13,6,4.0,On-Time
+SC11876,2025-05-02,Bengaluru,Hyderabad,499.9,881.44,Mini Truck,Pharma,Clear,898.89,2,4.0,Delayed
+SC11877,2025-05-27,Mumbai,Chennai,13.0,885.56,Heavy Truck,Pharma,Rain,2926.68,5,2.0,On-Time
+SC11878,2025-02-24,Delhi,Hyderabad,159.9,684.7,Van,Furniture,Fog,3415.13,4,3.0,On-Time
+SC11879,2025-08-26,Delhi,Bengaluru,395.6,727.59,Bike,Pharma,Clear,2758.66,7,5.0,On-Time
+SC11880,2025-12-22,Chennai,Chennai,760.7,87.36,Van,Furniture,Clear,556.5,7,5.0,On-Time
+SC11881,2025-06-22,Hyderabad,Mumbai,310.0,488.43,Van,Apparel,Clear,2986.89,1,4.0,Delayed
+SC11882,2025-08-09,Mumbai,Delhi,342.4,220.39,Mini Truck,Pharma,Clear,2893.32,4,3.0,On-Time
+SC11883,2025-04-29,Chennai,Delhi,573.2,172.57,Mini Truck,Furniture,Clear,1680.48,5,4.0,On-Time
+SC11884,2025-11-05,Hyderabad,Hyderabad,485.0,769.88,Mini Truck,Apparel,Rain,5541.37,3,4.0,Delayed
+SC11885,2025-07-02,Mumbai,Chennai,242.6,128.72,Heavy Truck,Pharma,Clear,2594.09,7,2.0,On-Time
+SC11886,2025-10-15,Bengaluru,Mumbai,,,Heavy Truck,Apparel,,,6,4.0,On-Time
+SC11887,2025-11-03,Hyderabad,Chennai,178.1,891.68,Van,Pharma,Rain,791.53,2,4.0,Delayed
+SC11888,2025-10-27,Delhi,Delhi,773.0,176.95,Van,Electronics,Rain,2015.43,7,6.0,On-Time
+SC11889,2025-03-23,Chennai,Chennai,108.9,929.1,Bike,Electronics,Fog,1181.54,7,5.0,On-Time
+SC11890,2025-07-30,Hyderabad,Mumbai,300.6,944.58,Van,Furniture,Clear,2539.2,2,4.0,Delayed
+SC11891,2025-05-30,Hyderabad,Hyderabad,25.5,528.06,Van,Groceries,Rain,803.07,5,2.0,On-Time
+SC11892,2025-02-06,Delhi,Bengaluru,181.3,162.05,Mini Truck,Electronics,Fog,2730.05,1,4.0,Delayed
+SC11893,2025-12-18,Mumbai,Chennai,625.5,300.64,Mini Truck,Groceries,Clear,2220.14,7,5.0,On-Time
+SC11894,2025-11-08,Bengaluru,Bengaluru,2473.5,403.56,Mini Truck,Apparel,Clear,1456.39,7,3.0,On-Time
+SC11895,2025-12-27,Delhi,Delhi,68.7,294.2,Mini Truck,Apparel,Clear,3906.75,4,2.0,On-Time
+SC11896,2025-02-28,Bengaluru,Hyderabad,382.2,266.96,Mini Truck,Groceries,Fog,5712.83,6,5.0,On-Time
+SC11897,2025-05-11,Mumbai,Hyderabad,12.9,923.63,Bike,Furniture,Clear,1361.61,3,3.0,On-Time
+SC11898,2025-07-21,Hyderabad,Chennai,72.4,146.12,Bike,Pharma,Fog,4313.98,1,3.0,Delayed
+SC11899,2025-08-31,Bengaluru,Hyderabad,647.1,696.79,Bike,Groceries,Rain,4492.93,6,7.0,Delayed
+SC11900,2025-02-04,Chennai,Chennai,618.3,0.89,Mini Truck,Groceries,Clear,3064.01,6,5.0,On-Time
+SC11901,2025-04-03, chennai ,Chennai,732.5,566.58,Heavy Truck,Groceries,Clear,5401.36,5,6.0,Delayed
+SC11902,2025-07-26,Delhi,Bengaluru,684.3,870.19,Mini Truck,Groceries,Clear,5803.38,5,6.0,Delayed
+SC11903,2025-12-19,Mumbai,Hyderabad,548.1,273.89,Mini Truck,Groceries,Clear,2269.14,2,3.0,Delayed
+SC11904,2025-11-28,Delhi,Chennai,46.6,176.66,Bike,Furniture,Rain,3958.54,3,3.0,On-Time
+SC11905,2025-11-01,Delhi,Bengaluru,627.4,619.27,Mini Truck,Electronics,Rain,4023.94,1,5.0,Delayed
+SC11906,2025-12-16,Delhi,Mumbai,677.2,677.12,Bike,Pharma,Clear,2511.27,2,5.0,Delayed
+SC11907,2025-08-01, chennai ,Bengaluru,640.3,653.78,Mini Truck,Electronics,Rain,2003.23,7,6.0,On-Time
+SC11908,2025-06-08,Chennai,Bengaluru,409.2,303.69,Van,Groceries,Clear,5612.4,3,3.0,On-Time
+SC11909,2025-01-24,Delhi,Chennai,190.2,239.97,Heavy Truck,Electronics,Clear,4771.39,4,3.0,On-Time
+SC11910,2025-10-20,Chennai,Delhi,,,Heavy Truck,Furniture,,,4,6.0,Delayed
+SC11911,2025-01-04,Mumbai,Delhi,583.1,877.17,Bike,Apparel,Clear,851.32,2,5.0,Delayed
+SC11912,2025-08-08,Delhi,Delhi,784.7,434.72,Van,Electronics,Storm,5546.88,1,7.0,Delayed
+SC11913,2025-12-30,Chennai,Bengaluru,128.8,803.96,Heavy Truck,Pharma,Rain,626.25,3,3.0,On-Time
+SC11914,2025-01-20,Bengaluru,Chennai,184.4,429.98,Bike,Furniture,Clear,4177.26,4,3.0,On-Time
+SC11915,2025-06-01,Delhi,Hyderabad,173.4,403.46,Mini Truck,Apparel,Clear,1476.54,4,1.0,On-Time
+SC11916,2025-02-19,Delhi,Bengaluru,635.1,149.35,Mini Truck,Furniture,Clear,355.83,1,4.0,Delayed
+SC11917,2025-06-26,Mumbai,Bengaluru,153.6,405.37,Van,Groceries,Clear,498.88,2,1.0,On-Time
+SC11918,2025-04-06,Hyderabad,Chennai,58.0,510.78,Heavy Truck,Apparel,Rain,2335.1,5,3.0,On-Time
+SC11919,2025-04-15,Hyderabad,Mumbai,798.9,21.87,Mini Truck,Pharma,Fog,603.89,7,6.0,On-Time
+SC11920,2025-09-07,Mumbai,Bengaluru,24.7,422.19,Bike,Apparel,Rain,3640.34,6,3.0,On-Time
+SC11921,2025-04-27,Mumbai,Mumbai,669.0,742.4,Mini Truck,Pharma,Clear,3936.44,7,6.0,On-Time
+SC11922,2025-12-20,Mumbai,Mumbai,295.5,646.2,Mini Truck,Groceries,Clear,2334.79,3,4.0,Delayed
+SC11923,2025-08-16,Hyderabad,Delhi,674.1,603.58,Heavy Truck,Pharma,Clear,4495.84,4,5.0,Delayed
+SC11924,2025-03-07,Mumbai,Chennai,445.9,864.12,Heavy Truck,Furniture,Clear,3016.75,6,5.0,On-Time
+SC11925,2025-12-01,Chennai,Mumbai,721.8,17.62,Bike,Electronics,Clear,2666.84,6,6.0,On-Time
+SC11926,2025-09-19,Delhi,Chennai,,,Van,Furniture,,,5,6.0,Delayed
+SC11927,2025-10-22,Delhi,Delhi,12.2,748.09,Van,Furniture,Clear,2671.97,6,2.0,On-Time
+SC11928,2025-08-31,Bengaluru,Chennai,65.0,514.5,Mini Truck,Apparel,Rain,5812.14,1,2.0,Delayed
+SC11929,2025-07-05,Bengaluru,Bengaluru,204.0,308.04,Bike,Groceries,Rain,4136.23,2,4.0,Delayed
+SC11930,2025-09-03,Delhi,Mumbai,537.1,129.87,Van,Electronics,Clear,1993.98,3,4.0,Delayed
+SC11931,2025-05-05,Chennai,Chennai,711.2,843.24,Van,Pharma,Rain,4443.08,1,7.0,Delayed
+SC11932,2025-09-25,Hyderabad,Hyderabad,370.7,447.49,Mini Truck,Apparel,Clear,2082.06,2,4.0,Delayed
+SC11933,2025-05-11,Hyderabad,Chennai,487.5,834.27,Bike,Groceries,Clear,885.43,1,5.0,Delayed
+SC11934,2025-08-25,Chennai,Mumbai,154.9,556.77,Van,Electronics,Rain,2930.86,4,3.0,On-Time
+SC11935,2025-01-18,Hyderabad,Delhi,644.9,640.65,Heavy Truck,Furniture,Clear,4543.49,4,6.0,Delayed
+SC11936,2025-02-09,Mumbai,Delhi,774.0,764.15,Heavy Truck,Groceries,Fog,2359.31,5,8.0,Delayed
+SC11937,2025-01-21,Delhi,Mumbai,3277.5,626.37,Mini Truck,Groceries,Clear,5234.67,1,3.0,Delayed
+SC11938,2025-08-13,Delhi,Bengaluru,398.4,378.45,Mini Truck,Groceries,Clear,2413.67,7,3.0,On-Time
+SC11939,2025-12-21,Chennai,Bengaluru,73.5,488.19,Mini Truck,Furniture,Clear,2196.56,6,2.0,On-Time
+SC11940,2025-10-09,Hyderabad,Delhi,449.5,762.99,Mini Truck,Pharma,Rain,5989.73,4,6.0,Delayed
+SC11941,2025-01-08,Bengaluru,Delhi,404.7,355.28,Van,Apparel,Rain,2972.46,2,4.0,Delayed
+SC11942,2025-04-10,Bengaluru,Mumbai,119.8,369.02,Bike,Pharma,Rain,4860.54,5,3.0,On-Time
+SC11943,2025-08-28,Hyderabad,Bengaluru,356.4,91.36,Mini Truck,Electronics,Rain,4859.18,6,4.0,On-Time
+SC11944,2025-03-28,Bengaluru,Delhi,270.6,868.9,Mini Truck,Apparel,Clear,5569.26,3,5.0,Delayed
+SC11945,2025-10-25,Chennai,Bengaluru,419.9,86.94,Van,Electronics,Clear,646.64,1,4.0,Delayed
+SC11946,2025-01-14,Chennai,Delhi,470.6,615.97,Mini Truck,Furniture,Rain,1736.64,7,5.0,On-Time
+SC11947,2025-11-30,Hyderabad,Chennai,11.8,392.83,Mini Truck,Pharma,Clear,4641.33,4,2.0,On-Time
+SC11948,2025-01-02,Bengaluru,Hyderabad,610.0,385.64,Bike,Groceries,Storm,3441.22,7,7.0,On-Time
+SC11949,2025-10-20,Chennai,Chennai,571.8,645.73,Heavy Truck,Apparel,Clear,3423.75,6,6.0,On-Time
+SC11950,2025-11-21,Chennai,Delhi,296.2,64.21,Mini Truck,Groceries,Clear,1122.36,2,2.0,On-Time
+SC11951,2025-02-10,Mumbai,Hyderabad,47.1,564.22,Van,Electronics,Clear,1794.75,1,2.0,Delayed
+SC11952,2025-11-14,Mumbai,Hyderabad,605.2,733.54,Bike,Groceries,Fog,3199.8,7,7.0,On-Time
+SC11953,2025-11-12,Chennai,Delhi,764.4,786.89,Van,Groceries,Fog,1771.51,2,8.0,Delayed
+SC11954,2025-04-21,Hyderabad,Delhi,195.9,162.42,Bike,Furniture,Clear,1380.15,5,2.0,On-Time
+SC11955,2025-01-14,Delhi,Bengaluru,262.2,852.6,Bike,Furniture,Clear,663.37,4,3.0,On-Time
+SC11956,2025-08-19,Delhi,Delhi,151.1,623.51,Mini Truck,Pharma,Clear,1061.0,4,2.0,On-Time
+SC11957,2025-03-25,Chennai,Mumbai,463.7,837.82,Mini Truck,Electronics,Clear,4647.88,5,4.0,On-Time
+SC11958,2025-05-10,Chennai,Delhi,128.1,461.27,Mini Truck,Furniture,Storm,4354.86,2,4.0,Delayed
+SC11959,2025-08-19,Chennai,Mumbai,288.2,515.16,Heavy Truck,Furniture,Clear,418.13,7,3.0,On-Time
+SC11960,2025-11-22,Hyderabad,Delhi,,,Heavy Truck,Pharma,,,1,5.0,Delayed
+SC11961,2025-05-25,Mumbai,Bengaluru,450.3,854.96,Van,Apparel,Clear,3428.66,2,3.0,Delayed
+SC11962,2025-12-11,Chennai,Mumbai,4683.0,426.03,Mini Truck,Pharma,Clear,40747.399999999994,1,3.0,Delayed
+SC11963,2025-01-28,Chennai,Chennai,339.1,261.05,Heavy Truck,Groceries,Rain,4966.01,6,4.0,On-Time
+SC11964,2025-03-07,Bengaluru,Mumbai,451.9,373.82,Mini Truck,Groceries,Clear,4742.19,5,5.0,On-Time
+SC11965,2025-06-12,Hyderabad,Bengaluru,9.7,368.68,Heavy Truck,Furniture,Clear,5365.75,3,2.0,On-Time
+SC11966,2025-08-17,Chennai,Mumbai,67.4,272.88,Heavy Truck,Furniture,Storm,3443.15,1,4.0,Delayed
+SC11967,2025-09-18,Bengaluru,Delhi,705.6,255.52,Bike,Pharma,Clear,2209.65,4,5.0,Delayed
+SC11968,2025-06-13,Delhi,Delhi,66.9,818.08,Mini Truck,Pharma,Rain,3695.48,6,2.0,On-Time
+SC11969,2025-10-28,Chennai,Bengaluru,566.9,66.83,Mini Truck,Electronics,Clear,671.45,4,4.0,On-Time
+SC11970,2025-10-30,Chennai,Hyderabad,736.4,643.89,Heavy Truck,Groceries,Clear,206.08,6,6.0,On-Time
+SC11971,2025-10-14,Bengaluru,Delhi,220.2,164.59,Mini Truck,Pharma,Clear,250.0,4,3.0,On-Time
+SC11972,2025-01-10,Hyderabad,Chennai,299.5,327.61,Heavy Truck,Apparel,Clear,2534.13,2,3.0,Delayed
+SC11973,2025-07-14,Chennai,Bengaluru,457.3,58.94,Mini Truck,Electronics,Clear,1484.25,7,4.0,On-Time
+SC11974,2025-04-28,Delhi,Mumbai,706.0,256.84,Bike,Pharma,Clear,1070.43,2,6.0,Delayed
+SC11975,2025-09-27,Chennai,Mumbai,753.8,730.12,Mini Truck,Furniture,Clear,3749.66,2,7.0,Delayed
+SC11976,2025-03-21,Delhi,Chennai,593.0,840.82,Bike,Pharma,Clear,5971.31,7,5.0,On-Time
+SC11977,2025-04-03,Mumbai,Delhi,,,Van,Furniture,,,6,3.0,On-Time
+SC11978,2025-09-23,Mumbai,Bengaluru,537.0,440.64,Mini Truck,Furniture,Fog,3346.57,6,6.0,On-Time
+SC11979,2025-11-28,Delhi,Chennai,331.2,447.07,Mini Truck,Groceries,Clear,850.41,7,3.0,On-Time
+SC11980,2025-12-16,Hyderabad,Delhi,379.2,829.96,Mini Truck,Groceries,Clear,5615.28,4,3.0,On-Time
+SC11981,2025-12-27,Chennai,Bengaluru,44.1,724.78,Bike,Pharma,Rain,1856.77,1,2.0,Delayed
+SC11982,2025-09-14,Chennai,Mumbai,156.9,487.67,Mini Truck,Pharma,Rain,5288.29,6,3.0,On-Time
+SC11983,2025-05-13, chennai ,Bengaluru,633.5,637.37,Mini Truck,Apparel,Clear,1806.0,4,5.0,Delayed
+SC11984,2025-10-03,Delhi,Hyderabad,365.9,805.06,Heavy Truck,Electronics,Clear,4865.41,1,3.0,Delayed
+SC11985,2025-09-21,Chennai,Bengaluru,244.8,9.56,Van,Electronics,Clear,1374.88,7,2.0,On-Time
+SC11986,2025-06-20,Chennai,Hyderabad,310.3,383.04,Bike,Pharma,Clear,1862.82,2,3.0,Delayed
+SC11987,2025-01-01,Hyderabad,Bengaluru,684.2,861.93,Heavy Truck,Groceries,Fog,1275.98,6,7.0,Delayed
+SC11988,2025-11-09,Bengaluru,Hyderabad,600.5,703.43,Bike,Apparel,Rain,1695.92,3,6.0,Delayed
+SC11989,2025-03-05,Mumbai,Mumbai,221.5,515.93,Heavy Truck,Electronics,Rain,5033.96,2,3.0,Delayed
+SC11990,2025-10-11,Mumbai,Delhi,98.4,503.4,Van,Pharma,Clear,3888.34,5,2.0,On-Time
+SC11991,2025-05-01,Bengaluru,Hyderabad,205.3,330.71,Heavy Truck,Groceries,Clear,2524.4,1,2.0,Delayed
+SC11992,2025-04-17,Chennai,Hyderabad,737.0,494.73,Bike,Groceries,Fog,5833.4,3,7.0,Delayed
+SC11993,2025-06-24,Hyderabad,Mumbai,467.4,622.79,Mini Truck,Groceries,Clear,2869.44,2,4.0,Delayed
+SC11994,2025-07-23,Hyderabad,Hyderabad,429.1,397.74,Mini Truck,Furniture,Clear,5823.1,6,5.0,On-Time
+SC11995,2025-06-14,Mumbai,Chennai,479.1,678.59,Van,Groceries,Clear,1300.03,3,4.0,Delayed
+SC11996,2025-11-01,Hyderabad,Mumbai,296.0,818.24,Bike,Pharma,Clear,5442.13,4,5.0,Delayed
+SC11997,2025-04-30,Bengaluru,Chennai,646.7,147.37,Bike,Apparel,Clear,230.86,1,4.0,Delayed
+SC11998,2025-02-13,Chennai,Mumbai,421.0,429.24,Bike,Pharma,Clear,3340.02,5,4.0,On-Time
+SC11999,2025-11-08,Bengaluru,Hyderabad,97.8,387.92,Van,Groceries,Fog,2624.86,4,3.0,On-Time
+SC10278,2025-04-30,Mumbai,Delhi,92.3,896.06,Heavy Truck,Electronics,Clear,2024.63,1,4.0,Delayed
+SC10492,2025-05-27,Delhi,Delhi,340.3,225.18,Van,Electronics,Clear,2483.79,6,3.0,On-Time
+SC11266,2025-10-18,Chennai,Mumbai,504.3,893.2,Bike,Apparel,Rain,5695.15,5,4.0,On-Time
+SC10557,2025-12-21,Mumbai,Bengaluru,377.5,664.5,Heavy Truck,Electronics,Rain,5587.52,1,4.0,Delayed
+SC10871,2025-12-03,Bengaluru,Mumbai,556.2,12.62,Bike,Groceries,Clear,4987.5,3,4.0,Delayed
+SC11622,2025-02-25,Chennai,Bengaluru,625.6,560.07,Heavy Truck,Furniture,Clear,2226.55,3,4.0,Delayed
+SC10891,2025-01-14,Hyderabad,Mumbai,711.8,807.88,Van,Pharma,Rain,2798.8,5,7.0,Delayed
+SC11749,2025-06-11,Hyderabad,Bengaluru,774.9,301.73,Van,Furniture,Fog,2094.17,2,7.0,Delayed
+SC11867,2025-07-07,Hyderabad,Chennai,775.3,162.96,Bike,Furniture,Storm,5161.15,2,7.0,Delayed
+SC11798,2025-04-05,Bengaluru,Mumbai,52.5,432.03,Mini Truck,Groceries,Clear,1502.74,1,2.0,Delayed
+SC10547,2025-06-01,Chennai,Delhi,609.5,845.76,Mini Truck,Electronics,Clear,4228.74,6,6.0,On-Time
+SC11896,2025-02-28,Bengaluru,Hyderabad,382.2,266.96,Mini Truck,Groceries,Fog,5712.83,6,5.0,On-Time
+SC10840,2025-02-20,Chennai,Delhi,281.5,529.77,Heavy Truck,Apparel,Clear,1760.26,5,3.0,On-Time
+SC11920,2025-09-07,Mumbai,Bengaluru,24.7,422.19,Bike,Apparel,Rain,3640.34,6,3.0,On-Time
+SC11437,2025-12-05,Chennai,Delhi,,,Mini Truck,Pharma,,,4,2.0,On-Time
