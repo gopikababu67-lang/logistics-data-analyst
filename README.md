@@ -10,7 +10,7 @@ Logistics analytics project — data cleaning, EDA &amp; Random Forest predictiv
 Complete 4 tasks data analytics project completed during the **Logistics Data Analyst Intern** internship on Yuva Intern (NSDC).
 The project analyzes delivery performance for a simulated last-mile logistics company, **SwiftCargo Logistics Pvt. Ltd.**, culminating in a predictive model for delivery delays and data-driven optimization recommendations.
 
-GitHub: [@gopikababu67]
+GitHub: [@gopikababu67] https://github.com/gopikababu67-lang/logistics-data-analyst
 
 · LinkedIn: www.linkedin.com/in/gopikababu17
 
